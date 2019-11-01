@@ -1,0 +1,121 @@
+Electrical Part
+===============
+
+Electrical Box
+--------------
+
+Inside the electrical box
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: /diy/figures/Boitier-Electrique-Ouvert.jpg
+    :scale: 70 %
+    :align: center
+
+
+Wiring
+^^^^^^
+
+=========  ================
+Power 36V     GECKODRIVE
+=========  ================
+\-DC       1 (POWER GND)
+D+         2 (18 TO 80 VDC)
+=========  ================
+
+=========  ========================
+Power 36V  Female Connector (MOTOR)              
+=========  ========================
+GROUND     ?E?
+=========  ========================
+
+=========  ============
+Power 36V  POWER 36/12V              
+=========  ============
+\-DC       IN-
+DC+        IN+
+=========  ============
+
+=========  =============
+Power 36V  Aluminium Box
+=========  =============
+GROUND     screw
+=========  =============
+
+=================  ========================
+GECKODRIVE         Female Connector (MOTOR)
+=================  ========================
+3 (WINDING A)      A
+4 (WINDING not A)  B
+5 (WINDING B)      C
+6 (WINDING not B)  D
+=================  ========================
+
+===========  =======
+GECKODRIVE   ARDUINO
+===========  =======
+8 (DIR)      PIN 8
+9 (STEP)     PIN 9
+10 (COMMON)  GND
+===========  =======
+
+Connect a resistor of 120kOhms between pin 11 and 12 of the 
+GECKODRIVE. This will limit MOTOR current by 5A.
+
+============  =======
+POWER 36/12V  ARDUINO
+============  =======
+OUT-          GND
+OUT+          VIN
+============  =======
+
+.. image:: /diy/figures/RJ45-Show-Pin1.png
+	:scale: 70 %
+	:align: center
+
+============  =======================
+ARDUINO       RJ45 cable (inside Box)
+============  =======================
+A0            6
+A1            5
+A2            4
+A3            3
+\~3           2
+~5            1
+GND           8
+\+5V          7
+============  =======================
+
+.. image:: /diy/figures/Remote-Control-Wiring.png
+   :scale: 70 %
+   :align: center
+
+==============  ============================
+Remote-Control   RJ45 cable (Remote-Control)
+==============  ============================
+A0              6
+A1              5
+GND             8
+\+5V            7
+==============  ============================
+
+	    
+.. image:: /diy/figures/Schema-Cablage-Tableau.jpg
+    :scale: 70 %
+    :align: center
+
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	    
