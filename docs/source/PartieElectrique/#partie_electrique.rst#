@@ -7,12 +7,81 @@ Electrical Box
 Parts
 ^^^^^
 
-Spacer
+U Base
 ''''''
+
+.. image:: figures/U-Base-LM42P-DIY.PNG
+    :scale: 70 %
+    :align: center
+
+U Top
+'''''
+
+.. image:: figures/U-Top-LM42P-DIY.PNG
+    :scale: 70 %
+    :align: center
+
+U Right
+'''''''
+
+.. image:: figures/U-Right-LM42P-DIY.PNG
+    :scale: 70 %
+    :align: center
+
+
+U Left
+''''''
+
+.. image:: figures/U-Left-LM42P-DIY.PNG
+    :scale: 70 %
+    :align: center
+
+
+Spacer 6mm
+''''''''''
+
 .. image:: figures/Entretoise8_6-LM42P.PNG
     :scale: 70 %
     :align: center
 
+	    
+Square-10_12_9
+''''''''''''''
+
+.. image:: figures/Square-10_12_9-LM42P-DIY.PNG
+    :scale: 70 %
+    :align: center
+
+Countersunk Head Screw M3 x 8mm
+''''''''''''''''''''''''''''''''
+
+pris 10mm mais idéalement 8mm pour Geckodrive
+
+	    
+Countersunk Head Screw M3 x 12mm
+''''''''''''''''''''''''''''''''
+
+.. image:: figures/Countersunk-Head-Screw-M3x12mm-LM42P-DIY.PNG
+    :scale: 70 %
+    :align: center
+
+	    
+Countersunk Head Screw M3 x 16mm
+''''''''''''''''''''''''''''''''
+
+14mm pas 16mm
+
+.. image:: figures/Countersunk-Head-Screw-M3x16mm-LM42P-DIY.PNG
+    :scale: 70 %
+    :align: center
+
+	    
+Countersunk Head Screw M3 x 14mm
+''''''''''''''''''''''''''''''''
+
+pris 16mm mais idéalement 14mm pour la fixation de la cosse (terre)
+sur l'alimentation.
+	    
 
 Inside the electrical box
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -31,6 +100,7 @@ afdfd        scew M3   wer
 =========    ========  ===========
 
 .. |photo_1| replace:: bonjour
+		       
 
 Control Power 36V 
 ^^^^^^^^^^^^^^^^^^
@@ -75,27 +145,48 @@ See Video Here
 3) Tighten *Cable Gland*
 4) Tighten the *Flange* and cut it with the *Cutting Pliers*
 5) Tighten the *Terminal* on the ground wire
+6) Tighten the Phase and Neutre to *Power 36V IN*
 
    
 Fix the Power 36V
 ^^^^^^^^^^^^^^^^^
 
+Fix the Geckodrive
+^^^^^^^^^^^^^^^^^^
+
+Fix the Arduino and Power 36/12V
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: figures/Boitier-Electrique-Sans-Couvercle.PNG
+    :scale: 70 %
+    :align: center
 
 
 Wiring
 ^^^^^^
 
-=========  ================
-Power 36V     GECKODRIVE
-=========  ================
-\-DC       1 (POWER GND)
-D+         2 (18 TO 80 VDC)
-=========  ================
+.. image:: figures/Barette-Pin-Left.PNG
+    :scale: 70 %
+    :align: center
+
+	    
+.. image:: figures/Barette-Pin-Right.PNG
+    :scale: 70 %
+    :align: center	    
+
+	    
+
+=========  ================  ============
+Power 36V     GECKODRIVE     Cable Lenght
+=========  ================  ============
+\-DC       1 (POWER GND)     6cm
+D+         2 (18 TO 80 VDC)   "
+=========  ================  ============
 
 =========  ========================
 Power 36V  Female Connector (MOTOR)              
 =========  ========================
-GROUND     ?E?
+GROUND     Not connected
 =========  ========================
 
 =========  ============  ============
@@ -105,20 +196,20 @@ Power 36V  POWER 36/12V  Cable Lenght
 DC+        IN+           15cm
 =========  ============  ============
 
-=========  =============    
+=========  ===================    
 Power 36V  Aluminium Box
-=========  =============
-GROUND     screw
-=========  =============
+=========  ===================
+GROUND     screw with *Spacer*
+=========  ===================
 
-=================  ========================
-GECKODRIVE         Female Connector (MOTOR)
-=================  ========================
-3 (WINDING A)      A
-4 (WINDING not A)  B
-5 (WINDING B)      C
-6 (WINDING not B)  D
-=================  ========================
+=================  ========================  ============
+GECKODRIVE         Female Connector (MOTOR)  Cable Lenght
+=================  ========================  ============
+3 (WINDING A)      A                         15cm
+4 (WINDING not A)  B                          "
+5 (WINDING B)      C                          "
+6 (WINDING not B)  D                          "
+=================  ========================  ============
 
 ===========  =======  ============
 GECKODRIVE   ARDUINO  Cable Lenght
