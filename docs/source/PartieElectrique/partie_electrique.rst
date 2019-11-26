@@ -264,6 +264,25 @@ GND             8
     :scale: 70 %
     :align: center
 
+Connect the Amphenol Plug Male
+------------------------------
+
+1. strip the cable at 3cm
+2. strip the 4 wires and solder the wires
+3. 5cm from the edge roll up the 10-layer adhesive tape
+4. pass the cable and solder the wires in the plug in
+   counter-clockwise order 
+   
+   * black
+   * yellow
+   * red
+   * green
+
+   .. image:: figures/Wires-Plug.png
+    :scale: 100 %
+    :align: center
+5. assemble the plug and tighten the flange
+   
 	    
 
 
