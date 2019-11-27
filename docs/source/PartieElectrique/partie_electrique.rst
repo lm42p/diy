@@ -177,7 +177,7 @@ Wiring
 	    
 
 =========  ================  ============
-Power 36V     GECKODRIVE     Cable Lenght
+Power 36V     GECKODRIVE     Cable Length
 =========  ================  ============
 \-DC       1 (POWER GND)     6cm
 D+         2 (18 TO 80 VDC)   "
@@ -190,7 +190,7 @@ GROUND     Not connected
 =========  ========================
 
 =========  ============  ============
-Power 36V  POWER 36/12V  Cable Lenght            
+Power 36V  POWER 36/12V  Cable Length            
 =========  ============  ============
 \-DC       IN-           14cm
 DC+        IN+           15cm
@@ -203,7 +203,7 @@ GROUND     screw with *Spacer*
 =========  ===================
 
 =================  ========================  ============
-GECKODRIVE         Female Connector (MOTOR)  Cable Lenght
+GECKODRIVE         Female Connector (MOTOR)  Cable Length
 =================  ========================  ============
 3 (WINDING A)      A                         15cm
 4 (WINDING not A)  B                          "
@@ -214,16 +214,16 @@ GECKODRIVE         Female Connector (MOTOR)  Cable Lenght
 ===========  =======  ============
 GECKODRIVE   ARDUINO  Cable Lenght
 ===========  =======  ============
-8 (DIR)      PIN 8    10cm
-9 (STEP)     PIN 9    10cm
-10 (COMMON)  GND
+8 (DIR)      PIN 8    11cm
+9 (STEP)     PIN 9    11cm
+10 (COMMON)  GND       7cm
 ===========  =======  ============
 
 Connect a resistor of 120kOhms between pin 11 and 12 of the 
 GECKODRIVE. This will limit MOTOR current by 5A.
 
 ============  =======  ============
-POWER 36/12V  ARDUINO  Cable Lenght
+POWER 36/12V  ARDUINO  Cable Length
 ============  =======  ============
 OUT-          GND      6cm
 OUT+          VIN      12cm
@@ -233,18 +233,18 @@ OUT+          VIN      12cm
 	:scale: 70 %
 	:align: center
 
-============  =======================
-ARDUINO       RJ45 cable (inside Box)
-============  =======================
-A0            6
-A1            5
-A2            4
-A3            3
-\~3           2
-~5            1
-GND           8
-\+5V          7
-============  =======================
+============  =======================  ============
+ARDUINO       RJ45 cable (inside Box)  Cable Length
+============  =======================  ============
+A0            6                        12cm     
+A1            5                          "
+A2            4                          "
+A3            3                          "
+\~3           2                        15cm 
+~5            1                          " 
+GND           8                        12cm
+\+5V          7                          "
+============  =======================  ============
 
 .. image:: figures/Remote-Control-Wiring.png
    :scale: 70 %
