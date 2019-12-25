@@ -94,7 +94,7 @@ Geckodrive G201X
 Power 36V
 '''''''''
 
-.. image:: figures/POWER36V.jpg
+.. image:: figures/Power36V.jpg
     :scale: 50 %
     :align: center	    
 
@@ -274,6 +274,7 @@ for G201X :
 	:scale: 70 %
 	:align: center
 
+		
 ============  =======  ============
 POWER 36/12V  ARDUINO  Cable Length
 ============  =======  ============
