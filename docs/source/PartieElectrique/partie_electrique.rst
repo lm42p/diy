@@ -83,6 +83,22 @@ pris 16mm mais idéalement 14mm pour la fixation de la cosse (terre)
 sur l'alimentation.
 	    
 
+Geckodrive G201X
+''''''''''''''''
+
+.. image:: figures/Geckodrive-G201X.jpg
+    :scale: 70 %
+    :align: center
+
+
+Power 36V
+'''''''''
+
+.. image:: figures/POWER36V.jpg
+    :scale: 50 %
+    :align: center	    
+
+	    
 Inside the electrical box
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -135,10 +151,18 @@ Wire the Power 36/12V
 2) Connect the voltmeter to Power 36/12V OUT
 3) With a *Screwdriver 0*, adjust the voltage to 12V
    
+   
 Fix the Power Cable to the Electrical Box
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-See Video Here
+See Video :
+
+.. raw:: html
+
+    <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=1355&end=1581"
+    frameborder="0" 
+    allowfullscreen></iframe>
 
 1) Strip the *Power Cable* at 10cm
 2) Fix the *Cable Gland* to the *Electrical Box*
@@ -165,6 +189,24 @@ Fix the Arduino and Power 36/12V
 Wiring
 ^^^^^^
 
+See video :
+
+.. raw:: html
+
+    <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=1581&end=1806"  
+    frameborder="0" 
+    allowfullscreen></iframe>
+
+    
+Connect the wires to the "Barrette" exept the POWER 36/12V OUT+
+Sold the Capacitor between A0 and GND (8) see folowing picture
+
+.. image:: figures/Capacitor.jpg
+    :scale: 70 %
+    :align: center
+
+    
 .. image:: figures/Barette-Pin-Left.PNG
     :scale: 70 %
     :align: center
@@ -219,8 +261,18 @@ GECKODRIVE   ARDUINO  Cable Lenght
 10 (COMMON)  GND       7cm
 ===========  =======  ============
 
+Set current limit 5A :
+
+for G203V :
+
 Connect a resistor of 120kOhms between pin 11 and 12 of the 
 GECKODRIVE. This will limit MOTOR current by 5A.
+
+for G201X :
+
+.. image:: figures/Switch-5A-G201X.png
+	:scale: 70 %
+	:align: center
 
 ============  =======  ============
 POWER 36/12V  ARDUINO  Cable Length
@@ -282,8 +334,15 @@ Connect the Amphenol Plug Male
     :scale: 100 %
     :align: center
 5. assemble the plug and tighten the flange
-   
-	    
+
+
+Wiring the Remote Control
+-------------------------
+
+1. strip the cable at 7cm
+2. cut the unused wire
+3. use the cutted unused wire to make the bridge between GRD and +5V
+   inside the Remote Control
 
 
 
