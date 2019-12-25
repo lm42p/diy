@@ -10,7 +10,7 @@ Parts
 U Base
 ''''''
 
-.. image:: figures/U-Base-LM42P-DIY.PNG
+.. image:: figures/U-Base-LM42P-DIY.PNGstsssds
     :scale: 70 %
     :align: center
 
@@ -94,7 +94,7 @@ Geckodrive G201X
 Power 36V
 '''''''''
 
-.. image:: figures/Power36Vtemp.jpg
+.. image:: figures/Power36V.jpg
     :scale: 50 %
     :align: center	    
 
@@ -202,7 +202,7 @@ See video :
 Connect the wires to the "Barrette" exept the POWER 36/12V OUT+
 Sold the Capacitor between A0 and GND (8) see folowing picture
 
-.. image:: figures/Capacitortemp.jpg
+.. image:: figures/Capacitor.jpg
     :scale: 70 %
     :align: center
 
@@ -268,9 +268,9 @@ for G203V :
 Connect a resistor of 120kOhms between pin 11 and 12 of the 
 GECKODRIVE. This will limit MOTOR current by 5A.
 
-for G201X :
+for G201X : set the switches like the following figure
 
-.. image:: figures/Switch-5A-G201Xtemp.png
+.. image:: figures/Switch-5A-G201X.png
 	:scale: 70 %
 	:align: center
 
@@ -331,7 +331,7 @@ Connect the Amphenol Plug Male
    * red
    * green
 
-   .. image:: figures/Wires-Plugtest.png
+   .. image:: figures/Wires-Plug.png
     :scale: 100 %
     :align: center
 5. assemble the plug and tighten the flange
