@@ -10,7 +10,7 @@ Parts
 U Base
 ''''''
 
-.. image:: figures/U-Base-LM42P-DIY.PNGstsssds
+.. image:: figures/U-Base-LM42P-DIY.PNG
     :scale: 70 %
     :align: center
 
@@ -189,6 +189,14 @@ Fix the Arduino and Power 36/12V
 Wiring
 ^^^^^^
 
+.. image:: figures/Electrical-Box-Open-Left.jpg
+    :scale: 70 %
+    :align: center
+
+.. image:: figures/Electrical-Box-Open-Right.jpg
+    :scale: 70 %
+    :align: center
+	    
 See video :
 
 .. raw:: html
