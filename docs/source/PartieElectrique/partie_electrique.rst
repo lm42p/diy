@@ -331,7 +331,7 @@ Connect the Amphenol Plug Male
    * red
    * green
 
-   .. image:: figures/Wires-Plug.png
+   .. image:: figures/Wires-Plugtest.png
     :scale: 100 %
     :align: center
 5. assemble the plug and tighten the flange
