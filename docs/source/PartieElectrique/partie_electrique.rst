@@ -171,6 +171,21 @@ See Video :
 5) Tighten the *Terminal* on the ground wire
 6) Tighten the Phase and Neutre to *Power 36V IN*
 
+
+Set Geckodrive current limit at 5A :
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- For G203V :
+
+  Connect a resistor of 120kOhms between pin 11 and 12 of the 
+  GECKODRIVE. This will limit MOTOR current by 5A.
+
+- For G201X : set the switches like the following figure
+
+  .. image:: figures/Switch-5A-G201X.png
+  	:scale: 70 %
+ 	:align: center
+		
    
 Fix the Power 36V
 ^^^^^^^^^^^^^^^^^
@@ -207,7 +222,7 @@ See video :
     allowfullscreen></iframe>
 
     
-Connect the wires to the "Barrette" exept the POWER 36/12V OUT+
+Connect the wires to the "Barrette" except the POWER 36/12V OUT+
 Sold the Capacitor between A0 and GND (8) see folowing picture
 
 .. image:: figures/Capacitor.jpg
@@ -269,18 +284,7 @@ GECKODRIVE   ARDUINO  Cable Lenght
 10 (COMMON)  GND       7cm
 ===========  =======  ============
 
-Set current limit 5A :
 
-for G203V :
-
-Connect a resistor of 120kOhms between pin 11 and 12 of the 
-GECKODRIVE. This will limit MOTOR current by 5A.
-
-for G201X : set the switches like the following figure
-
-.. image:: figures/Switch-5A-G201X.png
-	:scale: 70 %
-	:align: center
 
 		
 ============  =======  ============
