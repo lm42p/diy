@@ -94,7 +94,7 @@ Geckodrive G201X
 Power 36V
 '''''''''
 
-.. image:: figures/Power36V.jpg
+.. image:: figures/Power36Vtemp.jpg
     :scale: 50 %
     :align: center	    
 
@@ -202,7 +202,7 @@ See video :
 Connect the wires to the "Barrette" exept the POWER 36/12V OUT+
 Sold the Capacitor between A0 and GND (8) see folowing picture
 
-.. image:: figures/Capacitor.jpg
+.. image:: figures/Capacitortemp.jpg
     :scale: 70 %
     :align: center
 
@@ -270,7 +270,7 @@ GECKODRIVE. This will limit MOTOR current by 5A.
 
 for G201X :
 
-.. image:: figures/Switch-5A-G201X.png
+.. image:: figures/Switch-5A-G201Xtemp.png
 	:scale: 70 %
 	:align: center
 
