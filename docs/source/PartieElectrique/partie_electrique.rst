@@ -228,7 +228,7 @@ Wiring
 ^^^^^^
 
 .. image:: figures/Electrical-Box-Open.jpg
-    :scale: 70 %
+    :scale: 50 %
     :align: center
 
 See video :
@@ -308,7 +308,6 @@ DC+        IN+           15cm
 =========  ============  ============
 
 
-
 =================  ========================  ============
 GECKODRIVE         Female Connector (MOTOR)  Cable Length
 =================  ========================  ============
@@ -317,15 +316,6 @@ GECKODRIVE         Female Connector (MOTOR)  Cable Length
 5 (WINDING B)      C                          "
 6 (WINDING not B)  D                          "
 =================  ========================  ============
-
-
-
-
-
-		
-
-
-
 
 .. image:: figures/Remote-Control-Wiring.png
    :scale: 70 %
