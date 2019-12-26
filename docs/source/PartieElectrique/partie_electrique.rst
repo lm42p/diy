@@ -168,8 +168,8 @@ See Video :
 6) Tighten the Phase and Neutre to *Power 36V IN*
 
 
-Set Geckodrive current limit at 5A :
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Set Geckodrive current limit
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - For G203V :
 
@@ -194,7 +194,8 @@ Fix the Power 36V and Geckodrive on the U Base
 
 - For Power 36V :
   
-  Use the Spacer 6mm, Countersunk Head Screw M3 x 12mm, washer and nut 
+  Use the Spacer 6mm, Countersunk Head Screw M3 x 12mm, washer and
+  nuts  
 
   Fix the ground to the U Base
 
@@ -210,7 +211,7 @@ Fix the Power 36V and Geckodrive on the U Base
 		
 - For Geckodrive :
 
-  Use Countersunk Head Screw M3 x 8mm 
+  Use Countersunk Head Screw M3 x 8mm, washer and nuts 
 
 
 Glue the Power 36/12V and Arduino

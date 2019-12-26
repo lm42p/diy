@@ -15,7 +15,7 @@ Welcome to lm42p-diy's documentation!
    :caption: Contents:
 
    PartieElectrique/partie_electrique	     
-
+   Contact
 
 Indices and tables
 ==================
