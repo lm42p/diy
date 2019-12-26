@@ -180,9 +180,11 @@ Set Geckodrive current limit at 5A :
   Connect a resistor of 120kOhms between pin 11 and 12 of the 
   GECKODRIVE. This will limit MOTOR current by 5A.
 
-- For G201X : set the switches like the following figure
+- For G201X :
 
-  .. image:: figures/Switch-5A-G201X.png
+  set the switches like the following figure
+
+  .. image:: Title-Picture-LM42P.jpg
   	:scale: 70 %
  	:align: center
 		
