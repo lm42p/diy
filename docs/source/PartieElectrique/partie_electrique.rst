@@ -98,14 +98,7 @@ Power 36V
     :scale: 50 %
     :align: center	    
 
-	    
-Inside the electrical box
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. image:: figures/Boitier-Electrique-Ouvert.jpg
-    :scale: 70 %
-    :align: center
-
+       
 Components
 ^^^^^^^^^^
 =========    ========  ===========  
@@ -149,7 +142,10 @@ Wire the Power 36/12V
 
 1) Connect the Power 36/12V IN  to the Power 36V OUT
 2) Connect the voltmeter to Power 36/12V OUT
-3) With a *Screwdriver 0*, adjust the voltage to 12V
+
+Adjust the voltage
+''''''''''''''''''
+With a *Screwdriver 0*, adjust the voltage to 12V
    
    
 Fix the Power Cable to the Electrical Box
@@ -189,43 +185,52 @@ Set Geckodrive current limit at 5A :
  	:align: center
 		
    
-Fix the Power 36V on the U Base
-^^^^^^^^^^^^^^^^^
+Fix the Power 36V and Geckodrive on the U Base
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Use the Spacer 6mm, Countersunk Head Screw M3 x 12mm, washer and nut 
+.. image:: figures/Fix-Power36V-Gecko.jpg
+  	:scale: 70 %
+ 	:align: center
 
-Fix the ground to the U Base
-''''''''''''''''''''''''''''
+- For Power 36V :
+  
+  Use the Spacer 6mm, Countersunk Head Screw M3 x 12mm, washer and nut 
 
-=========  ===================    
-Power 36V  Aluminium Box
-=========  ===================
-GROUND     screw with *Spacer*
-=========  ===================
+  Fix the ground to the U Base
+
+  =========  ===================    
+  Power 36V  Aluminium Box
+  =========  ===================
+  GROUND     screw with *Spacer*
+  =========  ===================
+
+  .. image:: figures/Power36V-Ground.jpg
+  	:scale: 70 %
+ 	:align: center
+		
+- For Geckodrive :
+
+  Use Countersunk Head Screw M3 x 8mm 
 
 
-Fix the Geckodrive
-^^^^^^^^^^^^^^^^^^
-
-Fix the Arduino and Power 36/12V
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Glue the Power 36/12V and Arduino
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: figures/Boitier-Electrique-Sans-Couvercle.PNG
     :scale: 70 %
     :align: center
 
+.. image:: figures/Glue-Power36V-12V-Arduino.jpg
+    :scale: 70 %
+    :align: center 	    
 
 Wiring
 ^^^^^^
 
-.. image:: figures/Electrical-Box-Open-Left.jpg
+.. image:: figures/Electrical-Box-Open.jpg
     :scale: 70 %
     :align: center
 
-.. image:: figures/Electrical-Box-Open-Right.jpg
-    :scale: 70 %
-    :align: center
-	    
 See video :
 
 .. raw:: html
