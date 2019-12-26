@@ -3,18 +3,17 @@ Contact
 
 Address :
 
-LM42P
+  LM42P
 
-1010 Lausanne
-
-Switzerland
+  1010 Lausanne
+  Switzerland
 
 
 internet :
 
-https://lm42p.com
+  https://lm42p.com
 
 email :
 
-lovemachine42people@gmail.com
+  lovemachine42people@gmail.com
 
