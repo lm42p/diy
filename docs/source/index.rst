@@ -6,6 +6,10 @@
 Welcome to lm42p-diy's documentation!
 =====================================
 
+.. image:: Title-Picture-LM42P.jpg
+  	:scale: 70 %
+ 	:align: center
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
