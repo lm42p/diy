@@ -204,7 +204,7 @@ Fix the Power 36V and Geckodrive on the U Base
   GROUND     screw with *Spacer*
   =========  ===================
 
-  .. image:: figures/Power36V-Groundtemp.jpg
+  .. image:: figures/Power36V-Ground.jpg
   	:scale: 70 %
  	:align: center
 		
