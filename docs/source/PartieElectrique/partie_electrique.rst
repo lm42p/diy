@@ -184,13 +184,25 @@ Set Geckodrive current limit at 5A :
 
   set the switches like the following figure
 
-  .. image:: Title-Picture-LM42P.jpg
+  .. image:: figures/Switch-5A-G201X.png
   	:scale: 70 %
  	:align: center
 		
    
-Fix the Power 36V
+Fix the Power 36V on the U Base
 ^^^^^^^^^^^^^^^^^
+
+Use the Spacer 6mm, Countersunk Head Screw M3 x 12mm, washer and nut 
+
+Fix the ground to the U Base
+''''''''''''''''''''''''''''
+
+=========  ===================    
+Power 36V  Aluminium Box
+=========  ===================
+GROUND     screw with *Spacer*
+=========  ===================
+
 
 Fix the Geckodrive
 ^^^^^^^^^^^^^^^^^^
@@ -224,24 +236,57 @@ See video :
     allowfullscreen></iframe>
 
     
-Connect the wires to the "Barrette" except the POWER 36/12V OUT+
-Sold the Capacitor between A0 and GND (8) see folowing picture
+1) Connect the wires to the "Barrette" except the POWER 36/12V OUT+
+
+   .. image:: figures/Barette-Pin-Left.PNG
+    :scale: 70 %
+    :align: center
+
+	    
+   .. image:: figures/Barette-Pin-Right.PNG
+    :scale: 70 %
+    :align: center	    
+
+   ===========  =======  ============
+   GECKODRIVE   ARDUINO  Cable Lenght
+   ===========  =======  ============
+   8 (DIR)      PIN 8    11cm
+   9 (STEP)     PIN 9    11cm
+   10 (COMMON)  GND       7cm
+   ===========  =======  ============
+
+   ============  =======  ============
+   POWER 36/12V  ARDUINO  Cable Length
+   ============  =======  ============
+   OUT-          GND      6cm
+   OUT+          VIN      12cm
+   ============  =======  ============
+
+   .. image:: figures/RJ45-Show-Pin1.png
+	:scale: 70 %
+	:align: center
+
+   ============  =======================  ============
+   ARDUINO       RJ45 cable (inside Box)  Cable Length
+   ============  =======================  ============
+   A0            6 sold capacitor +       12cm     
+   A1            5                          "
+   A2            4                          "
+   A3            3                          "
+   \~3           2                        15cm 
+   ~5            1                          " 
+   GND           8 sold capacitor -       12cm
+   \+5V          7                          "
+   ============  =======================  ============
+
+
+2) Sold the Capacitor between A0 and GND (8) see folowing picture
 
 .. image:: figures/Capacitor.jpg
     :scale: 70 %
     :align: center
 
-    
-.. image:: figures/Barette-Pin-Left.PNG
-    :scale: 70 %
-    :align: center
-
-	    
-.. image:: figures/Barette-Pin-Right.PNG
-    :scale: 70 %
-    :align: center	    
-
-	    
+3) Connect :
 
 =========  ================  ============
 Power 36V     GECKODRIVE     Cable Length
@@ -250,12 +295,6 @@ Power 36V     GECKODRIVE     Cable Length
 D+         2 (18 TO 80 VDC)   "
 =========  ================  ============
 
-=========  ========================
-Power 36V  Female Connector (MOTOR)              
-=========  ========================
-GROUND     Not connected
-=========  ========================
-
 =========  ============  ============
 Power 36V  POWER 36/12V  Cable Length            
 =========  ============  ============
@@ -263,11 +302,7 @@ Power 36V  POWER 36/12V  Cable Length
 DC+        IN+           15cm
 =========  ============  ============
 
-=========  ===================    
-Power 36V  Aluminium Box
-=========  ===================
-GROUND     screw with *Spacer*
-=========  ===================
+
 
 =================  ========================  ============
 GECKODRIVE         Female Connector (MOTOR)  Cable Length
@@ -278,40 +313,14 @@ GECKODRIVE         Female Connector (MOTOR)  Cable Length
 6 (WINDING not B)  D                          "
 =================  ========================  ============
 
-===========  =======  ============
-GECKODRIVE   ARDUINO  Cable Lenght
-===========  =======  ============
-8 (DIR)      PIN 8    11cm
-9 (STEP)     PIN 9    11cm
-10 (COMMON)  GND       7cm
-===========  =======  ============
+
 
 
 
 		
-============  =======  ============
-POWER 36/12V  ARDUINO  Cable Length
-============  =======  ============
-OUT-          GND      6cm
-OUT+          VIN      12cm
-============  =======  ============
 
-.. image:: figures/RJ45-Show-Pin1.png
-	:scale: 70 %
-	:align: center
 
-============  =======================  ============
-ARDUINO       RJ45 cable (inside Box)  Cable Length
-============  =======================  ============
-A0            6                        12cm     
-A1            5                          "
-A2            4                          "
-A3            3                          "
-\~3           2                        15cm 
-~5            1                          " 
-GND           8                        12cm
-\+5V          7                          "
-============  =======================  ============
+
 
 .. image:: figures/Remote-Control-Wiring.png
    :scale: 70 %
