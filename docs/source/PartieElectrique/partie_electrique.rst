@@ -236,7 +236,7 @@ See video :
 
 .. raw:: html
 
-    <iframe width="560" height="315"
+    <iframe width="336" height="189"
     src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=1581&end=1806"  
     frameborder="0" 
     allowfullscreen></iframe>
