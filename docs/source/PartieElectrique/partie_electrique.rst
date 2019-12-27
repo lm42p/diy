@@ -11,14 +11,14 @@ U Base
 ''''''
 
 .. image:: figures/U-Base-LM42P-DIY.PNG
-    :scale: 70 %
+    :scale: 50 %
     :align: center
 
 U Top
 '''''
 
 .. image:: figures/U-Top-LM42P-DIY.PNG
-    :scale: 70 %
+    :scale: 50 %
     :align: center
 
 U Right
@@ -130,11 +130,11 @@ Materials:
 Sold the wire
 '''''''''''''
 .. image:: figures/Power36_12V-Black-Wired-LM42P.PNG
-    :scale: 70 %
+    :scale: 60 %
     :align: center
 
 .. image:: figures/Power36_12V-Red-Wired-LM42P.PNG
-    :scale: 70 %
+    :scale: 60 %
     :align: center
 
 Wire the Power 36/12V
@@ -189,7 +189,7 @@ Fix the Power 36V and Geckodrive on the U Base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: figures/Fix-Power36V-Gecko.jpg
-  	:scale: 70 %
+  	:scale: 60 %
  	:align: center
 
 - For Power 36V :
@@ -206,7 +206,7 @@ Fix the Power 36V and Geckodrive on the U Base
   =========  ===================
 
   .. image:: figures/Power36V-Ground.jpg
-  	:scale: 70 %
+  	:scale: 50 %
  	:align: center
 		
 - For Geckodrive :
@@ -218,7 +218,7 @@ Glue the Power 36/12V and Arduino
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: figures/Boitier-Electrique-Sans-Couvercle.PNG
-    :scale: 70 %
+    :scale: 50 %
     :align: center
 
 .. image:: figures/Glue-Power36V-12V-Arduino.jpg
@@ -229,7 +229,7 @@ Wiring
 ^^^^^^
 
 .. image:: figures/Electrical-Box-Open.jpg
-    :scale: 50 %
+    :scale: 30 %
     :align: center
 
 See video :
@@ -289,7 +289,7 @@ See video :
 2) Sold the Capacitor between A0 and GND (8) see folowing picture
 
 .. image:: figures/Capacitor.jpg
-    :scale: 70 %
+    :scale: 50 %
     :align: center
 
 3) Connect :
@@ -331,11 +331,6 @@ GND             8
 \+5V            7
 ==============  ============================
 
-	    
-.. image:: figures/Schema-Cablage-Tableau.jpg
-    :scale: 70 %
-    :align: center
-
 Connect the Amphenol Plug Male
 ------------------------------
 
@@ -351,7 +346,7 @@ Connect the Amphenol Plug Male
    * green
 
    .. image:: figures/Wires-Plug.png
-    :scale: 100 %
+    :scale: 120 %
     :align: center
 5. assemble the plug and tighten the flange
 
