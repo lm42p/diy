@@ -4,6 +4,10 @@ Electrical Part
 Electrical Box
 --------------
 
+.. image:: figures/Electrical-Box-LM42P.jpg
+    :scale: 60 %
+    :align: center
+
 Parts
 ^^^^^
 
@@ -11,14 +15,14 @@ U Base
 ''''''
 
 .. image:: figures/U-Base-LM42P-DIY.PNG
-    :scale: 50 %
+    :scale: 45 %
     :align: center
 
 U Top
 '''''
 
 .. image:: figures/U-Top-LM42P-DIY.PNG
-    :scale: 50 %
+    :scale: 45 %
     :align: center
 
 U Right
@@ -99,10 +103,6 @@ Power 36V
     :align: center	    
 
        
-Components
-^^^^^^^^^^
-=========    ========  ===========  
-Picture      Quantity  Description  
 =========    ========  ===========  
 |photo_1|    screw M3  asf
 afdfd        scew M3   wer
@@ -187,6 +187,8 @@ Set Geckodrive current limit
    
 Fix the Power 36V and Geckodrive on the U Base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Use threadlocker glue.
 
 .. image:: figures/Fix-Power36V-Gecko.jpg
   	:scale: 60 %
@@ -289,7 +291,7 @@ See video :
 2) Sold the Capacitor between A0 and GND (8) see folowing picture
 
 .. image:: figures/Capacitor.jpg
-    :scale: 50 %
+    :scale: 30 %
     :align: center
 
 3) Connect :
