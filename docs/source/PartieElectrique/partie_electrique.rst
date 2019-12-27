@@ -155,7 +155,7 @@ See Video :
 
 .. raw:: html
 
-    <iframe width="420" height="236.25"
+    <iframe width="336" height="189"
     src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=1355&end=1581"
     frameborder="0" 
     allowfullscreen></iframe>
