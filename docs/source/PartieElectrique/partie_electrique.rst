@@ -5,7 +5,7 @@ Electrical Box
 --------------
 
 .. image:: figures/Electrical-Box-LM42P.jpg
-    :scale: 60 %
+    :scale: 40 %
     :align: center
 
 Parts
