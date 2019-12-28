@@ -56,9 +56,14 @@ Square-10_12_9
     :scale: 70 %
     :align: center
 
+	    
 Countersunk Head Screw M3 x 8mm
 ''''''''''''''''''''''''''''''''
 
+.. image:: figures/Countersunk-Head-Screw-M3x8mm-LM42P-DIY.PNG
+    :scale: 70 %
+    :align: center
+	    
 To fix Geckodrive on the U Base
 
 	    
@@ -102,6 +107,7 @@ Control Power 36V
 ^^^^^^^^^^^^^^^^^
 Control the voltage of the output of the Power 36V with a voltmeter. It
 should be 36V.
+
 
 Adjust voltage Power 36/12V
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
