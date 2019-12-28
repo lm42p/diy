@@ -59,7 +59,7 @@ Square-10_12_9
 Countersunk Head Screw M3 x 8mm
 ''''''''''''''''''''''''''''''''
 
-pris 10mm mais idéalement 8mm pour Geckodrive
+To fix Geckodrive on the U Base
 
 	    
 Countersunk Head Screw M3 x 12mm
@@ -68,25 +68,20 @@ Countersunk Head Screw M3 x 12mm
 .. image:: figures/Countersunk-Head-Screw-M3x12mm-LM42P-DIY.PNG
     :scale: 70 %
     :align: center
-
 	    
-Countersunk Head Screw M3 x 16mm
+To fix the Amphenol Plug on the U Right
+
+
+Countersunk Head Screw M3 x 14mm
 ''''''''''''''''''''''''''''''''
 
-14mm pas 16mm
+To fix the Power 36V also the Ground Terminal on the U Base
 
-.. image:: figures/Countersunk-Head-Screw-M3x16mm-LM42P-DIY.PNG
+.. image:: figures/Countersunk-Head-Screw-M3x14mm-LM42P-DIY.PNG
     :scale: 70 %
     :align: center
 
 	    
-Countersunk Head Screw M3 x 14mm
-''''''''''''''''''''''''''''''''
-
-pris 16mm mais idéalement 14mm pour la fixation de la cosse (terre)
-sur l'alimentation.
-	    
-
 Geckodrive G201X
 ''''''''''''''''
 
@@ -102,17 +97,9 @@ Power 36V
     :scale: 50 %
     :align: center	    
 
-       
-=========    ========  ===========  
-|photo_1|    screw M3  asf
-afdfd        scew M3   wer
-=========    ========  ===========
-
-.. |photo_1| replace:: bonjour
-		       
 
 Control Power 36V 
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^
 Control the voltage of the output of the Power 36V with a voltmeter. It
 should be 36V.
 
