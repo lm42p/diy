@@ -14,6 +14,18 @@ Fastening bolt
   :scale: 30 %
   :align: center
 
-2. Deburr the bolt 	       
+2. Deburr the bolt
+
+   
+Silicone-Plate 60x40x3
+----------------------
+
+.. image:: figures/Silicone-Plate-60x40x3.png
+  :scale: 30 %
+  :align: center
+
+1. Cut the plate with a cutter
+2. Cut wiht a cookie cutter  the hole diameter 6mm     
+
 
    
