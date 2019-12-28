@@ -239,46 +239,52 @@ See video :
     
 1) Connect the wires to the "Barrette" except the POWER 36/12V OUT+
 
-   .. image:: figures/Barette-Pin-Left.PNG
-    :scale: 70 %
-    :align: center
+   Use two clamps this help to sold the "Barrette"
+
+.. image:: figures/Clamps-Sold.jpg
+ :scale: 70 %
+ :align: center
+   
+.. image:: figures/Barette-Pin-Left.PNG
+ :scale: 70 %
+ :align: center
 
 	    
-   .. image:: figures/Barette-Pin-Right.PNG
-    :scale: 70 %
-    :align: center	    
+.. image:: figures/Barette-Pin-Right.PNG
+ :scale: 70 %
+ :align: center	    
 
-   ===========  =======  ============
-   GECKODRIVE   ARDUINO  Cable Lenght
-   ===========  =======  ============
-   8 (DIR)      PIN 8    11cm
-   9 (STEP)     PIN 9    11cm
-   10 (COMMON)  GND       7cm
-   ===========  =======  ============
+===========  =======  ============
+GECKODRIVE   ARDUINO  Cable Lenght
+===========  =======  ============
+8 (DIR)      PIN 8    11cm
+9 (STEP)     PIN 9    11cm
+10 (COMMON)  GND       7cm
+===========  =======  ============
 
-   ============  =======  ============
-   POWER 36/12V  ARDUINO  Cable Length
-   ============  =======  ============
-   OUT-          GND      6cm
-   OUT+          VIN      12cm
-   ============  =======  ============
+============  =======  ============
+POWER 36/12V  ARDUINO  Cable Length
+============  =======  ============
+OUT-          GND      6cm
+OUT+          VIN      12cm
+============  =======  ============
 
-   .. image:: figures/RJ45-Show-Pin1.png
+.. image:: figures/RJ45-Show-Pin1.png
 	:scale: 70 %
 	:align: center
 
-   ============  =======================  ============
-   ARDUINO       RJ45 cable (inside Box)  Cable Length
-   ============  =======================  ============
-   A0            6 sold capacitor +       12cm     
-   A1            5                          "
-   A2            4                          "
-   A3            3                          "
-   \~3           2                        15cm 
-   ~5            1                          " 
-   GND           8 sold capacitor -       12cm
-   \+5V          7                          "
-   ============  =======================  ============
+============  =======================  ============
+ARDUINO       RJ45 cable (inside Box)  Cable Length
+============  =======================  ============
+A0            6 sold capacitor +       12cm     
+A1            5                          "
+A2            4                          "
+A3            3                          "
+\~3           2                        15cm 
+~5            1                          " 
+GND           8 sold capacitor -       12cm
+\+5V          7                          "
+============  =======================  ============
 
 
 2) Sold the Capacitor between A0 and GND (8) see folowing picture
