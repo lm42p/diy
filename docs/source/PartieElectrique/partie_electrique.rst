@@ -242,7 +242,7 @@ See video :
    Use two clamps this help to sold the "Barrette"
 
 .. image:: figures/Clamps-Sold.jpg
- :scale: 70 %
+ :scale: 50 %
  :align: center
    
 .. image:: figures/Barette-Pin-Left.PNG
