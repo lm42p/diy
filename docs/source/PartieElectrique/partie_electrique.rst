@@ -102,6 +102,26 @@ Power 36V
     :scale: 50 %
     :align: center	    
 
+Capacitor
+'''''''''
+
+This reduce the noise while reading the speed on the remote-control 
+
+
+
+Scrape the surface on the U Base
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+To ensure good contact with the ground
+
+See Video :
+
+.. raw:: html
+
+    <iframe width="350" height="196.875"
+    src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=152&end=173"
+    frameborder="0" 
+    allowfullscreen></iframe>
 
 Control Power 36V 
 ^^^^^^^^^^^^^^^^^
@@ -212,8 +232,11 @@ Use threadlocker glue.
 Glue the Power 36/12V and Arduino
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Glue the Arduino at the U base with silicone Polyflex 444 and
+Square-10_12_9 
+ 
 .. image:: figures/Boitier-Electrique-Sans-Couvercle.PNG
-    :scale: 50 %
+    :scale: 40 %
     :align: center
 
 .. image:: figures/Glue-Power36V-12V-Arduino.jpg
