@@ -5,7 +5,7 @@ Fastening bolt
 --------------
 
 .. image:: figures/Fastening-Bolt.png
-  :scale: 30 %
+  :scale: 80 %
   :align: center
 
 1. Saw the bolt
@@ -21,7 +21,7 @@ Silicone-Plate 60x40x3
 ----------------------
 
 .. image:: figures/Silicone-Plate-60x40x3.png
-  :scale: 30 %
+  :scale: 80 %
   :align: center
 
 1. Cut the plate with a cutter
