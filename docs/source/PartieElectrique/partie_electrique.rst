@@ -394,7 +394,7 @@ Connect and fix the 4 poles cable on the stepper motor
    fil bleu à 67mm, couper le fil vert à 77mm see following picture
 
    .. image:: figures/Cut-Motor-Cable.jpg
-     :scale: 50 %
+     :scale: 30 %
      :align: center
 	     
 4. dénuder, torsader, étamer les fils du moteur à 5mm
@@ -416,7 +416,7 @@ Connect and fix the 4 poles cable on the stepper motor
    cable, plaquer le tube avec le clamp see following picture;
    
    .. image:: figures/Fix-Motor-Cable.jpg
-     :scale: 50 %
+     :scale: 30 %
      :align: center
 	    
    injecter si besoin à l'extrémiter du tube où il y a le chanfrein et
