@@ -416,7 +416,6 @@ Connect and fix the 4 poles cable on the stepper motor
    cable, plaquer le tube avec le clamp see following picture;
    
    .. image:: figures/Fix-Motor-Cable.jpg
-
      :scale: 50 %
      :align: center
 	    
