@@ -394,7 +394,9 @@ Connect and fix the 4 poles cable on the stepper motor
    fil bleu à 67mm, couper le fil vert à 77mm see following picture
 
    .. image:: figures/Cut-Motor-Cable.jpg
-	   
+     :scale: 50 %
+     :align: center
+	     
 4. dénuder, torsader, étamer les fils du moteur à 5mm
 5. couper la gaine thermo à 37mm de longueur et la serrer avec foehn
    industriel. Le fil rouge doit dépasser d'environ 5mm (pour les 4
@@ -414,7 +416,10 @@ Connect and fix the 4 poles cable on the stepper motor
    cable, plaquer le tube avec le clamp see following picture;
    
    .. image:: figures/Fix-Motor-Cable.jpg
-	   
+
+     :scale: 50 %
+     :align: center
+	    
    injecter si besoin à l'extrémiter du tube où il y a le chanfrein et
    mettre un peu de Polyflex vert le moteur si l'on voit les fils qui
    dépassent un peu de la gaine thermo
