@@ -386,7 +386,7 @@ Wiring the Remote Control
 
    
 Connect and fix the 4 poles cable on the stepper motor
-======================================================
+------------------------------------------------------
 
 1. déballage et contrôle du moteur
 2. couper le cable en silicone à 2.2m
@@ -408,15 +408,15 @@ Connect and fix the 4 poles cable on the stepper motor
 9. couper gaine thermo à 13mm (pour passer 1es fils)
 10. mettre gaine thermo 13mm + tube (Attention au chanfrein) et souder
 11. dégraisser tube, câble et moteur à l'acétone; mettre la vis M5 NE
-    PAS OUBLIER!; injecter le Polyflex par le trou diam. 4.5mm 
-   jusqu'à ce que ça sorte des deux cotés du tube; prendre le
-   surplus et l'appliquer sur le moteur sur la rainure où la vis M5 a
-   été placée; tourner le tube à ce que le trou d'injection soit
-   contre le moteur et ne soit voit pas; mettre une bride sur le
-   cable, plaquer le tube avec le clamp see following picture;
+    PAS OUBLIER!; injecter le Polyflex par le trou diam. 4.5mm jusqu'à
+    ce que ça sorte des deux cotés du tube; prendre le surplus et
+    l'appliquer sur le moteur sur la rainure où la vis M5 a été
+    placée; tourner le tube à ce que le trou d'injection soit contre
+    le moteur et ne soit voit pas; mettre une bride sur le cable,
+    plaquer le tube avec le clamp see following picture; 
    
    .. image:: figures/Fix-Motor-Cable.jpg
-     :scale: 30 %
+     :scale: 40 %
      :align: center
 	    
    injecter si besoin à l'extrémiter du tube où il y a le chanfrein et
