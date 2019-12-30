@@ -21,7 +21,7 @@ Silicone-Plate 60x40x3
 ----------------------
 
 .. image:: figures/Silicone-Plate-60x40x3.png
-  :scale: 80 %
+  :scale: 60 %
   :align: center
 
 1. Cut the plate with a cutter

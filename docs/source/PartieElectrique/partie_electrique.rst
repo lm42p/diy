@@ -372,6 +372,7 @@ Connect the Amphenol Plug Male
    .. image:: figures/Wires-Plug.png
     :scale: 120 %
     :align: center
+	    
 5. assemble the plug and tighten the flange
 
 
@@ -383,7 +384,45 @@ Wiring the Remote Control
 3. use the cutted unused wire to make the bridge between GRD and +5V
    inside the Remote Control
 
+   
+Connect and fix the 4 poles cable on the stepper motor
+======================================================
 
+1. déballage et contrôle du moteur
+2. couper le cable en silicone à 2.2m
+3. couper le fil rouge à 47mm; couper le fil jaune à 57mm; couper le
+   fil bleu à 67mm, couper le fil vert à 77mm see following picture
+
+   .. image:: figures/Cut-Motor-Cable.jpg
+   :scale: 70 %
+   :align: center
+	   
+4. dénuder, torsader, étamer les fils du moteur à 5mm
+5. couper la gaine thermo à 37mm de longueur et la serrer avec foehn
+   industriel. Le fil rouge doit dépasser d'environ 5mm (pour les 4
+   fils)
+6. dénuder le cable en silicone à 45mm
+7. couper sur le cable en silicone le fil rouge à 40mm; le fil jaune à
+   30mm; le fil noir à 20mm; le fil vert à 10mm.
+8. dénuder, torsader, étamer les fils du câble à 5mm
+9. couper gaine thermo à 13mm (pour passer 1es fils)
+10. mettre gaine thermo 13mm + tube (Attention au chanfrein) et souder
+11. dégraisser tube, câble et moteur à l'acétone; mettre la vis M5 NE
+    PAS OUBLIER!; injecter le Polyflex par le trou diam. 4.5mm 
+   jusqu'à ce que ça sorte des deux cotés du tube; prendre le
+   surplus et l'appliquer sur le moteur sur la rainure où la vis M5 a
+   été placée; tourner le tube à ce que le trou d'injection soit
+   contre le moteur et ne soit voit pas; mettre une bride sur le
+   cable, plaquer le tube avec le clamp see following picture;
+   
+   .. image:: figures/Fix-Motor-Cable.jpg
+   :scale: 70 %
+   :align: center
+	   
+   injecter si besoin à l'extrémiter du tube où il y a le chanfrein et
+   mettre un peu de Polyflex vert le moteur si l'on voit les fils qui
+   dépassent un peu de la gaine thermo
+12. laisser durcir; nettoyer et enlever les bourelets sur tube cordon 
 
 
 
