@@ -7,6 +7,6 @@ site! Click the following link https://PayPal.Me/lm42p
 Thank You very much!
 
 
-.. image:: \LogoPayPalMe.jpg
-  	:scale: 30 %
+.. image:: /LogoPayPalMe.jpg
+  	:scale: 60 %
  	:align: center
