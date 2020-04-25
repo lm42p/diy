@@ -15,7 +15,8 @@ Welcome to lm42p-diy's documentation!
    :caption: Contents:
 
    PartieElectrique/partie_electrique
-   FasteningElements/FasteningElements      
+   FasteningElements/FasteningElements
+   Donate
    Contact
 
 Indices and tables
