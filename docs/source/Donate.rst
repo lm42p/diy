@@ -8,5 +8,5 @@ Thank You very much!
 
 
 .. image:: /LogoPayPalMe.jpg
-  	:scale: 60 %
+  	:scale: 75 %
  	:align: center
