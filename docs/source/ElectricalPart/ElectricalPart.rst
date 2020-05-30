@@ -12,7 +12,7 @@ Electrical Part
 
 |br|
 
-.. image:: figures/drawing3.svg
+.. image:: figures/drawing8.svg
     :width: 500
     :align: center
 
