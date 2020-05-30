@@ -9,19 +9,11 @@ Electrical Part
 .. image:: figures/Power_Control_Unit_And_Remote-DIY-LM42P.jpg
     :width: 500
     :align: center
-
-|br|
-
-.. image:: figures/drawing8.svg
-    :width: 500
-    :align: center
-
-|br|	    
 	    
 Electrical Box
 --------------
 
-.. image:: figures/Electrical-Box-LM42P.jpg
+.. image:: figures/Electrical-Box-DIY-LM42P.jpg
     :width: 500
     :align: center
 
@@ -31,30 +23,30 @@ Listing Parts
 U Base
 ''''''
 
-.. image:: figures/U_Base-Electrical-Box-DIY-LM42P.svg
+.. image:: figures/U_Base-3D-Electrical-Box-DIY-LM42P.PNG
     :width: 500
     :align: center
 
 U Top
 '''''
 
-.. image:: figures/U-Top-LM42P-DIY.PNG
-    :scale: 45 %
+.. image:: figures/U_Top-3D-Electrical-Box-DIY-LM42P.PNG
+    :width: 500
     :align: center
 
 U Right
 '''''''
 
-.. image:: figures/U-Right-LM42P-DIY.PNG
-    :scale: 70 %
+.. image:: figures/U_Right-3D-DIY-LM42P.PNG
+    :width: 500
     :align: center
 
 
 U Left
 ''''''
 
-.. image:: figures/U-Left-LM42P-DIY.PNG
-    :scale: 70 %
+.. image:: figures/U_Left-3D-LM42P-DIY.PNG
+    :width: 500
     :align: center
 
 
@@ -124,6 +116,36 @@ Capacitor
 
 This reduce the noise while reading the speed on the remote-control 
 
+Operation Plan
+^^^^^^^^^^^^^^
+
+The Sheets Parts
+''''''''''''''''
+
+.. image:: figures/Make_The_Sheets_Parts-Electrical-Box-DIY-LM42P.jpg
+    :width: 500
+    :align: center
+	    
+See **Video** :
+
+.. raw:: html
+
+    <iframe width="350" height="196.875"
+    src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=0&end=1078"
+    frameborder="0" 
+    allowfullscreen></iframe>
+
+|br|
+
+**Drawings** :
+
+Material : aluminium
+
+.. figure:: figures/U_Base-Drawing-Electrical-Box-DIY-LM42P.PNG
+    :width: 500
+    :align: center
+
+    U Base
 
 
 Scrape the surface on the U Base
@@ -139,6 +161,10 @@ See Video :
     src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=152&end=173"
     frameborder="0" 
     allowfullscreen></iframe>
+
+|br|
+
+
 
 Control Power 36V 
 ^^^^^^^^^^^^^^^^^
