@@ -10,6 +10,12 @@ Electrical Part
     :width: 500
     :align: center
 
+|br|
+
+.. image:: figures/drawing.svg
+    :width: 500
+    :align: center
+
 |br|	    
 	    
 Electrical Box
