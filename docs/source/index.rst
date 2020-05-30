@@ -14,7 +14,7 @@ Welcome to lm42p-diy's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   PartieElectrique/partie_electrique
+   ElectricalPart/ElectricalPart
    FasteningElements/FasteningElements
    Donate
    Contact

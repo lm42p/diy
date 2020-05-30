@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 1 -->
+<svg x="0" y="0" width="805" height="533" viewBox="0 0 805 533" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_1"><path d="M0,0H805V533H0Z"/></clipPath>
+<clipPath id="c0"><path d="M-203.1,750.1V-184.8H1006.8V750.1Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+text::-moz-selection {
+	color: transparent;
+	background: rgba(0, 106, 173, 0.4);
+}
+text::selection {
+	color: transparent;
+	background: rgba(0, 106, 173, 0.4);
+}
+
+.s1{
+font-size: 15.81px;
+font-family: CIDFont-F1_8;
+fill: TRANSPARENT;
+}
+.s2{
+font-size: 16.55px;
+font-family: CIDFont-F2_9;
+fill: TRANSPARENT;
+}
+.s3{
+font-size: 16.59px;
+font-family: CIDFont-F2_9;
+fill: TRANSPARENT;
+}
+.s4{
+font-size: 16.56px;
+font-family: CIDFont-F2_9;
+fill: TRANSPARENT;
+}
+.s5{
+font-size: 15.82px;
+font-family: CIDFont-F1_8;
+fill: TRANSPARENT;
+}
+
+.g0{
+fill: none;
+stroke: #000000;
+stroke-width: 1.466;
+stroke-linecap: round;
+stroke-linejoin: round;
+}
+.g1{
+fill: none;
+stroke: #000000;
+stroke-width: 0.733;
+stroke-linecap: round;
+stroke-linejoin: round;
+}
+.g2{
+fill: none;
+stroke: #008080;
+stroke-width: 0.733;
+stroke-linecap: round;
+stroke-linejoin: round;
+}
+.g3{
+fill: #008080;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,533
+L805,533
+L805,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<g clip-path="url(#c_1)">
+<path d="M743.9,180.2V50.5M37.9,180.2V50.5" class="g0"/>
+<path d="M743.9,175.8h-7.7m-7.5,0H713.5m-7.5,0H690.7m-7.7,0H668m-7.7,0H645.1m-7.5,0H622.4m-7.6,0H599.6m-7.5,0H576.9m-7.7,0H554m-7.5,0H531.2m-7.5,0H508.5m-7.5,0H485.8m-7.7,0H463m-7.7,0H440.1m-7.5,0H417.4m-7.5,0H394.7m-7.7,0H371.9m-7.7,0H349m-7.5,0H326.3m-7.5,0H303.5m-7.5,0H280.8m-7.7,0h-15m-7.7,0H235.2m-7.6,0H212.4m-7.5,0H189.7m-7.7,0H167m-7.7,0H144m-7.5,0H121.3m-7.5,0H98.6m-7.5,0H75.8m-7.7,0H52.9m-7.5,0H37.7" class="g1"/>
+<path d="M743.9,50.7H37.7M743.9,180.2H37.7" class="g0"/>
+<path d="M246.7,115.4l-.4,4.1l-1.1,4v-.2m-4,7.2l-2.9,2.9l-3.3,2.4l-3.9,1.6l-3.8,1.1h.2m-8.5,0l-3.8,-1.1l-3.9,-1.6L208,133.4l-2.9,-2.9l.2,.2m-4.2,-7.2l-1.1,-4l-.4,-4.1l.4,-4.2l1.1,-3.8v.2m4,-7.4L208,97.3l3.3,-2.2l3.9,-1.8L219,92.2h-.2m8.5,0l3.8,1.1l3.9,1.8l3.3,2.2l2.9,2.9L241,100m4.2,7.4l1.1,3.8l.4,4.2m297.9,-8.8h11.2m11.4,0h11.2M544.6,74.2V84.8m0,11v10.8M578.4,74.2H567.2m-11.2,0H544.4m34,32.4V95.8m0,-10.8V74M59.9,175.8V177m0,1.7v1.5m9.3,0v-1.5m0,-1.5v-1.6m302,.2V177m0,1.7v1.5m9.3,0v-1.5m0,-1.5v-1.6m53.4,.2V177m0,1.7v1.5m9.5,0v-1.5m0,-1.5v-1.6m167,.2V177m0,1.7v1.5m9.4,0v-1.5m0,-1.5v-1.6m-572,.2V177m0,1.7v1.5m9.5,0v-1.5m0,-1.5v-1.6m667.2,.2V177m0,1.7v1.5m9.3,0v-1.5m0,-1.5v-1.6" class="g1"/>
+<path d="M743.9,475.1v-4.5m0,.1V258.8M37.9,470.7V258.8m0,216.3v-4.5m706,.1H37.7m706.2,4.4H37.7M743.9,259H37.7m706.2,0v-4.6m0,.2H37.7m.2,4.4v-4.6M69.2,283l-.3,1.7l-.9,1.6l-1.7,.9l-1.6,.4l-1.9,-.4l-1.4,-.9l-1.1,-1.6L59.9,283l.4,-1.8l1.1,-1.7l1.4,-.9l1.9,-.4l1.6,.4l1.7,.9l.9,1.7l.3,1.8m311.3,0l-.3,1.7l-.9,1.6l-1.7,.9l-1.8,.4l-1.7,-.4l-1.6,-.9l-.9,-1.6l-.4,-1.7l.4,-1.8l.9,-1.7l1.6,-.9l1.7,-.4l1.8,.4l1.7,.9l.9,1.7l.3,1.8m62.9,16.3l-.3,1.9l-1.1,1.6l-1.5,.9l-1.8,.4l-1.9,-.4l-1.4,-.9l-1.1,-1.6l-.4,-1.9l.4,-1.6l1.1,-1.7l1.4,-.9l1.9,-.4l1.8,.4l1.5,.9l1.1,1.7l.3,1.6m176.4,0l-.4,1.9l-.9,1.6l-1.5,.9l-1.8,.4l-1.8,-.4l-1.5,-.9l-1.1,-1.6l-.4,-1.9l.4,-1.6l1.1,-1.7l1.5,-.9l1.8,-.4l1.8,.4l1.5,.9l.9,1.7l.4,1.6M69.2,446.7l-.3,1.9L68,450l-1.7,1.1l-1.6,.4l-1.9,-.4L61.4,450l-1.1,-1.4l-.4,-1.9l.4,-1.8l1.1,-1.5l1.4,-.9l1.9,-.4l1.6,.4l1.7,.9l.9,1.5l.3,1.8m311.3,0l-.3,1.9l-.9,1.4l-1.7,1.1l-1.8,.4l-1.7,-.4L372.5,450l-.9,-1.4l-.4,-1.9l.4,-1.8l.9,-1.5l1.6,-.9l1.7,-.4l1.8,.4l1.7,.9l.9,1.5l.3,1.8m62.9,-16.5l-.3,1.9l-1.1,1.6l-1.5,.9l-1.8,.4l-1.9,-.4l-1.4,-.9l-1.1,-1.6l-.4,-1.9l.4,-1.6l1.1,-1.7l1.4,-.9l1.9,-.4l1.8,.4l1.5,.9l1.1,1.7l.3,1.6m176.4,0l-.4,1.9l-.9,1.6l-1.5,.9l-1.8,.4l-1.8,-.4l-1.5,-.9l-1.1,-1.6l-.4,-1.9l.4,-1.6l1.1,-1.7l1.5,-.9l1.8,-.4l1.8,.4l1.5,.9l.9,1.7l.4,1.6" class="g0"/>
+<path d="M544.6,259v-1.5m0,-1.4v-1.7m33.8,4.6v-1.5m0,-1.4v-1.7" class="g1"/>
+<path d="M57.3,304.5l-.3,1.8l-1.1,1.6l-1.5,1l-1.8,.3l-1.9,-.3l-1.4,-1l-1.1,-1.6l-.4,-1.8l.4,-1.7l1.1,-1.6l1.4,-1l1.9,-.3l1.8,.3l1.5,1l1.1,1.6l.3,1.7m0,120.6l-.3,1.8l-1.1,1.7l-1.5,.9l-1.8,.4l-1.9,-.4l-1.4,-.9l-1.1,-1.7l-.4,-1.8l.4,-1.7l1.1,-1.6l1.4,-.9l1.9,-.4l1.8,.4l1.5,.9l1.1,1.6l.3,1.7M733.8,289.8l-.3,1.8l-1,1.5l-1.6,1.1l-1.8,.4l-1.7,-.4l-1.6,-1.1l-1,-1.5l-.3,-1.8l.3,-1.8l1,-1.5l1.6,-.9l1.7,-.4l1.8,.4l1.6,.9l1,1.5l.3,1.8m0,150.1l-.3,1.7l-1,1.6l-1.6,1l-1.8,.3l-1.7,-.3l-1.6,-1l-1,-1.6l-.3,-1.7l.3,-1.8l1,-1.6l1.6,-1l1.7,-.3l1.8,.3l1.6,1l1,1.6l.3,1.8" class="g0"/>
+<path d="M246.7,259v-1.5m0,-1.4v-1.7m-47.1,.2v1.3m0,1.6V259" class="g1"/>
+<path d="M73.1,304.5H31.8M52.6,283.9v41.3m20.5,99.9H31.8M52.6,404.6v41.2M85.2,283H43.8M64.7,262.3v41.2M85.2,446.7H43.8M64.7,426.2v41.2M396.5,283H355.1m20.7,-20.7v41.2m20.7,143.2H355.1m20.7,-20.5v41.2M459.2,299.3H417.9m20.8,-20.5V320m20.5,110.2H417.9m20.8,-20.5v41.2m197,-151.6H594.3m20.9,-20.5V320m20.5,110.2H594.3m20.9,-20.5v41.2M749.8,289.8H708.3m20.8,-20.5v41.2m20.7,129.4H708.3m20.8,-20.7v41.3M243.8,115.4H202.3M223.2,94.7V136m-20.5,-9.2l41.1,-23.1m0,.2L288.5,78.6m-76.1,44.7l-9.7,3.5l8.1,-6.4l1.6,2.9" class="g2"/>
+<path fill-rule="evenodd" d="M212.4,123.3l-9.7,3.5l8.1,-6.4l1.6,2.9Z" class="g3"/>
+<path d="M235.5,110.5l8.3,-6.6l-9.9,3.5l1.6,3.1" class="g2"/>
+<path fill-rule="evenodd" d="M235.5,110.5l8.3,-6.6l-9.9,3.5l1.6,3.1Z" class="g3"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f0_1h" transform="matrix(9.1,-5.1,5.1,9,259.5,92.2)" />
+<use xlink:href="#f1_l" transform="matrix(9.5,-5.3,5.3,9.5,274.9,83.5)" />
+</g>
+</g>
+<text transform="matrix(0.87,-0.49,0.49,0.87,259,92)" class="s1">O</text>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_q" transform="matrix(9.5,-5.3,5.3,9.5,278.6,81.5)" />
+</g>
+</g>
+<text transform="matrix(0.87,-0.49,0.49,0.87,274,83)" dx="0,-.1" class="s2">16</text>
+<path d="M555.1,135.4l-10.5,-1.6l10.5,-1.7v3.3" class="g2"/>
+<path fill-rule="evenodd" d="M555.1,135.4l-10.5,-1.6l10.5,-1.7v3.3Z" class="g3"/>
+<path d="M568.1,135.4l10.3,-1.6l-10.3,-1.7v3.3" class="g2"/>
+<path fill-rule="evenodd" d="M568.1,135.4l10.3,-1.6l-10.3,-1.7v3.3Z" class="g3"/>
+<path d="M544.6,106.6v32.3m33.8,-32.3v32.3m-33.8,-5.1h33.8" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_l" transform="matrix(10.9,0,0,10.9,550.7,131.2)" />
+<use xlink:href="#f1_l" transform="matrix(10.9,0,0,10.9,554.8,131.2)" />
+<use xlink:href="#f1_g" transform="matrix(10.9,0,0,10.9,559.1,131.2)" />
+<use xlink:href="#f1_o" transform="matrix(10.9,0,0,10.9,560.9,131.2)" />
+<use xlink:href="#f1_n" transform="matrix(10.9,0,0,10.9,567,131.2)" />
+</g>
+</g>
+<text x="550" y="131" dx="0,-.1,0,-.1,0" class="s3">11,43</text>
+<path d="M604.2,96.2l-1.6,10.4L600.7,96.2h3.5" class="g2"/>
+<path fill-rule="evenodd" d="M604.2,96.2l-1.6,10.4L600.7,96.2h3.5Z" class="g3"/>
+<path d="M604.2,84.5L602.6,74.2l-1.9,10.3h3.5" class="g2"/>
+<path fill-rule="evenodd" d="M604.2,84.5L602.6,74.2l-1.9,10.3h3.5Z" class="g3"/>
+<path d="M578.4,106.6h29.3M578.4,74.2h29.3m-5.1,32.4V74" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_l" transform="matrix(0,-10.9,10.8,0,600,94.5)" />
+<use xlink:href="#f1_l" transform="matrix(0,-10.9,10.8,0,600,90.4)" />
+</g>
+</g>
+<text transform="matrix(0,-1,1,0,599,94)" dx="0,-.1" class="s4">11</text>
+<path d="M160,169.9l-1.8,10.3l-1.7,-10.3H160" class="g2"/>
+<path fill-rule="evenodd" d="M160,169.9l-1.8,10.3l-1.7,-10.3H160Z" class="g3"/>
+<path d="M160,125.7l-1.8,-10.3l-1.7,10.3H160" class="g2"/>
+<path fill-rule="evenodd" d="M160,125.7l-1.8,-10.3l-1.7,10.3H160Z" class="g3"/>
+<path d="M223.2,115.4H152.8m5.4,64.8V115.3" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_m" transform="matrix(0,-10.9,10.8,0,155.6,154.1)" />
+<use xlink:href="#f1_m" transform="matrix(0,-10.9,10.8,0,155.6,147.7)" />
+</g>
+</g>
+<text transform="matrix(0,-1,1,0,155,154)" dx="0,.1" class="s4">22</text>
+<path d="M48.2,11.9L37.9,13.5l10.3,1.8V11.9" class="g2"/>
+<path fill-rule="evenodd" d="M48.2,11.9L37.9,13.5l10.3,1.8V11.9Z" class="g3"/>
+<path d="M212.8,11.9l10.4,1.6l-10.4,1.8V11.9" class="g2"/>
+<path fill-rule="evenodd" d="M212.8,11.9l10.4,1.6l-10.4,1.8V11.9Z" class="g3"/>
+<path d="M37.9,50.7V8.2M223.2,115.4V8.2M37.9,13.5H223.2" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_q" transform="matrix(10.9,0,0,10.9,124.6,10.9)" />
+<use xlink:href="#f1_n" transform="matrix(10.9,0,0,10.9,130.9,10.9)" />
+</g>
+</g>
+<text x="124" y="10" class="s3">63</text>
+<path d="M733.6,19.4l10.3,1.8l-10.3,1.7V19.4" class="g2"/>
+<path fill-rule="evenodd" d="M733.6,19.4l10.3,1.8l-10.3,1.7V19.4Z" class="g3"/>
+<path d="M571.8,19.4l-10.3,1.8l10.3,1.7V19.4" class="g2"/>
+<path fill-rule="evenodd" d="M571.8,19.4l-10.3,1.8l10.3,1.7V19.4Z" class="g3"/>
+<path d="M743.9,50.7V15.9M561.5,74.2V15.9m182.4,5.3H561.3" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_q" transform="matrix(10.9,0,0,10.9,640.1,18.6)" />
+<use xlink:href="#f1_l" transform="matrix(10.9,0,0,10.9,646.4,18.6)" />
+<use xlink:href="#f1_g" transform="matrix(10.9,0,0,10.9,650.5,18.6)" />
+<use xlink:href="#f1_t" transform="matrix(10.9,0,0,10.9,652.4,18.6)" />
+<use xlink:href="#f1_s" transform="matrix(10.9,0,0,10.9,658.6,18.6)" />
+</g>
+</g>
+<text x="640" y="18" dx="0,0,-.1,-.1,0" class="s3">61,98</text>
+<path d="M500.6,100.8l1.9,-10.5l1.6,10.5h-3.5" class="g2"/>
+<path fill-rule="evenodd" d="M500.6,100.8l1.9,-10.5l1.6,10.5h-3.5Z" class="g3"/>
+<path d="M500.6,169.9l1.9,10.3l1.6,-10.3h-3.5" class="g2"/>
+<path fill-rule="evenodd" d="M500.6,169.9l1.9,10.3l1.6,-10.3h-3.5Z" class="g3"/>
+<path d="M544.6,90.3H497.1m5.4,0v89.9" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_n" transform="matrix(0,-10.9,10.8,0,499.9,144.8)" />
+<use xlink:href="#f1_k" transform="matrix(0,-10.9,10.8,0,499.9,139.3)" />
+<use xlink:href="#f1_g" transform="matrix(0,-10.9,10.8,0,499.9,133.2)" />
+<use xlink:href="#f1_p" transform="matrix(0,-10.9,10.8,0,499.9,131.3)" />
+</g>
+</g>
+<text transform="matrix(0,-1,1,0,499,144)" dx="0,0,0,-.1" class="s4">30,5</text>
+<path d="M118,464.9l-1.8,10.2l-1.7,-10.2H118" class="g2"/>
+<path fill-rule="evenodd" d="M118,464.9l-1.8,10.2l-1.7,-10.2H118Z" class="g3"/>
+<path d="M118,435.5l-1.8,-10.4l-1.7,10.4H118" class="g2"/>
+<path fill-rule="evenodd" d="M118,435.5l-1.8,-10.4l-1.7,10.4H118Z" class="g3"/>
+<path d="M52.6,425.1h68.7m-5.1,50V424.9" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_l" transform="matrix(0,-10.9,10.8,0,113.6,455.5)" />
+<use xlink:href="#f1_r" transform="matrix(0,-10.9,10.8,0,113.6,451.4)" />
+</g>
+</g>
+<text transform="matrix(0,-1,1,0,113,455)" dx="0,-.1" class="s4">17</text>
+<path d="M11.5,485.4l1.8,-10.3L15,485.4H11.5" class="g2"/>
+<path fill-rule="evenodd" d="M11.5,485.4l1.8,-10.3L15,485.4H11.5Z" class="g3"/>
+<path d="M11.5,436.5l1.8,10.2L15,436.5H11.5" class="g2"/>
+<path fill-rule="evenodd" d="M11.5,436.5l1.8,10.2L15,436.5H11.5Z" class="g3"/>
+<path d="M37.9,475.1H8M64.7,446.7H8m5.3,49V426" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_t" transform="matrix(0,-10.9,10.8,0,10.7,471.1)" />
+<use xlink:href="#f1_g" transform="matrix(0,-10.9,10.8,0,10.7,464.8)" />
+<use xlink:href="#f1_q" transform="matrix(0,-10.9,10.8,0,10.7,463)" />
+<use xlink:href="#f1_p" transform="matrix(0,-10.9,10.8,0,10.7,456.8)" />
+</g>
+</g>
+<text transform="matrix(0,-1,1,0,10,471)" dx="0,.1,-.1,-.1" class="s4">9,65</text>
+<path d="M11.5,436.5l1.8,10.2L15,436.5H11.5" class="g2"/>
+<path fill-rule="evenodd" d="M11.5,436.5l1.8,10.2L15,436.5H11.5Z" class="g3"/>
+<path d="M11.5,293.3L13.3,283L15,293.3H11.5" class="g2"/>
+<path fill-rule="evenodd" d="M11.5,293.3L13.3,283L15,293.3H11.5Z" class="g3"/>
+<path d="M64.7,446.7H8M64.7,283H8m5.3,163.7V282.8" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_p" transform="matrix(0,-10.9,10.8,0,10.7,374.8)" />
+<use xlink:href="#f1_p" transform="matrix(0,-10.9,10.8,0,10.7,369)" />
+<use xlink:href="#f1_g" transform="matrix(0,-10.9,10.8,0,10.7,363.1)" />
+<use xlink:href="#f1_r" transform="matrix(0,-10.9,10.8,0,10.7,361.2)" />
+</g>
+</g>
+<text transform="matrix(0,-1,1,0,10,374)" dx="0,0,.2,-.1" class="s4">55,7</text>
+<path d="M27.4,499.7l10.5,-1.6L27.4,496.2v3.5" class="g2"/>
+<path fill-rule="evenodd" d="M27.4,499.7l10.5,-1.6L27.4,496.2v3.5Z" class="g3"/>
+<path d="M74.9,499.7L64.7,498.1l10.2,-1.9v3.5" class="g2"/>
+<path fill-rule="evenodd" d="M74.9,499.7L64.7,498.1l10.2,-1.9v3.5Z" class="g3"/>
+<path d="M37.9,470.7v32.5M64.7,446.7v56.5M17.2,498.1h68" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_t" transform="matrix(10.9,0,0,10.9,45,495.5)" />
+<use xlink:href="#f1_g" transform="matrix(10.9,0,0,10.9,51.3,495.5)" />
+<use xlink:href="#f1_l" transform="matrix(10.9,0,0,10.9,53.1,495.5)" />
+</g>
+</g>
+<text x="45" y="495" dx="0,0,-.1" class="s3">9,1</text>
+<path d="M654.4,169.9l1.7,10.3l1.6,-10.3h-3.3" class="g2"/>
+<path fill-rule="evenodd" d="M654.4,169.9l1.7,10.3l1.6,-10.3h-3.3Z" class="g3"/>
+<path d="M654.4,116.9l1.7,-10.3l1.6,10.3h-3.3" class="g2"/>
+<path fill-rule="evenodd" d="M654.4,116.9l1.7,-10.3l1.6,10.3h-3.3Z" class="g3"/>
+<path d="M578.4,106.6h82.8m-5.1,73.6V106.5" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_m" transform="matrix(0,-10.9,10.8,0,653.5,149.4)" />
+<use xlink:href="#f1_p" transform="matrix(0,-10.9,10.8,0,653.5,142.9)" />
+</g>
+</g>
+<text transform="matrix(0,-1,1,0,653,149)" dx="0,.1" class="s4">25</text>
+<path d="M588.6,41.6l-10.2,1.6L588.6,45V41.6" class="g2"/>
+<path fill-rule="evenodd" d="M588.6,41.6l-10.2,1.6L588.6,45V41.6Z" class="g3"/>
+<path d="M733.6,41.6l10.3,1.6L733.6,45V41.6" class="g2"/>
+<path fill-rule="evenodd" d="M733.6,41.6l10.3,1.6L733.6,45V41.6Z" class="g3"/>
+<path d="M578.4,74.2V37.9M743.9,50.7V37.9M578.4,43.2H743.9" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_p" transform="matrix(10.9,0,0,10.9,647.8,40.6)" />
+<use xlink:href="#f1_q" transform="matrix(10.9,0,0,10.9,653.5,40.6)" />
+<use xlink:href="#f1_g" transform="matrix(10.9,0,0,10.9,659.7,40.6)" />
+<use xlink:href="#f1_m" transform="matrix(10.9,0,0,10.9,661.6,40.6)" />
+<use xlink:href="#f1_q" transform="matrix(10.9,0,0,10.9,668,40.6)" />
+</g>
+</g>
+<text x="647" y="40" dx="0,-.1,0,-.1,.1" class="s3">56,26</text>
+<path d="M555.1,211.1l-10.5,-1.8l10.5,-1.6v3.4" class="g2"/>
+<path fill-rule="evenodd" d="M555.1,211.1l-10.5,-1.8l10.5,-1.6v3.4Z" class="g3"/>
+<path d="M733.6,211.1l10.3,-1.8l-10.3,-1.6v3.4" class="g2"/>
+<path fill-rule="evenodd" d="M733.6,211.1l10.3,-1.8l-10.3,-1.6v3.4Z" class="g3"/>
+<path d="M544.6,106.6V214.4M743.9,180.2v34.2M544.6,209.3H743.9" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_q" transform="matrix(10.9,0,0,10.9,633.7,206.7)" />
+<use xlink:href="#f1_r" transform="matrix(10.9,0,0,10.9,640,206.7)" />
+<use xlink:href="#f1_g" transform="matrix(10.9,0,0,10.9,646.6,206.7)" />
+<use xlink:href="#f1_r" transform="matrix(10.9,0,0,10.9,648.4,206.7)" />
+</g>
+</g>
+<text x="633" y="206" dx="0,0,0,-.1" class="s3">67,7</text>
+<path d="M693.9,84.5L692.2,74.2l-1.8,10.3h3.5" class="g2"/>
+<path fill-rule="evenodd" d="M693.9,84.5L692.2,74.2l-1.8,10.3h3.5Z" class="g3"/>
+<path d="M693.9,169.9l-1.7,10.3l-1.8,-10.3h3.5" class="g2"/>
+<path fill-rule="evenodd" d="M693.9,169.9l-1.7,10.3l-1.8,-10.3h3.5Z" class="g3"/>
+<path d="M578.4,74.2H697.3m-5.1,0v106" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_n" transform="matrix(0,-10.9,10.8,0,689.6,133)" />
+<use xlink:href="#f1_q" transform="matrix(0,-10.9,10.8,0,689.6,127.6)" />
+</g>
+</g>
+<text transform="matrix(0,-1,1,0,689,133)" class="s4">36</text>
+<path d="M27.4,381.8l10.5,1.9l-10.5,1.6v-3.5" class="g2"/>
+<path fill-rule="evenodd" d="M27.4,381.8l10.5,1.9l-10.5,1.6v-3.5Z" class="g3"/>
+<path d="M62.8,381.8l-10.2,1.9l10.2,1.6v-3.5" class="g2"/>
+<path fill-rule="evenodd" d="M62.8,381.8l-10.2,1.9l10.2,1.6v-3.5Z" class="g3"/>
+<path d="M52.6,425.1V378.3m-35.4,5.4H66.3" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_p" transform="matrix(10.9,0,0,10.9,57,381.1)" />
+</g>
+</g>
+<text x="56" y="381" class="s3">5</text>
+<path d="M733.6,529.2l10.3,-1.6l-10.3,-1.7v3.3" class="g2"/>
+<path fill-rule="evenodd" d="M733.6,529.2l10.3,-1.6l-10.3,-1.7v3.3Z" class="g3"/>
+<path d="M48.2,529.2L37.9,527.6l10.3,-1.7v3.3" class="g2"/>
+<path fill-rule="evenodd" d="M48.2,529.2L37.9,527.6l10.3,-1.7v3.3Z" class="g3"/>
+<path d="M743.9,475.1v57.6M37.9,475.1v57.6m706,-5.1H37.7" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_m" transform="matrix(10.9,0,0,10.9,381.6,525)" />
+<use xlink:href="#f1_o" transform="matrix(10.9,0,0,10.9,388.1,525)" />
+<use xlink:href="#f1_k" transform="matrix(10.9,0,0,10.9,394.1,525)" />
+</g>
+</g>
+<text x="381" y="525" dx="0,.1,-.1" class="s3">240</text>
+<path d="M782.6,169.9l-1.8,10.3l-1.7,-10.3h3.5" class="g2"/>
+<path fill-rule="evenodd" d="M782.6,169.9l-1.8,10.3l-1.7,-10.3h3.5Z" class="g3"/>
+<path d="M782.6,61L780.8,50.7L779.1,61h3.5" class="g2"/>
+<path fill-rule="evenodd" d="M782.6,61L780.8,50.7L779.1,61h3.5Z" class="g3"/>
+<path d="M743.9,180.2h42M743.9,50.7h42m-5.1,129.5V50.5" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_o" transform="matrix(0,-10.9,10.8,0,778.2,121.5)" />
+<use xlink:href="#f1_o" transform="matrix(0,-10.9,10.8,0,778.2,115.5)" />
+</g>
+</g>
+<text transform="matrix(0,-1,1,0,778,121)" dx="0,-.1" class="s4">44</text>
+<path d="M189.5,244.3l-1.8,10.3L186,244.3h3.5" class="g2"/>
+<path fill-rule="evenodd" d="M189.5,244.3l-1.8,10.3L186,244.3h3.5Z" class="g3"/>
+<path d="M189.5,269.3L187.7,259L186,269.3h3.5" class="g2"/>
+<path fill-rule="evenodd" d="M189.5,269.3L187.7,259L186,269.3h3.5Z" class="g3"/>
+<path d="M187.7,223.2v56.3" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_l" transform="matrix(0,-10.9,10.8,0,185.1,238.8)" />
+<use xlink:href="#f1_g" transform="matrix(0,-10.9,10.8,0,185.1,234.7)" />
+<use xlink:href="#f1_p" transform="matrix(0,-10.9,10.8,0,185.1,232.8)" />
+</g>
+</g>
+<text transform="matrix(0,-1,1,0,185,238)" dx="0,-.1,-.1" class="s4">1,5</text>
+<path d="M138.9,464.9l-1.6,10.2l-1.9,-10.2h3.5" class="g2"/>
+<path fill-rule="evenodd" d="M138.9,464.9l-1.6,10.2l-1.9,-10.2h3.5Z" class="g3"/>
+<path d="M138.9,314.9l-1.6,-10.4l-1.9,10.4h3.5" class="g2"/>
+<path fill-rule="evenodd" d="M138.9,314.9l-1.6,-10.4l-1.9,10.4h3.5Z" class="g3"/>
+<path d="M52.6,304.5h89.8m-5.1,170.6V304.3" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_p" transform="matrix(0,-10.9,10.8,0,134.7,396.1)" />
+<use xlink:href="#f1_s" transform="matrix(0,-10.9,10.8,0,134.7,390.3)" />
+</g>
+</g>
+<text transform="matrix(0,-1,1,0,134,396)" class="s4">58</text>
+<path d="M174.3,464.9l-1.8,10.2l-1.7,-10.2h3.5" class="g2"/>
+<path fill-rule="evenodd" d="M174.3,464.9l-1.8,10.2l-1.7,-10.2h3.5Z" class="g3"/>
+<path d="M174.3,293.3L172.5,283l-1.7,10.3h3.5" class="g2"/>
+<path fill-rule="evenodd" d="M174.3,293.3L172.5,283l-1.7,10.3h3.5Z" class="g3"/>
+<path d="M64.7,283H177.6m-5.1,192.1V282.8" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_q" transform="matrix(0,-10.9,10.8,0,169.9,391.7)" />
+<use xlink:href="#f1_p" transform="matrix(0,-10.9,10.8,0,169.9,385.4)" />
+<use xlink:href="#f1_g" transform="matrix(0,-10.9,10.8,0,169.9,379.6)" />
+<use xlink:href="#f1_n" transform="matrix(0,-10.9,10.8,0,169.9,377.8)" />
+<use xlink:href="#f1_p" transform="matrix(0,-10.9,10.8,0,169.9,372.3)" />
+</g>
+</g>
+<text transform="matrix(0,-1,1,0,169,391)" dx="0,.1,0,-.1,0" class="s4">65,35</text>
+<path d="M472,464.9l1.9,10.2l1.6,-10.2H472" class="g2"/>
+<path fill-rule="evenodd" d="M472,464.9l1.9,10.2l1.6,-10.2H472Z" class="g3"/>
+<path d="M472,440.7l1.9,-10.5l1.6,10.5H472" class="g2"/>
+<path fill-rule="evenodd" d="M472,440.7l1.9,-10.5l1.6,10.5H472Z" class="g3"/>
+<path d="M438.7,430.2H479m-5.1,44.9V430" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_l" transform="matrix(0,-10.9,10.8,0,471.3,464.9)" />
+<use xlink:href="#f1_p" transform="matrix(0,-10.9,10.8,0,471.3,460.7)" />
+<use xlink:href="#f1_g" transform="matrix(0,-10.9,10.8,0,471.3,454.7)" />
+<use xlink:href="#f1_m" transform="matrix(0,-10.9,10.8,0,471.3,452.9)" />
+<use xlink:href="#f1_p" transform="matrix(0,-10.9,10.8,0,471.3,446.6)" />
+</g>
+</g>
+<text transform="matrix(0,-1,1,0,471,464)" dx="0,-.1,.2,-.1,-.1" class="s4">15,25</text>
+<path d="M403.5,464.9l1.6,10.2l1.8,-10.2h-3.4" class="g2"/>
+<path fill-rule="evenodd" d="M403.5,464.9l1.6,10.2l1.8,-10.2h-3.4Z" class="g3"/>
+<path d="M403.5,309.8l1.6,-10.5l1.8,10.5h-3.4" class="g2"/>
+<path fill-rule="evenodd" d="M403.5,309.8l1.6,-10.5l1.8,10.5h-3.4Z" class="g3"/>
+<path d="M438.7,299.3H399.8m5.3,175.8v-176" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_p" transform="matrix(0,-10.9,10.8,0,402.5,400.5)" />
+<use xlink:href="#f1_t" transform="matrix(0,-10.9,10.8,0,402.5,394.7)" />
+<use xlink:href="#f1_g" transform="matrix(0,-10.9,10.8,0,402.5,388.4)" />
+<use xlink:href="#f1_r" transform="matrix(0,-10.9,10.8,0,402.5,386.6)" />
+<use xlink:href="#f1_p" transform="matrix(0,-10.9,10.8,0,402.5,380)" />
+</g>
+</g>
+<text transform="matrix(0,-1,1,0,402,400)" dx="0,0,.1,-.1,0" class="s4">59,75</text>
+<path d="M686.7,464.9l1.7,10.2L690,464.9h-3.3" class="g2"/>
+<path fill-rule="evenodd" d="M686.7,464.9l1.7,10.2L690,464.9h-3.3Z" class="g3"/>
+<path d="M686.7,450.2l1.7,-10.3l1.6,10.3h-3.3" class="g2"/>
+<path fill-rule="evenodd" d="M686.7,450.2l1.7,-10.3l1.6,10.3h-3.3Z" class="g3"/>
+<path d="M729.1,439.9H683m5.4,35.2V439.8" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_l" transform="matrix(0,-10.9,10.8,0,685.8,462.9)" />
+<use xlink:href="#f1_m" transform="matrix(0,-10.9,10.8,0,685.8,458.7)" />
+</g>
+</g>
+<text transform="matrix(0,-1,1,0,685,462)" dx="0,-.1" class="s4">12</text>
+<path d="M770.1,464.9l-1.6,10.2l-1.9,-10.2h3.5" class="g2"/>
+<path fill-rule="evenodd" d="M770.1,464.9l-1.6,10.2l-1.9,-10.2h3.5Z" class="g3"/>
+<path d="M770.1,300.1l-1.6,-10.3l-1.9,10.3h3.5" class="g2"/>
+<path fill-rule="evenodd" d="M770.1,300.1l-1.6,-10.3l-1.9,10.3h3.5Z" class="g3"/>
+<path d="M743.9,475.1h29.7M729.1,289.8h44.5m-5.1,185.3V289.6" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_q" transform="matrix(0,-10.9,10.8,0,765.9,388.4)" />
+<use xlink:href="#f1_n" transform="matrix(0,-10.9,10.8,0,765.9,382.1)" />
+</g>
+</g>
+<text transform="matrix(0,-1,1,0,765,388)" dx="0,.1" class="s4">63</text>
+<path d="M48.2,514L37.9,512.4l10.3,-1.9V514" class="g2"/>
+<path fill-rule="evenodd" d="M48.2,514L37.9,512.4l10.3,-1.9V514Z" class="g3"/>
+<path d="M365.5,514l10.3,-1.6l-10.3,-1.9V514" class="g2"/>
+<path fill-rule="evenodd" d="M365.5,514l10.3,-1.6l-10.3,-1.9V514Z" class="g3"/>
+<path d="M37.9,470.7v46.8M375.8,446.7v70.8M37.9,512.4H375.8" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_l" transform="matrix(10.9,0,0,10.9,195.6,509.8)" />
+<use xlink:href="#f1_l" transform="matrix(10.9,0,0,10.9,199.7,509.8)" />
+<use xlink:href="#f1_o" transform="matrix(10.9,0,0,10.9,204,509.8)" />
+<use xlink:href="#f1_g" transform="matrix(10.9,0,0,10.9,210,509.8)" />
+<use xlink:href="#f1_t" transform="matrix(10.9,0,0,10.9,211.9,509.8)" />
+</g>
+</g>
+<text x="195" y="509" dx="0,-.1,0,0,-.1" class="s3">114,9</text>
+<path d="M754.2,497.9L743.9,496l10.3,-1.6v3.5" class="g2"/>
+<path fill-rule="evenodd" d="M754.2,497.9L743.9,496l10.3,-1.6v3.5Z" class="g3"/>
+<path d="M718.8,497.9L729.1,496l-10.3,-1.6v3.5" class="g2"/>
+<path fill-rule="evenodd" d="M718.8,497.9L729.1,496l-10.3,-1.6v3.5Z" class="g3"/>
+<path d="M743.9,470.7v30.5M729.1,439.9v61.3M764.4,496H708.3" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_p" transform="matrix(10.9,0,0,10.9,733.6,493.5)" />
+</g>
+</g>
+<text x="733" y="493" class="s3">5</text>
+<path d="M733.6,400.9l10.3,1.8l-10.3,1.7v-3.5" class="g2"/>
+<path fill-rule="evenodd" d="M733.6,400.9l10.3,1.8l-10.3,1.7v-3.5Z" class="g3"/>
+<path d="M625.5,400.9l-10.3,1.8l10.3,1.7v-3.5" class="g2"/>
+<path fill-rule="evenodd" d="M625.5,400.9l-10.3,1.8l10.3,1.7v-3.5Z" class="g3"/>
+<path d="M615.2,430.2V397.4m128.7,5.3H615" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_o" transform="matrix(10.9,0,0,10.9,666.7,400.2)" />
+<use xlink:href="#f1_n" transform="matrix(10.9,0,0,10.9,672.7,400.2)" />
+<use xlink:href="#f1_g" transform="matrix(10.9,0,0,10.9,678.3,400.2)" />
+<use xlink:href="#f1_r" transform="matrix(10.9,0,0,10.9,680.2,400.2)" />
+<use xlink:href="#f1_p" transform="matrix(10.9,0,0,10.9,686.6,400.2)" />
+</g>
+</g>
+<text x="666" y="400" dx="0,-.1,.2,-.1,-.1" class="s3">43,75</text>
+<path d="M733.6,364.4l10.3,-1.8l-10.3,-1.7v3.5" class="g2"/>
+<path fill-rule="evenodd" d="M733.6,364.4l10.3,-1.8l-10.3,-1.7v3.5Z" class="g3"/>
+<path d="M448.9,364.4l-10.2,-1.8l10.2,-1.7v3.5" class="g2"/>
+<path fill-rule="evenodd" d="M448.9,364.4l-10.2,-1.8l10.2,-1.7v3.5Z" class="g3"/>
+<path d="M438.7,430.2V357.3m305.2,5.3H438.5" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_l" transform="matrix(10.9,0,0,10.9,576.3,360)" />
+<use xlink:href="#f1_k" transform="matrix(10.9,0,0,10.9,580.5,360)" />
+<use xlink:href="#f1_n" transform="matrix(10.9,0,0,10.9,586.6,360)" />
+<use xlink:href="#f1_g" transform="matrix(10.9,0,0,10.9,592.1,360)" />
+<use xlink:href="#f1_r" transform="matrix(10.9,0,0,10.9,593.9,360)" />
+<use xlink:href="#f1_p" transform="matrix(10.9,0,0,10.9,600.5,360)" />
+</g>
+</g>
+<text x="576" y="360" dx="0,-.1,0,0,-.1,0" class="s3">103,75</text>
+<path d="M448.9,400.9l-10.2,1.8l10.2,1.7v-3.5" class="g2"/>
+<path fill-rule="evenodd" d="M448.9,400.9l-10.2,1.8l10.2,1.7v-3.5Z" class="g3"/>
+<path d="M604.9,400.9l10.3,1.8l-10.3,1.7v-3.5" class="g2"/>
+<path fill-rule="evenodd" d="M604.9,400.9l10.3,1.8l-10.3,1.7v-3.5Z" class="g3"/>
+<path d="M438.7,430.2V397.4m176.5,32.8V397.4m-176.5,5.3H615.2" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_q" transform="matrix(10.9,0,0,10.9,520.6,400.2)" />
+<use xlink:href="#f1_k" transform="matrix(10.9,0,0,10.9,526.9,400.2)" />
+</g>
+</g>
+<text x="520" y="400" class="s3">60</text>
+<path d="M413.7,304.1l29.5,-5.5m0,0l88.2,-16.9M424.2,303.9l9.9,-3.7l-10.5,.4l.6,3.3" class="g2"/>
+<path fill-rule="evenodd" d="M424.2,303.9l9.9,-3.7l-10.5,.4l.6,3.3Z" class="g3"/>
+<path d="M453.7,298.2l-10.5,.4l9.9,-3.7l.6,3.3" class="g2"/>
+<path fill-rule="evenodd" d="M453.7,298.2l-10.5,.4l9.9,-3.7l.6,3.3Z" class="g3"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f0_1h" transform="matrix(10.2,-1.9,1.9,10.2,496.8,285.6)" />
+<use xlink:href="#f1_n" transform="matrix(10.7,-2,2,10.6,514.2,282.3)" />
+</g>
+</g>
+<text transform="matrix(0.98,-0.19,0.19,0.98,496,285)" class="s5">O</text>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_g" transform="matrix(10.7,-2,2,10.6,519.5,281.1)" />
+</g>
+</g>
+<text transform="matrix(0.98,-0.19,0.19,0.98,514,282)" class="s4">3</text>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_m" transform="matrix(10.7,-2,2,10.6,521.4,280.9)" />
+</g>
+</g>
+<text transform="matrix(0.98,-0.19,0.19,0.98,519,281)" class="s4">,</text>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_l" transform="matrix(10.7,-2,2,10.6,470.2,290.7)" />
+<use xlink:href="#f1_m" transform="matrix(10.7,-2,2,10.6,474.4,289.9)" />
+<use xlink:href="#f1_2k" transform="matrix(10.7,-2,2,10.6,484.7,287.9)" />
+</g>
+</g>
+<text transform="matrix(0.98,-0.19,0.19,0.98,521,280)" class="s4">2</text>
+<text transform="matrix(0.98,-0.19,0.19,0.98,470,290)" dx="0,.1,-.1,0" class="s4">12 x</text>
+<path d="M800.7,264.9l-1.8,-10.3l-1.6,10.3h3.4" class="g2"/>
+<path fill-rule="evenodd" d="M800.7,264.9l-1.8,-10.3l-1.6,10.3h3.4Z" class="g3"/>
+<path d="M800.7,464.9l-1.8,10.2l-1.6,-10.2h3.4" class="g2"/>
+<path fill-rule="evenodd" d="M800.7,464.9l-1.8,10.2l-1.6,-10.2h3.4Z" class="g3"/>
+<path d="M743.9,254.6H804M743.9,475.1H804M798.9,254.6V475.1" class="g2"/>
+<g clip-path="url(#c0)">
+<g fill="#008080" >
+<use xlink:href="#f1_r" transform="matrix(0,-10.9,10.8,0,796.3,371)" />
+<use xlink:href="#f1_p" transform="matrix(0,-10.9,10.8,0,796.3,364.4)" />
+</g>
+</g>
+<text transform="matrix(0,-1,1,0,796,371)" class="s4">75</text>
+
+</g>
+<defs>
+<path d="M534,194h26c0,0,153,0,259,107c0,0,106,107,106,261c0,0,0,217,-212,338L534,194Zm-96,23L617,928H561c0,0,-149,0,-257,-107C304,821,196,713,196,564c0,0,0,-228,242,-347ZM356,-104l61,228c0,0,-317,118,-317,434c0,0,0,194,133,327c0,0,133,133,305,133c7,0,14,-1,21,-1h77l63,219H802L734,987c0,0,287,-126,287,-427c0,0,0,-191,-135,-327C886,233,751,98,559,98l-44,5L461,-104Z"
+id="f0_1h"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M313,-1L244,0V820L124,668H42L250,941h63V-1Z"
+id="f1_l"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M295,64c0,0,151,0,151,201c0,0,0,84,-52,136c0,0,-44,46,-176,46H136V224c0,0,0,-72,43,-116c0,0,43,-44,116,-44ZM294,-5c0,0,-80,0,-143,46c0,0,-83,62,-83,185V454c0,0,0,91,6,129c0,0,28,205,213,332c0,0,43,30,93,30V875c0,0,-40,-7,-81,-37c0,0,-27,-19,-75,-71c0,0,-88,-94,-88,-250H246c5,0,125,0,194,-62c0,0,73,-65,73,-188C513,267,513,57,367,6C367,6,331,-5,294,-5Z"
+id="f1_q"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M24,-144L76,101h67L91,-144H24Z"
+id="f1_g"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M325,0V216H46v62L244,940h69L115,286H325V490h70V286H539V216H395V0Z"
+id="f1_o"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M52,0V66H197c0,0,88,1,142,62c0,0,51,58,51,147c0,0,0,89,-43,146c0,0,-47,63,-135,63H115v68h98c0,0,83,0,129,69c0,0,15,22,20,49c0,0,2,14,2,62c0,0,0,62,-56,104c0,0,-50,37,-116,37H51v67H188c0,0,156,0,217,-118c0,0,24,-48,24,-90c0,0,0,-64,-12,-105c0,0,-20,-63,-83,-106c0,0,62,-26,95,-105c0,0,26,-64,26,-144c0,0,0,-120,-67,-194C388,78,319,0,200,0Z"
+id="f1_n"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M49,-2V63L437,630c0,0,31,47,31,100c0,0,0,38,-18,73l-17,28c0,0,-20,16,-34,23c0,0,-46,22,-111,22c0,0,-130,0,-173,-149H47c0,0,48,216,240,216c0,0,115,0,179,-55c0,0,68,-57,68,-168c0,0,0,-57,-25,-104L133,66H541V-2Z"
+id="f1_m"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M431,491V713c0,0,0,72,-43,116c0,0,-42,44,-115,44c0,0,-151,0,-151,-201c0,0,0,-84,52,-136c0,0,45,-45,176,-45ZM188,-7V62c0,0,40,7,81,37c0,0,27,19,75,72c0,0,87,94,87,249H321c-5,0,-125,1,-193,62c0,0,-73,66,-73,189c0,0,0,209,147,260c0,0,35,12,72,12c0,0,80,0,143,-48c0,0,83,-62,83,-184V482c0,0,0,-85,-6,-129C494,353,465,149,281,22c0,0,-43,-29,-93,-29Z"
+id="f1_t"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M299,57c0,0,87,0,134,57c0,0,44,53,44,142c0,0,0,82,-45,148c0,0,-52,74,-130,74c0,0,-80,0,-132,-72c0,0,-46,-64,-46,-148c0,0,0,-85,44,-141c0,0,49,-60,131,-60Zm2,489c0,0,65,0,102,53c0,0,34,47,34,114c0,0,0,70,-32,114c0,0,-36,49,-104,49c0,0,-67,0,-104,-50c0,0,-33,-45,-33,-113c0,0,0,-79,47,-127c0,0,39,-40,90,-40ZM300,-8C300,-8,82,-8,65,214l-4,38c0,0,0,13,0,25c0,0,0,152,139,237c0,0,-97,77,-97,198c0,0,0,95,51,160c0,0,56,71,148,71c0,0,94,0,150,-76c0,0,48,-65,48,-155c0,0,0,-117,-99,-198c0,0,136,-78,136,-300C537,214,537,48,386,4C386,4,343,-8,300,-8Z"
+id="f1_s"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M277,65c0,0,91,0,133,167c0,0,26,105,26,237c0,0,0,134,-24,236c0,0,-39,167,-132,167c0,0,-92,0,-134,-167c0,0,-26,-104,-26,-236c0,0,0,-124,27,-236c0,0,40,-168,130,-168Zm1,-73c0,0,-124,0,-183,189c0,0,-40,128,-40,288c0,0,0,472,225,472c0,0,223,0,223,-472c0,0,0,-164,-39,-289C464,180,406,-8,278,-8Z"
+id="f1_k"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M62,0V67H214c0,0,94,0,148,67c0,0,51,63,51,156c0,0,0,70,-37,120c0,0,-54,72,-168,73H71V940H463V872H140V550h94c0,0,112,0,179,-75c0,0,65,-72,65,-185c0,0,0,-201,-155,-268C323,22,270,0,217,0Z"
+id="f1_p"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M287,0H215L467,873H118V780H52V940H548V893L287,0Z"
+id="f1_r"
+transform="scale(0.001,-0.001)"/>
+
+<path d="M19,0L200,361L36,687h69L234,431L362,687l68,1L270,365L451,0H381L231,296L85,0H19Z"
+id="f1_2k"
+transform="scale(0.001,-0.001)"/>
+
+
+</defs>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: CIDFont-F1_8;
+	src: url("fonts/CIDFont-F1_8.woff") format("woff");
+}
+
+@font-face {
+	font-family: CIDFont-F2_9;
+	src: url("fonts/CIDFont-F2_9.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
