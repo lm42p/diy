@@ -22,6 +22,8 @@ Listing Parts
 
 U Base
 ''''''
+- Quantity : 1x
+- Material : anodized aluminium
 
 .. image:: figures/U_Base-3D-Electrical-Box-DIY-LM42P.PNG
     :width: 500
@@ -29,6 +31,8 @@ U Base
 
 U Top
 '''''
+- Quantity : 1x
+- Material : anodized aluminium
 
 .. image:: figures/U_Top-3D-Electrical-Box-DIY-LM42P.PNG
     :width: 500
@@ -36,80 +40,180 @@ U Top
 
 U Right
 '''''''
+- Quantity : 1x
+- Material : anodized aluminium
 
 .. image:: figures/U_Right-3D-DIY-LM42P.PNG
-    :width: 500
+    :width: 250
     :align: center
 
 
 U Left
 ''''''
+- Quantity : 1x
+- Material : anodized aluminium
 
 .. image:: figures/U_Left-3D-LM42P-DIY.PNG
-    :width: 500
+    :width: 250
     :align: center
 
 
-Spacer 6mm
-''''''''''
+Spacer 6-8-3mm
+''''''''''''''
+- Quantity : 4x
+- Material : aluminium
 
-.. image:: figures/Entretoise8_6-LM42P.PNG
-    :scale: 70 %
+.. image:: figures/Spacer_6_8_3mm-Electrical-Box-DIY-LM42P.PNG
+    :width: 300
     :align: center
 
 	    
-Square-10_12_9
-''''''''''''''
+Square 10-12-9mm
+''''''''''''''''
+- Quantity : 2x
+- Material : aluminium
+- Purpose : Reinforcement of the fixaton (glue) of the **Arduino Uno**
+  to the **U Base**   
 
-.. image:: figures/Square-10_12_9-LM42P-DIY.PNG
-    :scale: 70 %
+.. image:: figures/Square_10_12_9-Electrical-Box-DIY-LM42P.PNG
+    :width: 300
     :align: center
 
 	    
 Countersunk Head Screw M3 x 8mm
 ''''''''''''''''''''''''''''''''
-
-.. image:: figures/Countersunk-Head-Screw-M3x8mm-LM42P-DIY.PNG
-    :scale: 70 %
+- Quantity : 4x
+- Material : Stainless Steel
+- Purpose : To fix **Geckodrive** on the **U Base**
+  
+.. image:: figures/Countersunk_Head_Screw_M3x8mm-DIY-LM42P.PNG
+    :width: 300
     :align: center
-	    
-To fix Geckodrive on the U Base
-
 	    
 Countersunk Head Screw M3 x 12mm
 ''''''''''''''''''''''''''''''''
-
-.. image:: figures/Countersunk-Head-Screw-M3x12mm-LM42P-DIY.PNG
-    :scale: 70 %
+- Quantity : 4x
+- Material : Stainless Steel
+- Purpose : To fix the **Amphenol Plug** on the **U Right**
+  
+.. image:: figures/Countersunk_Head_Screw_M3x12mm-DIY-LM42P.PNG
+    :width: 300
     :align: center
 	    
-To fix the Amphenol Plug on the U Right
-
-
 Countersunk Head Screw M3 x 14mm
 ''''''''''''''''''''''''''''''''
+- Quantity : 3x
+- Material : Stainless Steel
+- Purpose : To fix the **Power 36V** on the **U Base**  
 
-To fix the Power 36V also the Ground Terminal on the U Base
-
-.. image:: figures/Countersunk-Head-Screw-M3x14mm-LM42P-DIY.PNG
-    :scale: 70 %
+.. image:: figures/Countersunk_Head_Screw_M3x14mm-DIY-LM42P.PNG
+    :width: 250
     :align: center
 
+Countersunk Head Screw M3 x 16mm
+''''''''''''''''''''''''''''''''
+- Quantity : 1x
+- Material : Stainless Steel
+- Purpose : To fix the **Power 36V** also the **Ground Terminal** on
+  the **U Base**  
+
+.. image:: figures/Countersunk_Head_Screw_M3x16mm-DIY-LM42P.PNG
+    :width: 350
+    :align: center
+       
 	    
 Geckodrive G201X
 ''''''''''''''''
+Quantity : 1x
 
-.. image:: figures/Geckodrive-G201X.jpg
-    :scale: 70 %
+.. image:: figures/Geckodrive_G201X-Electrical-Box-DIY-LM42P.jpg
+    :width: 350
     :align: center
 
+Arduino Uno
+'''''''''''
+
+.. image:: figures/Arduino_Uno-DIY-LM42P.jpg
+    :width: 350
+    :align: center
+       
 
 Power 36V
 '''''''''
+- Quantity : 1x
+  
+.. image:: figures/Power_36V-Electrical-Box-DIY-LM2P.jpg
+    :width: 450
+    :align: center
 
-.. image:: figures/Power36V.jpg
-    :scale: 50 %
-    :align: center	    
+	    
+Power 36/12V
+''''''''''''
+- Quantity : 1x
+- Type : LM2596
+
+.. image:: figures/Power_36_12V-Electrical-Box-DIY-LM42P.JPG
+    :width: 250
+    :align: center
+
+	    
+Connector Plug 5 pins Male Insert
+'''''''''''''''''''''''''''''''''
+- Quantity : 1x
+
+.. image:: figures/Connector_Plug_5_pins_Male_Insert-Electrical-Box-DIY-LM42P.jpg
+    :width: 250
+    :align: center	    	    
+
+	    
+Connector Socket 5 pins Female Insert
+'''''''''''''''''''''''''''''''''''''
+- Quantity : 1x
+  
+.. image:: figures/Socket_5_pins_Female_Insert-Electrical-Box-DIY-LM42P.jpg
+    :width: 250
+    :align: center
+
+Plug RJ45
+'''''''''
+- Quantity : 1x
+- Include : 2x screw M3, 2x nuts M3 and 2x spring washer
+  
+.. image:: figures/Plug_RJ45-Electrical-Box-DIY-LM42P.jpg
+    :width: 250
+    :align: center
+
+Cable Gland
+'''''''''''
+- Quantity : 1x
+- Type : M16 4.5-10mm
+- Include : 1x nuts M16  
+
+.. image:: figures/Cable_Gland_M16_4,5-10mm-Electrical-Box-DIY-LM42P.jpg
+    :width: 170
+    :align: center
+
+Cable Ties
+''''''''''
+
+- Quantity : 1x
+- Purpose : To be sur that the **Cable Silicone 3 cores** can't be
+  pull out
+
+.. image:: figures/Cable_Ties-Electrical-Box-DIY-LM42P.jpg
+    :width: 170
+    :align: center
+
+Cable Silicone 3 Cores
+''''''''''''''''''''''
+- Length : 1x 2m
+- Type : 0.75mm^2 
+- Note : I used silicone because it's easy to fold.  
+	    
+.. image:: figures/Cable_Silicone_3_Cores-Electrical-Box-DIY-LM42P.jpg	    
+    :width: 200
+    :align: center
+  
 
 Capacitor
 '''''''''
@@ -127,6 +231,8 @@ The Sheets Parts
     :align: center
 	    
 See **Video** :
+
+.. class:: center
 
 .. raw:: html
 
@@ -146,6 +252,25 @@ Material : aluminium
     :align: center
 
     U Base
+
+.. figure:: figures/U_Top-Drawing-Electrical-Box-DIY-LM42P.PNG
+    :width: 500
+    :align: center
+
+    U Top
+
+.. figure:: figures/U_Right-Drawing-Electrical-Box-DIY-LM42P.PNG
+    :width: 500
+    :align: center
+
+    U Right
+
+.. figure:: figures/U_Left-Drawing-Electrical-Box-DIY-LM42P.PNG
+    :width: 500
+    :align: center
+
+    U Left   
+
 
 
 Scrape the surface on the U Base
