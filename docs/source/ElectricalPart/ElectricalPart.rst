@@ -58,69 +58,8 @@ U Left
     :align: center
 
 
-Spacer 6-8-3mm
-''''''''''''''
-- Quantity : 4x
-- Material : aluminium
 
-.. image:: figures/Spacer_6_8_3mm-Electrical-Box-DIY-LM42P.PNG
-    :width: 300
-    :align: center
-
-	    
-Square 10-12-9mm
-''''''''''''''''
-- Quantity : 2x
-- Material : aluminium
-- Purpose : Reinforcement of the fixaton (glue) of the **Arduino Uno**
-  to the **U Base**   
-
-.. image:: figures/Square_10_12_9-Electrical-Box-DIY-LM42P.PNG
-    :width: 300
-    :align: center
-
-	    
-Countersunk Head Screw M3 x 8mm
-''''''''''''''''''''''''''''''''
-- Quantity : 4x
-- Material : Stainless Steel
-- Purpose : To fix **Geckodrive** on the **U Base**
-  
-.. image:: figures/Countersunk_Head_Screw_M3x8mm-DIY-LM42P.PNG
-    :width: 300
-    :align: center
-	    
-Countersunk Head Screw M3 x 12mm
-''''''''''''''''''''''''''''''''
-- Quantity : 4x
-- Material : Stainless Steel
-- Purpose : To fix the **Amphenol Plug** on the **U Right**
-  
-.. image:: figures/Countersunk_Head_Screw_M3x12mm-DIY-LM42P.PNG
-    :width: 300
-    :align: center
-	    
-Countersunk Head Screw M3 x 14mm
-''''''''''''''''''''''''''''''''
-- Quantity : 3x
-- Material : Stainless Steel
-- Purpose : To fix the **Power 36V** on the **U Base**  
-
-.. image:: figures/Countersunk_Head_Screw_M3x14mm-DIY-LM42P.PNG
-    :width: 250
-    :align: center
-
-Countersunk Head Screw M3 x 16mm
-''''''''''''''''''''''''''''''''
-- Quantity : 1x
-- Material : Stainless Steel
-- Purpose : To fix the **Power 36V** also the **Ground Terminal** on
-  the **U Base**  
-
-.. image:: figures/Countersunk_Head_Screw_M3x16mm-DIY-LM42P.PNG
-    :width: 350
-    :align: center
-       
+   
 	    
 Geckodrive G201X
 ''''''''''''''''
@@ -213,13 +152,145 @@ Cable Silicone 3 Cores
 .. image:: figures/Cable_Silicone_3_Cores-Electrical-Box-DIY-LM42P.jpg	    
     :width: 200
     :align: center
+
+	    
+Plug 110 / 220 V
+''''''''''''''''
+
+
+.. image:: figures/Plug_110_220V-Electrical-Box-DIY-LM42P.JPG
+    :width: 400
+    :align: center
+	    
+Male PCB PIN Header
+'''''''''''''''''''
+- Quantity : 3x
+
+.. image:: figures/Male_PCB_PIN_Header-DIY-LM42P.jpg
+    :width: 250
+    :align: center
+
+Connector RJ45
+''''''''''''''
+- Quantity : 1x
+- Length : 15cm  
+
+.. image:: figures/Connector_RJ45_length_15cm-DIY-LM42P.jpg
+    :width: 400
+    :align: center
+
+Ground Terminal M3
+''''''''''''''''''
+- Quantity : 1x
+
+.. image:: figures/Ground_Terminal_M3-Electrical-Box-DIY-LM42P.jpg
+    :width: 200
+    :align: center
+
+	    
+Capacitor Polarized 1uF
+'''''''''''''''''''''''
+- Quantity : 1x
+- Purpose : This reduce the noise while reading the speed on the
+  remote-control
+
+.. image:: figures/Capacitor_1uf_polarized-Electrical-Box-DIY-LM42P.jpg
+    :width: 400
+    :align: center	      
+
+Spacer 6-8-3mm
+''''''''''''''
+- Quantity : 4x
+- Material : aluminium
+
+.. image:: figures/Spacer_6_8_3mm-Electrical-Box-DIY-LM42P.PNG
+    :width: 300
+    :align: center
+
+	    
+Square 10-12-9mm
+''''''''''''''''
+- Quantity : 2x
+- Material : aluminium
+- Purpose : Reinforcement of the fixaton (glue) of the **Arduino Uno**
+  to the **U Base**   
+
+.. image:: figures/Square_10_12_9-Electrical-Box-DIY-LM42P.PNG
+    :width: 300
+    :align: center
+
+	    
+Countersunk Head Screw M3 x 8mm
+''''''''''''''''''''''''''''''''
+- Quantity : 4x
+- Material : Stainless Steel
+- Purpose : To fix **Geckodrive** on the **U Base**
   
+.. image:: figures/Countersunk_Head_Screw_M3x8mm-DIY-LM42P.PNG
+    :width: 300
+    :align: center
+	    
+Countersunk Head Screw M3 x 12mm
+''''''''''''''''''''''''''''''''
+- Quantity : 4x
+- Material : Stainless Steel
+- Purpose : To fix the **Amphenol Plug** on the **U Right**
+  
+.. image:: figures/Countersunk_Head_Screw_M3x12mm-DIY-LM42P.PNG
+    :width: 300
+    :align: center
+	    
+Countersunk Head Screw M3 x 14mm
+''''''''''''''''''''''''''''''''
+- Quantity : 3x
+- Material : Stainless Steel
+- Purpose : To fix the **Power 36V** on the **U Base**  
 
-Capacitor
+.. image:: figures/Countersunk_Head_Screw_M3x14mm-DIY-LM42P.PNG
+    :width: 250
+    :align: center
+
+Countersunk Head Screw M3 x 16mm
+''''''''''''''''''''''''''''''''
+- Quantity : 1x
+- Material : Stainless Steel
+- Purpose : To fix the **Power 36V** also the **Ground Terminal** on
+  the **U Base**  
+
+.. image:: figures/Countersunk_Head_Screw_M3x16mm-DIY-LM42P.PNG
+    :width: 350
+    :align: center
+
+Washer M3
 '''''''''
+- Quantity : 12x
 
-This reduce the noise while reading the speed on the remote-control 
+.. image:: figures/Washer_M3-Electrical-Box-DIY-LM42P.jpg
+    :width: 200
+    :align: center  	    	    
 
+Rivet
+'''''
+- Quantity : 14x
+- Type : diameter 3mm, length 6mm  
+- Material : Stainless Steel
+
+.. image:: figures/Rivet_3mm_length_6mm-Electrical-Box-DIY-LM42P.jpg
+    :width: 350
+    :align: center
+	    
+Glue Silicone
+'''''''''''''
+- Quantity : 1x
+- Type : Polyflex 444
+
+.. image:: figures/Glue_Mastic_Polyflex_444-Electrical-Box-DIY-LM42P.jpg 
+    :width: 300
+    :align: center	      
+
+
+	    
+	    
 Operation Plan
 ^^^^^^^^^^^^^^
 
@@ -231,8 +302,6 @@ The Sheets Parts
     :align: center
 	    
 See **Video** :
-
-.. class:: center
 
 .. raw:: html
 
@@ -270,7 +339,6 @@ Material : aluminium
     :align: center
 
     U Left   
-
 
 
 Scrape the surface on the U Base
