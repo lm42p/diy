@@ -56,10 +56,6 @@ U Left
 .. image:: figures/U_Left-3D-LM42P-DIY.PNG
     :width: 250
     :align: center
-
-
-
-   
 	    
 Geckodrive G201X
 ''''''''''''''''
@@ -157,7 +153,6 @@ Cable Silicone 3 Cores
 Plug 110 / 220 V
 ''''''''''''''''
 
-
 .. image:: figures/Plug_110_220V-Electrical-Box-DIY-LM42P.JPG
     :width: 400
     :align: center
@@ -186,7 +181,6 @@ Ground Terminal M3
 .. image:: figures/Ground_Terminal_M3-Electrical-Box-DIY-LM42P.jpg
     :width: 200
     :align: center
-
 	    
 Capacitor Polarized 1uF
 '''''''''''''''''''''''
@@ -276,36 +270,37 @@ Rivet
 - Material : Stainless Steel
 
 .. image:: figures/Rivet_3mm_length_6mm-Electrical-Box-DIY-LM42P.jpg
-    :width: 350
+    :width: 250
     :align: center
 	    
 Glue Silicone
 '''''''''''''
 - Quantity : 1x
 - Type : Polyflex 444
-
+- Purpose : To glue the **Arduino Uno** to the **U Base** using the
+  **Square 10-12-9mm** to fix stronger
+  
 .. image:: figures/Glue_Mastic_Polyflex_444-Electrical-Box-DIY-LM42P.jpg 
     :width: 300
     :align: center	      
 
-
-	    
 	    
 Operation Plan
 ^^^^^^^^^^^^^^
 
-The Sheets Parts
-''''''''''''''''
+Make The Sheets Parts
+'''''''''''''''''''''
 
 .. image:: figures/Make_The_Sheets_Parts-Electrical-Box-DIY-LM42P.jpg
     :width: 500
     :align: center
 	    
-See **Video** :
+Make the **U Base**, **U Right** and the **U Left** following this
+**Video**, see also the drawings below : 
 
 .. raw:: html
 
-    <iframe width="350" height="196.875"
+    <iframe width="500" height="350"
     src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=0&end=1078"
     frameborder="0" 
     allowfullscreen></iframe>
@@ -340,65 +335,117 @@ Material : aluminium
 
     U Left   
 
+Make the Spacer 6-8-3mm
+'''''''''''''''''''''''
+See the following video :
+
+.. raw:: html
+
+    <iframe width="500" height="350"
+    src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=1025&end=1275"
+    frameborder="0" 
+    allowfullscreen></iframe>
+
+|br|
+
+**Drawing** :
+
+- Quantity : 4x
+- Material : aluminium
+
+.. figure:: figures/Spacer_6_8_3mm-Electrical-Box-DIY-LM42P.PNG
+    :width: 300
+    :align: center
+
+    Spacer 6-8-3mm
+
+Make the Square 10-12-9mm
+'''''''''''''''''''''''''
+See the following video :
+
+.. raw:: html
+
+    <iframe width="500" height="350"
+    src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=1276&end=1356"
+    frameborder="0" 
+    allowfullscreen></iframe>
+
+|br|
+
+**Drawing** :
+
+- Quantity : 2x
+- Material : aluminium
+
+.. figure:: figures/Square_10_12_9-Electrical-Box-DIY-LM42P.PNG
+    :width: 300
+    :align: center
+
+    Square 10-12-9mm        
 
 Scrape the surface on the U Base
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+''''''''''''''''''''''''''''''''
 
-To ensure good contact with the ground
+File the bottom of the **U Base** (only the part where the red framed
+hole is) so that the grounding contact faces well. This operation is
+not necessary if you are using non anodized sheets.
+
+.. note:: The anodized surfaces are not
+	  conductive.  
+
+.. image:: figures/Scrape_Surface_U_Base-Electrical-Box-DIY-LM42P.jpg
+    :width: 500
+    :align: center
 
 See Video :
 
 .. raw:: html
 
-    <iframe width="350" height="196.875"
+    <iframe width="500" height="350"
     src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=152&end=173"
     frameborder="0" 
     allowfullscreen></iframe>
 
 |br|
 
-
-
 Control Power 36V 
-^^^^^^^^^^^^^^^^^
+''''''''''''''''''
 Control the voltage of the output of the Power 36V with a voltmeter. It
 should be 36V.
 
 
 Adjust voltage Power 36/12V
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''
 
-Materials:
-''''''''''
+**Materials:**
 
-* 1 wire 0.5mm^2 red length = 12cm
-* 1 wire 0.5mm^2 red length = 15cm
-* 1 wire 0.5mm^2 black length = 14cm
-* 1 wire 0.5mm^2 black length = 6cm
+* 1 wire 0.5mm^2 red length = 120mm
+* 1 wire 0.5mm^2 red length = 150mm
+* 1 wire 0.5mm^2 black length = 140mm
+* 1 wire 0.5mm^2 black length = 60mm
 
-Sold the wire
-'''''''''''''
+1) Sold the wire
+
 .. image:: figures/Power36_12V-Black-Wired-LM42P.PNG
-    :scale: 60 %
+    :width: 500
     :align: center
 
 .. image:: figures/Power36_12V-Red-Wired-LM42P.PNG
-    :scale: 60 %
+    :width: 500
     :align: center
 
-Wire the Power 36/12V
-'''''''''''''''''''''
+2) Wire the Power 36/12V
 
-1) Connect the Power 36/12V IN  to the Power 36V OUT
-2) Connect the voltmeter to Power 36/12V OUT
+ - Connect the Power 36/12V IN  to the Power 36V OUT
+ - Connect the voltmeter to Power 36/12V OUT
 
-Adjust the voltage
-''''''''''''''''''
-With a *Screwdriver 0*, adjust the voltage to 12V
+3) Adjust the voltage
+
+ With a *Screwdriver 0*, adjust the voltage to 12V
    
    
 Fix the Power Cable to the Electrical Box
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''''
 
 See Video :
 
@@ -418,7 +465,7 @@ See Video :
 
 
 Set Geckodrive current limit
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+''''''''''''''''''''''''''''
 
 - For G203V :
 
@@ -434,8 +481,8 @@ Set Geckodrive current limit
  	:align: center
 		
    
-Fix the Power 36V and Geckodrive on the U Base
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Screw the Power 36V and Geckodrive on the U Base
+''''''''''''''''''''''''''''''''''''''''''''''''
 
 Use threadlocker glue.
 
@@ -466,7 +513,7 @@ Use threadlocker glue.
 
 
 Glue the Power 36/12V and Arduino
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''''''''
 
 Glue the Arduino at the U base with silicone Polyflex 444 and
 Square-10_12_9 
@@ -480,7 +527,7 @@ Square-10_12_9
     :align: center 	    
 
 Wiring
-^^^^^^
+''''''
 
 .. image:: figures/Electrical-Box-Open.jpg
     :scale: 30 %
@@ -578,6 +625,16 @@ GECKODRIVE         Female Connector (MOTOR)  Cable Length
 6 (WINDING not B)  D                          "
 =================  ========================  ============
 
+	    
+
+
+
+Remote Control
+--------------
+
+Wiring the Remote Control
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. image:: figures/Remote-Control-Wiring.png
    :scale: 70 %
    :align: center
@@ -591,13 +648,62 @@ GND             8
 \+5V            7
 ==============  ============================
 
-Connect the Amphenol Plug Male
-------------------------------
+#. strip the cable at 7cm
+#. cut the unused wire
+#. use the cutted unused wire to make the bridge between GRD and +5V
+   inside the Remote Control
 
-1. strip the cable at 3cm
-2. strip the 4 wires and solder the wires
-3. 5cm from the edge roll up the 10-layer adhesive tape
-4. pass the cable and solder the wires in the plug in
+Stepper Motor
+-------------
+
+Connect and fix the 4 poles cable on the Stepper Motor
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+#. déballage et contrôle du moteur
+#. couper le cable en silicone à 2.2m
+#. couper le fil rouge à 47mm; couper le fil jaune à 57mm; couper le
+   fil bleu à 67mm, couper le fil vert à 77mm see following picture
+
+   .. image:: figures/Cut-Motor-Cable.jpg
+     :scale: 30 %
+     :align: center
+	     
+#. dénuder, torsader, étamer les fils du moteur à 5mm
+#. couper la gaine thermo à 37mm de longueur et la serrer avec foehn
+   industriel. Le fil rouge doit dépasser d'environ 5mm (pour les 4
+   fils)
+#. dénuder le cable en silicone à 45mm
+#. couper sur le cable en silicone le fil rouge à 40mm; le fil jaune à
+   30mm; le fil noir à 20mm; le fil vert à 10mm.
+#. dénuder, torsader, étamer les fils du câble à 5mm
+#. couper gaine thermo à 13mm (pour passer 1es fils)
+#. mettre gaine thermo 13mm + tube (Attention au chanfrein) et souder
+#. dégraisser tube, câble et moteur à l'acétone; mettre la vis M5 NE
+   PAS OUBLIER!; injecter le Polyflex par le trou diam. 4.5mm jusqu'à
+   ce que ça sorte des deux cotés du tube; prendre le surplus et
+   l'appliquer sur le moteur sur la rainure où la vis M5 a été placée;
+   tourner le tube à ce que le trou d'injection soit contre le moteur
+   et ne soit voit pas; mettre une bride sur le cable, plaquer le tube
+   avec le clamp see following picture;
+   
+   .. image:: figures/Fix-Motor-Cable.jpg
+     :scale: 40 %
+     :align: center
+	    
+   injecter si besoin à l'extrémiter du tube où il y a le chanfrein et
+   mettre un peu de Polyflex vert le moteur si l'on voit les fils qui
+   dépassent un peu de la gaine thermo ;
+   
+#. laisser durcir; nettoyer et enlever les bourelets sur tube cordon.
+
+    
+Connect the Amphenol Plug Male
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+#. strip the cable at 3cm
+#. strip the 4 wires and solder the wires
+#. 5cm from the edge roll up the 10-layer adhesive tape
+#. pass the cable and solder the wires in the plug in
    counter-clockwise order 
    
    * black
@@ -608,61 +714,7 @@ Connect the Amphenol Plug Male
    .. image:: figures/Wires-Plug.png
     :scale: 120 %
     :align: center
-	    
-5. assemble the plug and tighten the flange
-
-
-Wiring the Remote Control
--------------------------
-
-1. strip the cable at 7cm
-2. cut the unused wire
-3. use the cutted unused wire to make the bridge between GRD and +5V
-   inside the Remote Control
-
-   
-Connect and fix the 4 poles cable on the stepper motor
-------------------------------------------------------
-
-1. déballage et contrôle du moteur
-2. couper le cable en silicone à 2.2m
-3. couper le fil rouge à 47mm; couper le fil jaune à 57mm; couper le
-   fil bleu à 67mm, couper le fil vert à 77mm see following picture
-
-   .. image:: figures/Cut-Motor-Cable.jpg
-     :scale: 30 %
-     :align: center
-	     
-4. dénuder, torsader, étamer les fils du moteur à 5mm
-5. couper la gaine thermo à 37mm de longueur et la serrer avec foehn
-   industriel. Le fil rouge doit dépasser d'environ 5mm (pour les 4
-   fils)
-6. dénuder le cable en silicone à 45mm
-7. couper sur le cable en silicone le fil rouge à 40mm; le fil jaune à
-   30mm; le fil noir à 20mm; le fil vert à 10mm.
-8. dénuder, torsader, étamer les fils du câble à 5mm
-9. couper gaine thermo à 13mm (pour passer 1es fils)
-10. mettre gaine thermo 13mm + tube (Attention au chanfrein) et souder
-11. dégraisser tube, câble et moteur à l'acétone; mettre la vis M5 NE
-    PAS OUBLIER!; injecter le Polyflex par le trou diam. 4.5mm jusqu'à
-    ce que ça sorte des deux cotés du tube; prendre le surplus et
-    l'appliquer sur le moteur sur la rainure où la vis M5 a été
-    placée; tourner le tube à ce que le trou d'injection soit contre
-    le moteur et ne soit voit pas; mettre une bride sur le cable,
-    plaquer le tube avec le clamp see following picture; 
-   
-   .. image:: figures/Fix-Motor-Cable.jpg
-     :scale: 40 %
-     :align: center
-	    
-   injecter si besoin à l'extrémiter du tube où il y a le chanfrein et
-   mettre un peu de Polyflex vert le moteur si l'on voit les fils qui
-   dépassent un peu de la gaine thermo
-   
-12. laisser durcir; nettoyer et enlever les bourelets sur tube cordon 
-
-
-
+#. assemble the plug and tighten the flange
 
 
 
