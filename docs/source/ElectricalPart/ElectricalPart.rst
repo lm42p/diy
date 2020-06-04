@@ -43,23 +43,22 @@ U Right
 - Quantity : 1x
 - Material : anodized aluminium
 
-.. image:: figures/U_Right-3D-DIY-LM42P.PNG
+.. image:: figures/U_Right-3D-Electrical-Box-DIY-LM42P.PNG
     :width: 250
     :align: center
-
 
 U Left
 ''''''
 - Quantity : 1x
 - Material : anodized aluminium
 
-.. image:: figures/U_Left-3D-LM42P-DIY.PNG
+.. image:: figures/U_Left-3D-Electrical-Box-DIY-LM42P.PNG
     :width: 250
     :align: center
 	    
 Geckodrive G201X
 ''''''''''''''''
-Quantity : 1x
+- Quantity : 1x
 
 .. image:: figures/Geckodrive_G201X-Electrical-Box-DIY-LM42P.jpg
     :width: 350
@@ -67,7 +66,8 @@ Quantity : 1x
 
 Arduino Uno
 '''''''''''
-
+- Quantity : 1x
+  
 .. image:: figures/Arduino_Uno-DIY-LM42P.jpg
     :width: 350
     :align: center
@@ -159,7 +159,9 @@ Plug 110 / 220 V
 	    
 Male PCB PIN Header
 '''''''''''''''''''
-- Quantity : 3x
+- 1x 15 pins
+- 1x 10 pins
+- 1x 8 pins
 
 .. image:: figures/Male_PCB_PIN_Header-DIY-LM42P.jpg
     :width: 250
@@ -261,7 +263,15 @@ Washer M3
 
 .. image:: figures/Washer_M3-Electrical-Box-DIY-LM42P.jpg
     :width: 200
-    :align: center  	    	    
+    :align: center
+
+Nuts M3
+'''''''
+- Quantity : 12x
+
+.. image:: figures/Nuts_M3-Electrical-Box-DIY-LM42P.jpg
+    :width: 170
+    :align: center	    
 
 Rivet
 '''''
@@ -284,7 +294,16 @@ Glue Silicone
     :width: 300
     :align: center	      
 
-	    
+Threadlocker Glue
+'''''''''''''''''
+- Quantity : 1x
+- Type : Loctite 243
+- Purpose : To glue the **Nuts M3**
+  
+.. image:: figures/Threadlocker_Glue-Electrical-Box-DIY-LM42P.JPG
+    :width: 170
+    :align: center	      
+       
 Operation Plan
 ^^^^^^^^^^^^^^
 
@@ -410,8 +429,8 @@ See Video :
 
 Control Power 36V 
 ''''''''''''''''''
-Control the voltage of the output of the Power 36V with a voltmeter. It
-should be 36V.
+Control the voltage of the output of the Power 36V with a
+voltmeter. It should be 36V.
 
 
 Adjust voltage Power 36/12V
@@ -426,11 +445,11 @@ Adjust voltage Power 36/12V
 
 1) Sold the wire
 
-.. image:: figures/Power36_12V-Black-Wired-LM42P.PNG
+.. image:: figures/Power36_12V-Black-Wired-Electrical-Box-LM42P.PNG
     :width: 500
     :align: center
 
-.. image:: figures/Power36_12V-Red-Wired-LM42P.PNG
+.. image:: figures/Power36_12V-Red-Wired-Electrical-Box-LM42P.PNG
     :width: 500
     :align: center
 
@@ -451,17 +470,17 @@ See Video :
 
 .. raw:: html
 
-    <iframe width="350" height="196.875"
+    <iframe width="500" height="350"
     src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=1355&end=1581"
     frameborder="0" 
     allowfullscreen></iframe>
 
-1) Strip the *Power Cable* at 10cm
-2) Fix the *Cable Gland* to the *Electrical Box*
-3) Tighten *Cable Gland*
-4) Tighten the *Flange* and cut it with the *Cutting Pliers*
-5) Tighten the *Terminal* on the ground wire
-6) Tighten the Phase and Neutre to *Power 36V IN*
+#. Strip the **Cable Silicone 3 Cores** at 10cm 
+#. Fix the **Cable Gland** to the **U Base**
+#. Tighten **Cable Gland**
+#. Tighten the **Cable Ties** and cut it with a *Cutting Pliers*
+#. Tighten the **Ground Terminal M3** on the ground wire (yellow)
+#. Tighten the Phase and Neutre to **Power 36V** "IN"
 
 
 Set Geckodrive current limit
@@ -476,7 +495,7 @@ Set Geckodrive current limit
 
   set the switches like the following figure
 
-  .. image:: figures/Switch-5A-G201X.png
+  .. image:: figures/Switch_5A_G201X-Electrical-Box-DIY-LM42P.png
   	:scale: 70 %
  	:align: center
 		
@@ -484,82 +503,94 @@ Set Geckodrive current limit
 Screw the Power 36V and Geckodrive on the U Base
 ''''''''''''''''''''''''''''''''''''''''''''''''
 
-Use threadlocker glue.
+.. note:: Use **Threadlocker Glue**.
 
-.. image:: figures/Fix-Power36V-Gecko.jpg
-  	:scale: 60 %
+.. image:: figures/Fix_Power36V_Gecko-Electrical-Box-DIY-LM42P.jpg
+  	:width: 500
  	:align: center
 
 - For Power 36V :
   
-  Use the Spacer 6mm, Countersunk Head Screw M3 x 12mm, washer and
-  nuts  
+  #. Fix three corners of the **Power 36V** by using :
+       * 3x **Spacer 6-8-3mm**
+       * 3x **Countersunk Head Screw M3 x 14mm**
+       * 3x **Washer M3**
+       * 3x **Nuts M3**
+  #. Fix the last corner : The ground to the U Base by using : 
+       * 1x **Countersunk Head Screw M3 x 16mm**
+       * 1x **Washer M3**
+       * 1x **Nuts M3**
+       * 1x **Ground Terminal M3** (the ground on the **Cable Silicone 3
+         Cores** 
 
-  Fix the ground to the U Base
+    =========  ===================    
+    Power 36V  U Base
+    =========  ===================
+    GROUND     screw with *Spacer*
+    =========  ===================
 
-  =========  ===================    
-  Power 36V  Aluminium Box
-  =========  ===================
-  GROUND     screw with *Spacer*
-  =========  ===================
-
-  .. image:: figures/Power36V-Ground.jpg
-  	:scale: 50 %
+    .. image:: figures/Power36V_Ground_Electrical-Box-DIY-LM42P.jpg
+  	:width: 500
  	:align: center
-		
-- For Geckodrive :
+  
+- For Geckodrive use :
 
-  Use Countersunk Head Screw M3 x 8mm, washer and nuts 
+  - 4x **Head Screw M3 x 8mm**
+  - 4x **Washer M3**
+  - 4x **Nuts M3**
 
+Glue the Power 36/12V and Arduino Uno
+'''''''''''''''''''''''''''''''''''''
 
-Glue the Power 36/12V and Arduino
-'''''''''''''''''''''''''''''''''
-
-Glue the Arduino at the U base with silicone Polyflex 444 and
-Square-10_12_9 
+Glue the **Arduino Uno** at the **U Base** with **Glue Silicone** and
+**Square 10-12-9mm** and the **Power 36/12V**. 
  
-.. image:: figures/Boitier-Electrique-Sans-Couvercle.PNG
-    :scale: 40 %
+.. image:: figures/Glue_Power36_12V_Arduino-Electrical-Box-DIY-LM42P.PNG
+    :width: 500
     :align: center
 
-.. image:: figures/Glue-Power36V-12V-Arduino.jpg
-    :scale: 70 %
+.. image:: figures/Glue_Power36_12V_Arduino-Electrical-Box-DIY-LM42P.jpg
+    :width: 500
     :align: center 	    
 
 Wiring
 ''''''
-
-.. image:: figures/Electrical-Box-Open.jpg
-    :scale: 30 %
+.. image:: figures/Electrical_Box_Open-DIY-LM42P.jpg
+    :width: 500
     :align: center
 
 See video :
 
 .. raw:: html
 
-    <iframe width="350" height="196.875"
+    <iframe width="500" height="350"
     src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=1581&end=1806"  
     frameborder="0" 
     allowfullscreen></iframe>
-
     
-1) Connect the wires to the "Barrette" except the POWER 36/12V OUT+
+|br|
 
-   Use two clamps this help to sold the "Barrette"
+1. Sold the wires to the **Male PCB PIN Header** (15, 10, 8 pins),
+   except the POWER 36/12V OUT+ 
 
-.. image:: figures/Clamps-Sold.jpg
- :scale: 50 %
+   Use two clamps this help to sold the **Male PCB PIN Header**
+
+.. image:: figures/Clamps_Sold-Electrical-Box-DIY-LM42P.jpg
+ :width: 500
  :align: center
-   
-.. image:: figures/Barette-Pin-Left.PNG
- :scale: 70 %
+
+.. figure:: figures/Male_PCB_PIN_Header_15Pins-Electrical-Box-DIY-LM42P.PNG
+ :width: 250
  :align: center
 
-	    
-.. image:: figures/Barette-Pin-Right.PNG
- :scale: 70 %
+ Male PCB PIN Header 15 pins
+	 
+.. figure:: figures/Male_PCB_PIN_Header_10_8Pins-Electrical-Box-DIY-LM42P.PNG
+ :width: 250
  :align: center	    
 
+ Male PCB PIN Header 1x 10 pins, 1x 8 pins
+	 
 ===========  =======  ============
 GECKODRIVE   ARDUINO  Cable Lenght
 ===========  =======  ============
@@ -575,9 +606,9 @@ OUT-          GND      6cm
 OUT+          VIN      12cm
 ============  =======  ============
 
-.. image:: figures/RJ45-Show-Pin1.png
-	:scale: 70 %
-	:align: center
+.. image:: figures/RJ45_Show_Pin1-Electrical-Box-DIY-LM42P.png
+  :scale: 70 %
+  :align: center
 
 ============  =======================  ============
 ARDUINO       RJ45 cable (inside Box)  Cable Length
@@ -592,14 +623,13 @@ GND           8 sold capacitor -       12cm
 \+5V          7                          "
 ============  =======================  ============
 
+2. Sold the Capacitor between A0 and GND (8) see folowing picture
 
-2) Sold the Capacitor between A0 and GND (8) see folowing picture
+.. image:: figures/Sold_Capacitor-Electrical-Box-DIY-LM42P.jpg
+   :width: 500
+   :align: center
 
-.. image:: figures/Capacitor.jpg
-    :scale: 30 %
-    :align: center
-
-3) Connect :
+3. Connect :
 
 =========  ================  ============
 Power 36V     GECKODRIVE     Cable Length
@@ -611,10 +641,9 @@ D+         2 (18 TO 80 VDC)   "
 =========  ============  ============
 Power 36V  POWER 36/12V  Cable Length            
 =========  ============  ============
-\-DC       IN-           14cm
-DC+        IN+           15cm
+\-DC       IN-           14cm 
+DC+        IN+           15cm  
 =========  ============  ============
-
 
 =================  ========================  ============
 GECKODRIVE         Female Connector (MOTOR)  Cable Length
@@ -625,12 +654,29 @@ GECKODRIVE         Female Connector (MOTOR)  Cable Length
 6 (WINDING not B)  D                          "
 =================  ========================  ============
 
-	    
+Upload the programm to **Arduino Uno** and final control
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+#. Plug the PC using an USB cable to the Electrical-Box
+#. Upload the programm (soon available)
+#. Control if every thing is ok (the **Remote Control** and **Stepper 
+   Motor** should be done). Do all these steps showed in that video
+   for the test :  
 
+   .. raw:: html
 
-
+    <iframe width="500" height="350"
+    src="https://www.youtube.com/embed/VgY4AlmjkgQ"
+    frameborder="0" 
+    allowfullscreen></iframe>
+#. Cover with **U Top** and **Rivet**
+    
 Remote Control
 --------------
+
+.. image:: figures/Remote-Control/Remote_Control_And_Wire_Remote-Control-DIY-LM42P.jpg
+    :width: 500
+    :align: center
+	    
 
 Wiring the Remote Control
 ^^^^^^^^^^^^^^^^^^^^^^^^^
