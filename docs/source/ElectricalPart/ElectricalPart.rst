@@ -319,7 +319,7 @@ Make the **U Base**, **U Right** and the **U Left** following this
 
 .. raw:: html
 
-    <iframe width="500" height="350"
+    <iframe width="350" height="245"
     src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=0&end=1078"
     frameborder="0" 
     allowfullscreen></iframe>
@@ -360,7 +360,7 @@ See the following video :
 
 .. raw:: html
 
-    <iframe width="500" height="350"
+    <iframe width="350" height="245"
     src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=1025&end=1275"
     frameborder="0" 
     allowfullscreen></iframe>
@@ -384,7 +384,7 @@ See the following video :
 
 .. raw:: html
 
-    <iframe width="500" height="350"
+    <iframe width="350" height="245"
     src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=1276&end=1356"
     frameborder="0" 
     allowfullscreen></iframe>
@@ -420,7 +420,7 @@ See Video :
 
 .. raw:: html
 
-    <iframe width="500" height="350"
+    <iframe width="350" height="245"
     src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=152&end=173"
     frameborder="0" 
     allowfullscreen></iframe>
@@ -470,7 +470,7 @@ See Video :
 
 .. raw:: html
 
-    <iframe width="500" height="350"
+    <iframe width="350" height="245"
     src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=1355&end=1581"
     frameborder="0" 
     allowfullscreen></iframe>
@@ -563,7 +563,7 @@ See video :
 
 .. raw:: html
 
-    <iframe width="500" height="350"
+    <iframe width="350" height="245"
     src="https://www.youtube.com/embed/RGeVY6nWUIQ?start=1581&end=1806"  
     frameborder="0" 
     allowfullscreen></iframe>
@@ -664,7 +664,7 @@ Upload the programm to **Arduino Uno** and final control
 
    .. raw:: html
 
-    <iframe width="500" height="350"
+    <iframe width="350" height="245"
     src="https://www.youtube.com/embed/VgY4AlmjkgQ"
     frameborder="0" 
     allowfullscreen></iframe>
