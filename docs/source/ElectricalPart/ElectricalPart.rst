@@ -589,10 +589,10 @@ See video :
  :width: 250
  :align: center	    
 
- Male PCB PIN Header 1x 10 pins, 1x 8 pins
+ Male PCB PIN Header 10 and 8 pins
 	 
 ===========  =======  ============
-GECKODRIVE   ARDUINO  Cable Lenght
+GECKODRIVE   ARDUINO  Cable Length
 ===========  =======  ============
 8 (DIR)      PIN 8    11cm
 9 (STEP)     PIN 9    11cm
@@ -658,9 +658,9 @@ Upload the programm to **Arduino Uno** and final control
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 #. Plug the PC using an USB cable to the Electrical-Box
 #. Upload the programm (soon available)
-#. Control if every thing is ok (the **Remote Control** and **Stepper 
-   Motor** should be done). Do all these steps showed in that video
-   for the test :  
+#. Control if every thing is ok (the ***Machine**, **Remote Control**,
+   **Stepper Motor** and the **Rod** should be done). Do all these
+   steps showed in that video for the test :  
 
    .. raw:: html
 
@@ -676,7 +676,66 @@ Remote Control
 .. image:: figures/Remote-Control/Remote_Control_And_Wire_Remote-Control-DIY-LM42P.jpg
     :width: 500
     :align: center
+
+Listing Parts
+^^^^^^^^^^^^^
+
+Box
+''''''''''''''''''
+- Quantity : 1x
+- 3D Printed in PLA  
+
+.. image:: figures/Remote-Control/Box-3D-Remote-Control-Box-DIY-LM42P.png
+    :width: 250
+    :align: center
+
+Cover
+'''''
+- Quantity : 1x
+- 3D Printed in PLA  
+
+.. image:: figures/Remote-Control/Cover-3D-Remote-Control-Box-DIY-LM42P.png
+    :width: 200
+    :align: center
+
+Potentiometer
+'''''''''''''
+- Quantity : 2x
+- Type : 10k
+
+.. image:: figures/Remote-Control/Potentiometer_R10k-Remote-Control-Box-DIY-LM42P.jpg
+    :width: 200
+    :align: center	    	    
 	    
+RJ45 Cable
+''''''''''
+- Quantity : 1x
+- Length : 2.5m  
+- Type : Ultrafine
+
+.. image:: figures/Remote-Control/RJ45_Cable-Remote-Control-Box-DIY-LM42P.PNG
+    :width: 200
+    :align: center	    	    
+
+	    	    
+Cable Gland
+'''''''''''
+- Quantity : 1x
+- Type : M12
+
+Screw
+'''''
+
+- Quantity : 4x
+- Type : 2.5
+- Length : 13mm
+- Stainless steel  
+
+
+
+
+
+
 
 Wiring the Remote Control
 ^^^^^^^^^^^^^^^^^^^^^^^^^
