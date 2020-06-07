@@ -681,7 +681,7 @@ Listing Parts
 ^^^^^^^^^^^^^
 
 Box
-''''''''''''''''''
+'''
 - Quantity : 1x
 - 3D Printed in PLA  
 
@@ -707,6 +707,14 @@ Potentiometer
     :width: 200
     :align: center	    	    
 	    
+Potentiommeter Knobs
+''''''''''''''''''''
+- Quantity : 1x Grey (stroke), 1x Gold (speed)
+  
+.. image:: figures/Remote-Control/Potentiometer_Knobs-Remote-Control-Box-LM42P.JPG
+    :width: 200
+    :align: center	    	    
+
 RJ45 Cable
 ''''''''''
 - Quantity : 1x
@@ -716,25 +724,69 @@ RJ45 Cable
 .. image:: figures/Remote-Control/RJ45_Cable-Remote-Control-Box-DIY-LM42P.PNG
     :width: 200
     :align: center	    	    
-
 	    	    
-Cable Gland
-'''''''''''
+Cable Gland M12
+'''''''''''''''
 - Quantity : 1x
-- Type : M12
+- Type : M12 3-6mm
+
+.. image:: figures/Remote-Control/Cable_Gland_M12-Remote-Control-Box-DIY-LM42P.JPG
+    :width: 150
+    :align: center
+
+Epoxy
+'''''
+- Resin and Hardener
+
+.. image:: figures/Remote-Control/Epoxy_Resin-Remote-Control-Box-DIY-LM42P.JPG
+    :width: 200
+    :align: center
+  
+	    
+Pigment Epoxy
+'''''''''''''
+- Quantity : 1x color black, 1x color red, 1x color green
+
+.. image:: figures/Remote-Control/Pigments_Epoxy-Remote-Control-Box-DIY-LM42P.JPG	    
+    :width: 250
+    :align: center
+
 
 Screw
 '''''
-
 - Quantity : 4x
-- Type : 2.5
+- Diameter : 2.9mm
 - Length : 13mm
-- Stainless steel  
+- Stainless steel
 
+.. image:: figures/Remote-Control/Scew_2_9_13-Remote-Control-Box-LM42P.JPG
+    :width: 110
+    :align: center
+	    
 
+Operation Plan
+^^^^^^^^^^^^^^
 
+Make the Box
+''''''''''''
+Print it in PLA.
+Infill = 50%
+File : soon available...
 
+Make the Cover
+''''''''''''''
+1. Print it in PLA.
+   Infill = 50%
+   File : soon available...  
+2. Prepare the Epoxy with black pigment, red pigment and green pigment
+3. Fill with pigmented Epoxy the inscriptions on the **Cover**
 
+     .. image:: figures/Remote-Control/Fill_Inscriptions_Pigmented_Epoxy-Remote-Control-Box-DIY-LM42P.JPG 
+       :width: 250
+       :align: center
+	   
+4. When it's hard sand it very thin
+5. Place the **Potentiometer** (2x) and and tighten them   
 
 
 Wiring the Remote Control
