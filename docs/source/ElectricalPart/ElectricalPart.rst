@@ -751,6 +751,16 @@ Pigment Epoxy
     :width: 250
     :align: center
 
+Cable Ties
+''''''''''
+
+- Quantity : 1x
+- Purpose : To be sur that the **RJ45 Cable** can't be
+  pull out
+
+.. image:: figures/Remote-Control/Cable_Ties-Remote-Control-Box-DIY-LM42P.jpg
+    :width: 170
+    :align: center	    
 
 Screw
 '''''
@@ -766,6 +776,16 @@ Screw
 
 Operation Plan
 ^^^^^^^^^^^^^^
+See the video :
+
+.. raw:: html
+
+    <iframe width="350" height="245"
+    src="https://www.youtube.com/embed/wxmEBM34qhU"
+    frameborder="0" 
+    allowfullscreen></iframe>
+
+|br|
 
 Make the Box
 ''''''''''''
@@ -785,14 +805,14 @@ Make the Cover
        :width: 250
        :align: center
 	   
-4. When it's hard sand it very thin
+4. When it's hard sand it very thin (60, 240, 400)
 5. Place the **Potentiometer** (2x) and and tighten them   
 
 
 Wiring the Remote Control
-^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''
 
-.. image:: figures/Remote-Control-Wiring.png
+.. image:: figures/Remote-Control/Remote_Control_Box_Wiring-Remote-Control-Box-DIY-LM42P.png
    :scale: 70 %
    :align: center
 
@@ -805,9 +825,9 @@ GND             8
 \+5V            7
 ==============  ============================
 
-#. strip the cable at 7cm
-#. cut the unused wire
-#. use the cutted unused wire to make the bridge between GRD and +5V
+#. Strip the **RJ45 Cable** at 7cm
+#. Cut the unused wire
+#. Use the cutted unused wire to make the bridge between GRD and +5V
    inside the Remote Control
 
 Stepper Motor
