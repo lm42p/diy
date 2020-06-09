@@ -769,7 +769,7 @@ Screw
 - Length : 13mm
 - Stainless steel
 
-.. image:: figures/Remote-Control/Scew_2_9_13-Remote-Control-Box-LM42P.JPG
+.. image:: figures/Remote-Control/Scew_2_9_13-Remote-Control-Box-DIY-LM42P.JPG
     :width: 110
     :align: center
 	    
@@ -798,32 +798,40 @@ Make the Cover
 1. Print it in PLA.
    Infill = 50%
    File : soon available...  
-2. Prepare the Epoxy with black pigment, red pigment and green pigment
+2. Prepare the **Epoxy** with black pigment, red pigment and green
+   pigment 
 3. Fill with pigmented Epoxy the inscriptions on the **Cover**
 
-     .. image:: figures/Remote-Control/Fill_Inscriptions_Pigmented_Epoxy-Remote-Control-Box-DIY-LM42P.JPG 
+     .. image:: figures/Remote-Control/Fill_Inscriptions_Pigmented_Epoxy-Remote-Control-Box-DIY-LM42P.JPG  
        :width: 250
        :align: center
 	   
-4. When it's hard sand it very thin (60, 240, 400)
+4. Cure the **Epoxy** then sand it very thin (60, 240, 400)
 5. Place the **Potentiometer** (2x) and and tighten them   
 
 
 Wiring the Remote Control
 '''''''''''''''''''''''''
+.. image:: figures/Remote-Control/Wire-Remote-Control-Box-DIY-LM42P.JPG
+   :width: 300
+   :align: center
 
 .. image:: figures/Remote-Control/Remote_Control_Box_Wiring-Remote-Control-Box-DIY-LM42P.png
    :scale: 70 %
    :align: center
 
-==============  ============================
-Remote-Control   RJ45 cable (Remote-Control)
-==============  ============================
+.. image:: figures/Remote-Control/RJ45_Show_Pin1-Remote-Control-Box-DIY-LM42P.png
+   :width: 100
+   :align: center	   
+	   
+==============  ===========
+Remote-Control   RJ45 cable
+==============  ===========
 A0              6
 A1              5
 GND             8
 \+5V            7
-==============  ============================
+==============  ===========
 
 #. Strip the **RJ45 Cable** at 7cm
 #. Cut the unused wire
@@ -832,6 +840,18 @@ GND             8
 
 Stepper Motor
 -------------
+
+See the video :
+
+.. raw:: html
+
+    <iframe width="350" height="245"
+    src="https://www.youtube.com/embed/GfWPj4LcxXg"
+    frameborder="0" 
+    allowfullscreen></iframe>
+
+|br|
+
 
 Connect and fix the 4 poles cable on the Stepper Motor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -891,6 +911,7 @@ Connect the Amphenol Plug Male
    .. image:: figures/Wires-Plug.png
     :scale: 120 %
     :align: center
+	    
 #. assemble the plug and tighten the flange
 
 
