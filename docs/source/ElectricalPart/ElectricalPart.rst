@@ -92,15 +92,6 @@ Power 36/12V
     :align: center
 
 	    
-Connector Plug 5 pins Male Insert
-'''''''''''''''''''''''''''''''''
-- Quantity : 1x
-
-.. image:: figures/Connector_Plug_5_pins_Male_Insert-Electrical-Box-DIY-LM42P.jpg
-    :width: 250
-    :align: center	    	    
-
-	    
 Connector Socket 5 pins Female Insert
 '''''''''''''''''''''''''''''''''''''
 - Quantity : 1x
@@ -230,7 +221,8 @@ Countersunk Head Screw M3 x 12mm
 ''''''''''''''''''''''''''''''''
 - Quantity : 4x
 - Material : Stainless Steel
-- Purpose : To fix the **Amphenol Plug** on the **U Right**
+- Purpose : To fix the **Connector Socket 5 pins Female Insert** on
+  the **U Right** 
   
 .. image:: figures/Countersunk_Head_Screw_M3x12mm-DIY-LM42P.PNG
     :width: 300
@@ -838,31 +830,127 @@ GND             8
 #. Use the cutted unused wire to make the bridge between GRD and +5V
    inside the Remote Control
 
-Stepper Motor
--------------
+Motor
+-----
 
+This section shows how to fix the **Cable Silicone 4 Cores** to the **Connector
+Plug 5 pins Male Insert** and the **Motor**
+
+Listing Parts
+^^^^^^^^^^^^^
+
+Motor
+'''''
+- Quantity : 1x
+- Type : Stepper Motor NEMA 23 23HS11240
+- Length : 112mm
+- 4.2A  
+
+.. image:: figures/Motor/Stepper_Motor_23HS11240-Motor-DIY-LM42P.JPG
+    :width: 350
+    :align: center
+
+Connector Plug 5 pins Male Insert
+'''''''''''''''''''''''''''''''''
+- Quantity : 1x
+
+.. image:: figures/Motor/Connector_Plug_5_pins_Male_Insert-Electrical-Box-DIY-LM42P.jpg
+    :width: 250
+    :align: center
+
+Cable Silicone 4 Cores
+''''''''''''''''''''''
+- Quantity : 2m
+- 0.75 mm^2  
+
+.. image:: figures/Motor/Cable_Silicone_4_Cores-Motor-DIY-LM42P.jpg
+    :width: 250
+    :align: center	    	    	    	    
+
+	    
+Tube_Cable_Holder-Motor-DIY-LM42P
+'''''''''''''''''''''''''''''''''
+- Quantity : 1x
+- Material : Aluminium  
+
+.. image:: figures/Motor/Tube_Cable_Holder-Motor-DIY-LM42P.PNG
+    :width: 200
+    :align: center	    
+
+Glue Silicone
+'''''''''''''
+- Quantity : 1x
+- Type : Polyflex 444
+  
+.. image:: figures/Glue_Mastic_Polyflex_444-Electrical-Box-DIY-LM42P.jpg 
+    :width: 300
+    :align: center	      	    
+
+       
+
+
+Connect the Connector Plug 5 pins Male Insert
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: figures/motor/Connector_Plug_5_pins_Male_Insert-Motor-DIY-LM42P.JPG
+    :width: 250
+    :align: center
+
+Operation Plan
+''''''''''''''
 See the video :
 
 .. raw:: html
 
     <iframe width="350" height="245"
-    src="https://www.youtube.com/embed/GfWPj4LcxXg"
+    src="https://www.youtube.com/embed/GfWPj4LcxXg?start=0&end=97"
     frameborder="0" 
     allowfullscreen></iframe>
 
 |br|
 
+#. strip the cable at 3cm
+#. strip the 4 wires and solder the wires
+#. 5cm from the edge roll up the 10-layer adhesive tape
+#. pass the cable and solder the wires in the plug in
+   counter-clockwise order 
+   
+   * black
+   * yellow
+   * red
+   * green
 
-Connect and fix the 4 poles cable on the Stepper Motor
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   .. image:: figures/Wires-Plug.png
+    :scale: 120 %
+    :align: center
+	    
+#. assemble the plug and tighten the flange
 
+Connect and fix the Cable Silicone 4 Cores to the Motor
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: figures/motor/Connect_Motor_Cable-DIY-LM42P.jpg
+    :width: 350
+    :align: center
+
+Operation Plan
+''''''''''''''
+See the video :
+
+.. raw:: html
+
+    <iframe width="350" height="245"
+    src="https://www.youtube.com/embed/GfWPj4LcxXg?start=97&end=417"
+    frameborder="0" 
+    allowfullscreen></iframe>
+
+|br|	    
+	    
 #. déballage et contrôle du moteur
 #. couper le cable en silicone à 2.2m
 #. couper le fil rouge à 47mm; couper le fil jaune à 57mm; couper le
    fil bleu à 67mm, couper le fil vert à 77mm see following picture
 
    .. image:: figures/Cut-Motor-Cable.jpg
-     :scale: 30 %
+     :width: 350
      :align: center
 	     
 #. dénuder, torsader, étamer les fils du moteur à 5mm
@@ -894,25 +982,7 @@ Connect and fix the 4 poles cable on the Stepper Motor
 #. laisser durcir; nettoyer et enlever les bourelets sur tube cordon.
 
     
-Connect the Amphenol Plug Male
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-#. strip the cable at 3cm
-#. strip the 4 wires and solder the wires
-#. 5cm from the edge roll up the 10-layer adhesive tape
-#. pass the cable and solder the wires in the plug in
-   counter-clockwise order 
-   
-   * black
-   * yellow
-   * red
-   * green
-
-   .. image:: figures/Wires-Plug.png
-    :scale: 120 %
-    :align: center
-	    
-#. assemble the plug and tighten the flange
 
 
 
