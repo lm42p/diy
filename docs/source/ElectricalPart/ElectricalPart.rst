@@ -897,7 +897,7 @@ needed.
 - Type : Stainless Allen Bolt Socket Cap Screw Hex Head Allen Key
   DIN912 
 
-.. image:: figures/Motor/Screw_Hex_Head_Allen_M5x40-Motor-DIY-LM42P.jpg
+.. image:: figures/Motor/Screw_Hex_Head_Allen_M5x40-Motor-DIY-LM42P.JPG
     :width: 150
     :align: center
 	    
@@ -922,7 +922,7 @@ Cable Ties
 	    
 Connect the Connector Plug 5 pins Male Insert
 ---------------------------------------------
-.. image:: figures/motor/Connector_Plug_5_pins_Male_Insert-Motor-DIY-LM42P.JPG
+.. image:: figures/Motor/Connector_Plug_5_pins_Male_Insert-Motor-DIY-LM42P.JPG
     :width: 250
     :align: center
 
@@ -960,7 +960,7 @@ Wiring
 
 Connect and fix the Cable Silicone 4 Cores to the Motor
 -------------------------------------------------------
-.. image:: figures/motor/Connect_Motor_Cable-DIY-LM42P.jpg
+.. image:: figures/Motor/Connect_Motor_Cable-DIY-LM42P.jpg
     :width: 350
     :align: center
 
