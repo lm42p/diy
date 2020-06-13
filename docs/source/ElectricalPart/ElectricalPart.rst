@@ -3,25 +3,26 @@
 
  <br />
 
-Electrical Part
-===============
+=================
+ Electrical Part
+=================
 
 .. image:: figures/Power_Control_Unit_And_Remote-DIY-LM42P.jpg
     :width: 500
     :align: center
 	    
 Electrical Box
---------------
+==============
 
 .. image:: figures/Electrical-Box-DIY-LM42P.jpg
     :width: 500
     :align: center
 
 Listing Parts
-^^^^^^^^^^^^^
+-------------
 
 U Base
-''''''
+~~~~~~
 - Quantity : 1x
 - Material : anodized aluminium
 
@@ -30,7 +31,7 @@ U Base
     :align: center
 
 U Top
-'''''
+~~~~~
 - Quantity : 1x
 - Material : anodized aluminium
 
@@ -39,7 +40,7 @@ U Top
     :align: center
 
 U Right
-'''''''
+~~~~~~~
 - Quantity : 1x
 - Material : anodized aluminium
 
@@ -48,7 +49,7 @@ U Right
     :align: center
 
 U Left
-''''''
+~~~~~~
 - Quantity : 1x
 - Material : anodized aluminium
 
@@ -57,7 +58,7 @@ U Left
     :align: center
 	    
 Geckodrive G201X
-''''''''''''''''
+~~~~~~~~~~~~~~~~
 - Quantity : 1x
 
 .. image:: figures/Geckodrive_G201X-Electrical-Box-DIY-LM42P.jpg
@@ -65,7 +66,7 @@ Geckodrive G201X
     :align: center
 
 Arduino Uno
-'''''''''''
+~~~~~~~~~~~
 - Quantity : 1x
   
 .. image:: figures/Arduino_Uno-DIY-LM42P.jpg
@@ -74,7 +75,7 @@ Arduino Uno
        
 
 Power 36V
-'''''''''
+~~~~~~~~~
 - Quantity : 1x
   
 .. image:: figures/Power_36V-Electrical-Box-DIY-LM2P.jpg
@@ -83,7 +84,7 @@ Power 36V
 
 	    
 Power 36/12V
-''''''''''''
+~~~~~~~~~~~~
 - Quantity : 1x
 - Type : LM2596
 
@@ -93,7 +94,7 @@ Power 36/12V
 
 	    
 Connector Socket 5 pins Female Insert
-'''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Quantity : 1x
   
 .. image:: figures/Socket_5_pins_Female_Insert-Electrical-Box-DIY-LM42P.jpg
@@ -101,7 +102,7 @@ Connector Socket 5 pins Female Insert
     :align: center
 
 Plug RJ45
-'''''''''
+~~~~~~~~~
 - Quantity : 1x
 - Include : 2x screw M3, 2x nuts M3 and 2x spring washer
   
@@ -110,7 +111,7 @@ Plug RJ45
     :align: center
 
 Cable Gland
-'''''''''''
+~~~~~~~~~~~
 - Quantity : 1x
 - Type : M16 4.5-10mm
 - Include : 1x nuts M16  
@@ -120,7 +121,7 @@ Cable Gland
     :align: center
 
 Cable Ties
-''''''''''
+~~~~~~~~~~
 
 - Quantity : 1x
 - Purpose : To be sur that the **Cable Silicone 3 cores** can't be
@@ -131,7 +132,7 @@ Cable Ties
     :align: center
 
 Cable Silicone 3 Cores
-''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~
 - Length : 1x 2m
 - Type : 0.75mm^2 
 - Note : I used silicone because it's easy to fold.  
@@ -142,14 +143,14 @@ Cable Silicone 3 Cores
 
 	    
 Plug 110 / 220 V
-''''''''''''''''
+~~~~~~~~~~~~~~~~
 
 .. image:: figures/Plug_110_220V-Electrical-Box-DIY-LM42P.JPG
     :width: 400
     :align: center
 	    
 Male PCB PIN Header
-'''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~
 - 1x 15 pins
 - 1x 10 pins
 - 1x 8 pins
@@ -159,7 +160,7 @@ Male PCB PIN Header
     :align: center
 
 Connector RJ45
-''''''''''''''
+~~~~~~~~~~~~~~
 - Quantity : 1x
 - Length : 15cm  
 
@@ -168,7 +169,7 @@ Connector RJ45
     :align: center
 
 Ground Terminal M3
-''''''''''''''''''
+~~~~~~~~~~~~~~~~~~
 - Quantity : 1x
 
 .. image:: figures/Ground_Terminal_M3-Electrical-Box-DIY-LM42P.jpg
@@ -176,7 +177,7 @@ Ground Terminal M3
     :align: center
 	    
 Capacitor Polarized 1uF
-'''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~
 - Quantity : 1x
 - Purpose : This reduce the noise while reading the speed on the
   remote-control
@@ -186,7 +187,7 @@ Capacitor Polarized 1uF
     :align: center	      
 
 Spacer 6-8-3mm
-''''''''''''''
+~~~~~~~~~~~~~~
 - Quantity : 4x
 - Material : aluminium
 
@@ -196,7 +197,7 @@ Spacer 6-8-3mm
 
 	    
 Square 10-12-9mm
-''''''''''''''''
+~~~~~~~~~~~~~~~~
 - Quantity : 2x
 - Material : aluminium
 - Purpose : Reinforcement of the fixaton (glue) of the **Arduino Uno**
@@ -208,7 +209,7 @@ Square 10-12-9mm
 
 	    
 Countersunk Head Screw M3 x 8mm
-''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Quantity : 4x
 - Material : Stainless Steel
 - Purpose : To fix **Geckodrive** on the **U Base**
@@ -218,7 +219,7 @@ Countersunk Head Screw M3 x 8mm
     :align: center
 	    
 Countersunk Head Screw M3 x 12mm
-''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Quantity : 4x
 - Material : Stainless Steel
 - Purpose : To fix the **Connector Socket 5 pins Female Insert** on
@@ -229,7 +230,7 @@ Countersunk Head Screw M3 x 12mm
     :align: center
 	    
 Countersunk Head Screw M3 x 14mm
-''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Quantity : 3x
 - Material : Stainless Steel
 - Purpose : To fix the **Power 36V** on the **U Base**  
@@ -239,7 +240,7 @@ Countersunk Head Screw M3 x 14mm
     :align: center
 
 Countersunk Head Screw M3 x 16mm
-''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Quantity : 1x
 - Material : Stainless Steel
 - Purpose : To fix the **Power 36V** also the **Ground Terminal** on
@@ -250,7 +251,7 @@ Countersunk Head Screw M3 x 16mm
     :align: center
 
 Washer M3
-'''''''''
+~~~~~~~~~
 - Quantity : 12x
 
 .. image:: figures/Washer_M3-Electrical-Box-DIY-LM42P.jpg
@@ -258,7 +259,7 @@ Washer M3
     :align: center
 
 Nuts M3
-'''''''
+~~~~~~~
 - Quantity : 12x
 
 .. image:: figures/Nuts_M3-Electrical-Box-DIY-LM42P.jpg
@@ -266,7 +267,7 @@ Nuts M3
     :align: center	    
 
 Rivet
-'''''
+~~~~~
 - Quantity : 14x
 - Type : diameter 3mm, length 6mm  
 - Material : Stainless Steel
@@ -276,7 +277,7 @@ Rivet
     :align: center
 	    
 Glue Silicone
-'''''''''''''
+~~~~~~~~~~~~~
 - Quantity : 1x
 - Type : Polyflex 444
 - Purpose : To glue the **Arduino Uno** to the **U Base** using the
@@ -287,7 +288,7 @@ Glue Silicone
     :align: center	      
 
 Threadlocker Glue
-'''''''''''''''''
+~~~~~~~~~~~~~~~~~
 - Quantity : 1x
 - Type : Loctite 243
 - Purpose : To glue the **Nuts M3**
@@ -297,10 +298,10 @@ Threadlocker Glue
     :align: center	      
        
 Operation Plan
-^^^^^^^^^^^^^^
+--------------
 
 Make The Sheets Parts
-'''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: figures/Make_The_Sheets_Parts-Electrical-Box-DIY-LM42P.jpg
     :width: 500
@@ -347,7 +348,7 @@ Material : aluminium
     U Left   
 
 Make the Spacer 6-8-3mm
-'''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~
 See the following video :
 
 .. raw:: html
@@ -371,7 +372,7 @@ See the following video :
     Spacer 6-8-3mm
 
 Make the Square 10-12-9mm
-'''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~
 See the following video :
 
 .. raw:: html
@@ -395,7 +396,7 @@ See the following video :
     Square 10-12-9mm        
 
 Scrape the surface on the U Base
-''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 File the bottom of the **U Base** (only the part where the red framed
 hole is) so that the grounding contact faces well. This operation is
@@ -419,14 +420,14 @@ See Video :
 
 |br|
 
-Control Power 36V 
-''''''''''''''''''
+Control Power 36V
+~~~~~~~~~~~~~~~~~
 Control the voltage of the output of the Power 36V with a
 voltmeter. It should be 36V.
 
 
 Adjust voltage Power 36/12V
-'''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Materials:**
 
@@ -456,7 +457,7 @@ Adjust voltage Power 36/12V
    
    
 Fix the Power Cable to the Electrical Box
-'''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 See Video :
 
@@ -476,7 +477,7 @@ See Video :
 
 
 Set Geckodrive current limit
-''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - For G203V :
 
@@ -493,7 +494,7 @@ Set Geckodrive current limit
 		
    
 Screw the Power 36V and Geckodrive on the U Base
-''''''''''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. note:: Use **Threadlocker Glue**.
 
@@ -532,7 +533,7 @@ Screw the Power 36V and Geckodrive on the U Base
   - 4x **Nuts M3**
 
 Glue the Power 36/12V and Arduino Uno
-'''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Glue the **Arduino Uno** at the **U Base** with **Glue Silicone** and
 **Square 10-12-9mm** and the **Power 36/12V**. 
@@ -546,7 +547,7 @@ Glue the **Arduino Uno** at the **U Base** with **Glue Silicone** and
     :align: center 	    
 
 Wiring
-''''''
+~~~~~~
 .. image:: figures/Electrical_Box_Open-DIY-LM42P.jpg
     :width: 500
     :align: center
@@ -647,7 +648,7 @@ GECKODRIVE         Female Connector (MOTOR)  Cable Length
 =================  ========================  ============
 
 Upload the programm to **Arduino Uno** and final control
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #. Plug the PC using an USB cable to the Electrical-Box
 #. Upload the programm (soon available)
 #. Control if every thing is ok (the ***Machine**, **Remote Control**,
@@ -663,17 +664,17 @@ Upload the programm to **Arduino Uno** and final control
 #. Cover with **U Top** and **Rivet**
     
 Remote Control
---------------
+==============
 
 .. image:: figures/Remote-Control/Remote_Control_And_Wire_Remote-Control-DIY-LM42P.jpg
     :width: 500
     :align: center
 
 Listing Parts
-^^^^^^^^^^^^^
+-------------
 
 Box
-'''
+~~~
 - Quantity : 1x
 - 3D Printed in PLA  
 
@@ -682,7 +683,7 @@ Box
     :align: center
 
 Cover
-'''''
+~~~~~
 - Quantity : 1x
 - 3D Printed in PLA  
 
@@ -691,7 +692,7 @@ Cover
     :align: center
 
 Potentiometer
-'''''''''''''
+~~~~~~~~~~~~~
 - Quantity : 2x
 - Type : 10k
 
@@ -700,7 +701,7 @@ Potentiometer
     :align: center	    	    
 	    
 Potentiommeter Knobs
-''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~
 - Quantity : 1x Grey (stroke), 1x Gold (speed)
   
 .. image:: figures/Remote-Control/Potentiometer_Knobs-Remote-Control-Box-LM42P.JPG
@@ -708,7 +709,7 @@ Potentiommeter Knobs
     :align: center	    	    
 
 RJ45 Cable
-''''''''''
+~~~~~~~~~~
 - Quantity : 1x
 - Length : 2.5m  
 - Type : Ultrafine
@@ -718,7 +719,7 @@ RJ45 Cable
     :align: center	    	    
 	    	    
 Cable Gland M12
-'''''''''''''''
+~~~~~~~~~~~~~~~
 - Quantity : 1x
 - Type : M12 3-6mm
 
@@ -727,7 +728,7 @@ Cable Gland M12
     :align: center
 
 Epoxy
-'''''
+~~~~~
 - Resin and Hardener
 
 .. image:: figures/Remote-Control/Epoxy_Resin-Remote-Control-Box-DIY-LM42P.JPG
@@ -736,7 +737,7 @@ Epoxy
   
 	    
 Pigment Epoxy
-'''''''''''''
+~~~~~~~~~~~~~
 - Quantity : 1x color black, 1x color red, 1x color green
 
 .. image:: figures/Remote-Control/Pigments_Epoxy-Remote-Control-Box-DIY-LM42P.JPG	    
@@ -744,7 +745,7 @@ Pigment Epoxy
     :align: center
 
 Cable Ties
-''''''''''
+~~~~~~~~~~
 
 - Quantity : 1x
 - Purpose : To be sur that the **RJ45 Cable** can't be
@@ -755,7 +756,7 @@ Cable Ties
     :align: center	    
 
 Screw
-'''''
+~~~~~
 - Quantity : 4x
 - Diameter : 2.9mm
 - Length : 13mm
@@ -767,7 +768,7 @@ Screw
 	    
 
 Operation Plan
-^^^^^^^^^^^^^^
+--------------
 See the video :
 
 .. raw:: html
@@ -780,13 +781,13 @@ See the video :
 |br|
 
 Make the Box
-''''''''''''
+~~~~~~~~~~~~
 Print it in PLA.
 Infill = 50%
 File : soon available...
 
 Make the Cover
-''''''''''''''
+~~~~~~~~~~~~~~
 1. Print it in PLA.
    Infill = 50%
    File : soon available...  
@@ -803,7 +804,7 @@ Make the Cover
 
 
 Wiring the Remote Control
-'''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~
 .. image:: figures/Remote-Control/Wire-Remote-Control-Box-DIY-LM42P.JPG
    :width: 300
    :align: center
@@ -831,16 +832,16 @@ GND             8
    inside the Remote Control
 
 Motor
------
+=====
 
 This section shows how to fix the **Cable Silicone 4 Cores** to the **Connector
 Plug 5 pins Male Insert** and the **Motor**
 
 Listing Parts
-^^^^^^^^^^^^^
+-------------
 
 Motor
-'''''
+~~~~~
 - Quantity : 1x
 - Type : Stepper Motor NEMA 23 23HS11240
 - Length : 112mm
@@ -851,7 +852,7 @@ Motor
     :align: center
 
 Connector Plug 5 pins Male Insert
-'''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Quantity : 1x
 
 .. image:: figures/Motor/Connector_Plug_5_pins_Male_Insert-Electrical-Box-DIY-LM42P.jpg
@@ -859,7 +860,7 @@ Connector Plug 5 pins Male Insert
     :align: center
 
 Cable Silicone 4 Cores
-''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~
 - Quantity : 2.2m
 - 0.75 mm^2  
 
@@ -869,7 +870,7 @@ Cable Silicone 4 Cores
 
 	    
 Tube Cable Holder
-'''''''''''''''''
+~~~~~~~~~~~~~~~~~
 - Quantity : 1x
 - Material : Aluminium  
 
@@ -878,7 +879,7 @@ Tube Cable Holder
     :align: center	    
 
 Heat Shrink Tube
-''''''''''''''''
+~~~~~~~~~~~~~~~~
 - Quantity : 4x - Length : 13mm
 - Quantity : 1x - Length : 37mm
 
@@ -887,7 +888,7 @@ Heat Shrink Tube
   :align: center	    
   
 Screw Hex Head Allen M5 x 40
-''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 If the **Motor** isn't fixed yet on the **Machine**, then 1x Screw is
 needed.
 
@@ -901,7 +902,7 @@ needed.
     :align: center
 	    
 Glue Silicone
-'''''''''''''
+~~~~~~~~~~~~~
 - Quantity : 1x
 - Type : Polyflex 444
   
@@ -910,7 +911,7 @@ Glue Silicone
     :align: center
 
 Cable Ties
-''''''''''
+~~~~~~~~~~
 
 - Quantity : 1x
 
@@ -920,13 +921,13 @@ Cable Ties
 
 	    
 Connect the Connector Plug 5 pins Male Insert
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------
 .. image:: figures/motor/Connector_Plug_5_pins_Male_Insert-Motor-DIY-LM42P.JPG
     :width: 250
     :align: center
 
 Operation Plan
-''''''''''''''
+~~~~~~~~~~~~~~
 See the video :
 
 .. raw:: html
@@ -958,13 +959,13 @@ Wiring
 #. assemble the plug and tighten the flange
 
 Connect and fix the Cable Silicone 4 Cores to the Motor
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------------------------
 .. image:: figures/motor/Connect_Motor_Cable-DIY-LM42P.jpg
     :width: 350
     :align: center
 
 Operation Plan
-''''''''''''''
+~~~~~~~~~~~~~~
 See the video :
 
 .. raw:: html
@@ -1011,9 +1012,9 @@ See the video :
    .. warning::
       
      If the **Motor** isn't fixed on the machine yet, then don't
-     forget to put the screw in the motor hole
+     forget to put the screw in the motor hole (see picture below) 
 
-#. Inject the **Glue Silicone** through the 4.5mm hole diam.
+#. Inject the **Glue Silicone** through the 4mm hole diam.
    until it comes out of both sides of the **Tube Cable Holder**; take
    the surplus and apply it to the **Motor** on the groove where the
    **Screw Hex Head Allen M5 x 40** has been placed; 
