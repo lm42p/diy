@@ -51,6 +51,7 @@ LM42P.
    :maxdepth: 2
    :caption: Contents:
 
+   Machine/Machine	     
    ElectricalPart/ElectricalPart
    FasteningElements/FasteningElements
    Donate
