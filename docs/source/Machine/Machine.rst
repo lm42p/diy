@@ -38,6 +38,15 @@ Quantity : 2x
     :width: 400
     :align: center
 
+Belt Joint
+''''''''''
+Quantity : 1x
+
+.. image:: figures/Belt_Joint-Machine-DIY-LM42P.JPG
+    :width: 300
+    :align: center	    
+	    
+
 Idler Pulley Long Screw
 -----------------------
 
@@ -54,16 +63,34 @@ Listing Parts
     :align: center
 
 - Screw M8
+  
   - Quantity : 2x
 
 Idler Pulley Short Screw
 ------------------------
 
-
-
 Listing Parts
 '''''''''''''    
+
+Belt Joint
+----------
+.. image:: figures/Belt_Joint_Exploded-Machine-DIY-LM42P.JPG
+    :width: 400
+    :align: center
+
 	    
+Listing Parts
+'''''''''''''
+
+- Phillips Head Screw M3 x 10
+
+  - Quantity : 2x
+  - Material : steel should be magnetic
+
+.. image:: figures/Phillips_Head_Screw_M3x10.JPG
+    :width: 180
+    :align: center
+
 Static Parts
 ^^^^^^^^^^^^
 Listing Parts
