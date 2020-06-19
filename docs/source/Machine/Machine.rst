@@ -50,27 +50,57 @@ Quantity : 1x
 Idler Pulley Long Screw
 -----------------------
 
+  .. image:: figures/Idler_Pulley_Long_Screw_Exploded-Machine-DIY-LM42P.JPG
+    :width: 500
+    :align: center
+
 Listing Parts
 '''''''''''''
 
-- Nuts M8 Stop
+1) Long Screw M8
+  
+  - Quantity : 2x
+    
+2) Washer 8 x 12 x 1.5
+
+  - Quantity : 4x
+  - Material : aluminium
+    
+  .. image:: figures/Washer_8x12x1_5-Machine-DIY-LM42P.PNG
+    :width: 300
+    :align: center
+
+7) Nuts M8 Stop
 
   - Quantity : 2x
   - Material : stainless
 
-.. image:: figures/Nuts_M8_Stop-Machine-DIY-LM42P.JPG
+  .. image:: figures/Nuts_M8_Stop-Machine-DIY-LM42P.JPG
     :width: 180
     :align: center
-
-- Screw M8
-  
-  - Quantity : 2x
 
 Idler Pulley Short Screw
 ------------------------
 
+  .. image:: figures/Idler_Pulley_Short_Screw_Exploded-Machine-DIY-LM42P.JPG
+    :width: 500
+    :align: center
+
 Listing Parts
-'''''''''''''    
+'''''''''''''
+
+1) Short Screw M8
+  
+  - Quantity : 2x
+    
+2) Washer 8 x 12 x 1.5
+
+  - Quantity : 4x
+  - Material : aluminium
+    
+  .. image:: figures/Washer_8x12x1_5-Machine-DIY-LM42P.PNG
+    :width: 300
+    :align: center
 
 Belt Joint
 ----------
@@ -106,7 +136,7 @@ Listing Parts
   - Material : Aluminium
 
 .. image:: figures/Spacer_Metal_Disc.PNG
-    :width: 400
+    :width: 450
     :align: center	    
 	    
 4. Metal Disc
@@ -127,6 +157,24 @@ Listing Parts
 .. image:: figures/Phillips_Head_Screw_M3x10.JPG
     :width: 180
     :align: center
+
+6. Washer M6 x 6.4 x 18 x 1.6
+
+  - Quantity : 1x
+  - Material : steel
+
+.. image:: figures/Washer_M6x6_4x18x1_6-Machine-DIY-LM42P.JPG
+    :width: 180
+    :align: center	    
+       
+7. Screw Pan Head Slot M4 x 40
+
+  - Quantity : 1x
+  - Material : steel
+
+.. image:: figures/Screw_Pan_Head_Slot_M4x40-Machine-DIY-LM42P.JPG
+    :width: 180
+    :align: center	    
 
 Static Parts
 ^^^^^^^^^^^^
