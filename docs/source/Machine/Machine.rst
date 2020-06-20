@@ -60,7 +60,13 @@ Listing Parts
 1) Long Screw M8
   
   - Quantity : 2x
-    
+  - Length : 50mm  
+  - Material : stainless
+        
+  .. image:: figures/Long_Screw-Machine-DIY-LM42P.JPG
+    :width: 300
+    :align: center
+	    
 2) Washer 8 x 12 x 1.5
 
   - Quantity : 4x
@@ -70,6 +76,51 @@ Listing Parts
     :width: 300
     :align: center
 
+Maybe better to use 1x Stainless steel Flat Washer Thickness 1mm
+(8x14x1mm) and 1x Stainless steel Flat Washer 0.5mm
+(8x14x0.5). Because aluminum tends to crush when it's squeezed.  
+
+3) Flange Ball Bearing
+
+  - Quantity : 4x
+  - Type : F698ZZ
+  - Size : 8 x 19 x 6 mm
+    
+  .. image:: figures/Flange_Ball_Bearing-Machine-DIY-LM42P.JPG
+    :width: 300
+    :align: center
+
+4) Flat Washer
+
+  - Quantity : 4x
+  - Thickness : 0.5mm
+  - Size : 8 x 12 x 0.5 mm
+  - Material : stainless  
+    
+  .. image:: figures/Flat_Washer-Machine-DIY-LM42P.JPG
+    :width: 300
+    :align: center   
+   
+5) Bearing
+
+   - Quantity : 2x
+   - Type : 698ZZ
+   - Size : 8 x 19 x 6 mm  
+
+  .. image:: figures/Bearing-Machine-DIY-LM42P.JPG
+    :width: 200
+    :align: center
+
+6) Washer M6
+
+   - Quantity : 2x
+   - Material : stainless  
+   - Size : 8 x 16 x 1.6 mm  
+
+  .. image:: figures/Washer_M8-Machine-DIY-LM42P.JPG
+    :width: 200
+    :align: center	    
+	    
 7) Nuts M8 Stop
 
   - Quantity : 2x
@@ -78,6 +129,7 @@ Listing Parts
   .. image:: figures/Nuts_M8_Stop-Machine-DIY-LM42P.JPG
     :width: 180
     :align: center
+	    
 
 Idler Pulley Short Screw
 ------------------------
@@ -92,6 +144,12 @@ Listing Parts
 1) Short Screw M8
   
   - Quantity : 2x
+  - Length : 35mm
+  - Material : stainless
+
+  .. image:: figures/Short_Screw_M8-Machine-DIY-LM42P.JPG
+    :width: 300
+    :align: center  
     
 2) Washer 8 x 12 x 1.5
 
@@ -101,6 +159,61 @@ Listing Parts
   .. image:: figures/Washer_8x12x1_5-Machine-DIY-LM42P.PNG
     :width: 300
     :align: center
+
+Maybe better to use 1x Stainless steel Flat Washer Thickness 1mm
+(8x14x1mm) and 1x Stainless steel Flat Washer 0.5mm
+(8x14x0.5). Because aluminum tends to crush when it's squeezed. 
+
+3) Flange Ball Bearing
+
+  - Quantity : 4x
+  - Type : F698ZZ
+  - Size : 8 x 19 x 6 mm
+    
+  .. image:: figures/Flange_Ball_Bearing-Machine-DIY-LM42P.JPG
+    :width: 300
+    :align: center
+
+4) Flat Washer
+
+  - Quantity : 4x
+  - Thickness : 0.5mm
+  - Size : 8 x 12 x 0.5 mm
+  - Material : stainless  
+    
+  .. image:: figures/Flat_Washer-Machine-DIY-LM42P.JPG
+    :width: 300
+    :align: center   
+   
+5) Bearing
+
+   - Quantity : 2x
+   - Type : 698ZZ
+   - Size : 8 x 19 x 6 mm  
+
+  .. image:: figures/Bearing-Machine-DIY-LM42P.JPG
+    :width: 200
+    :align: center
+
+6) Washer M6
+
+   - Quantity : 2x
+   - Material : stainless  
+   - Size : 8 x 16 x 1.6 mm  
+
+  .. image:: figures/Washer_M8-Machine-DIY-LM42P.JPG
+    :width: 200
+    :align: center	    	    
+
+7) Cap Nuts M8
+
+   - Quantity : 2x
+   - Material : stainless  
+
+  .. image:: figures/Cap_Nuts_M8-Machine-DIY_LM42P.JPG
+    :width: 200
+    :align: center	    
+	    
 
 Belt Joint
 ----------
