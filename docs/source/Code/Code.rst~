@@ -1,0 +1,12 @@
+====
+Code
+====
+
+Here is the code. I'm not a professional programmer. At the beginin I
+tried to use AccelStepper library for Arduino but couldn't get it work
+well. (could reach an appropriate speeed I don't know why) so I remove
+AccelStepper library and tried to do something and it worked pretty
+well. Sorry the comment are in french, will translate soon! 
+
+.. literalinclude:: /Code/CodeGeckoV3.ino
+   :language: c

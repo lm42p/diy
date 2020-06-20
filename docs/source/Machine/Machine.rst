@@ -7,9 +7,9 @@ Machine
     :align: center
 	    
 Moving Parts
-^^^^^^^^^^^^
+------------
 Listing Parts
--------------
+^^^^^^^^^^^^^
 Motor
 '''''
 Quantity : 1x
@@ -44,13 +44,17 @@ Quantity : 1x
 
 .. image:: figures/Belt_Joint-Machine-DIY-LM42P.JPG
     :width: 300
-    :align: center	    
-	    
+    :align: center
+
+Rod
+'''
+Quantity : 1x or 2x
+
 
 Idler Pulley Long Screw
 -----------------------
 
-  .. image:: figures/Idler_Pulley_Long_Screw_Exploded-Machine-DIY-LM42P.JPG
+.. image:: figures/Idler_Pulley_Long_Screw_Exploded-Machine-DIY-LM42P.JPG
     :width: 500
     :align: center
 
@@ -59,12 +63,12 @@ Listing Parts
 
 1) Long Screw M8
   
-  - Quantity : 2x
+  - Quantity : 1x
   - Length : 50mm  
   - Material : stainless
         
   .. image:: figures/Long_Screw-Machine-DIY-LM42P.JPG
-    :width: 300
+    :width: 250
     :align: center
 	    
 2) Washer 8 x 12 x 1.5
@@ -76,13 +80,15 @@ Listing Parts
     :width: 300
     :align: center
 
-Maybe better to use 1x Stainless steel Flat Washer Thickness 1mm
-(8x14x1mm) and 1x Stainless steel Flat Washer 0.5mm
-(8x14x0.5). Because aluminum tends to crush when it's squeezed.  
+.. note::
+   
+   Maybe better to use 1x Stainless steel Flat Washer Thickness 1mm 
+   (8x14x1mm) and 1x Stainless steel Flat Washer 0.5mm
+   (8x14x0.5). Because aluminum tends to crush when it's squeezed.   
 
 3) Flange Ball Bearing
 
-  - Quantity : 4x
+  - Quantity : 2x
   - Type : F698ZZ
   - Size : 8 x 19 x 6 mm
     
@@ -92,7 +98,7 @@ Maybe better to use 1x Stainless steel Flat Washer Thickness 1mm
 
 4) Flat Washer
 
-  - Quantity : 4x
+  - Quantity : 2x
   - Thickness : 0.5mm
   - Size : 8 x 12 x 0.5 mm
   - Material : stainless  
@@ -103,7 +109,7 @@ Maybe better to use 1x Stainless steel Flat Washer Thickness 1mm
    
 5) Bearing
 
-   - Quantity : 2x
+   - Quantity : 1x
    - Type : 698ZZ
    - Size : 8 x 19 x 6 mm  
 
@@ -113,7 +119,7 @@ Maybe better to use 1x Stainless steel Flat Washer Thickness 1mm
 
 6) Washer M6
 
-   - Quantity : 2x
+   - Quantity : 1x
    - Material : stainless  
    - Size : 8 x 16 x 1.6 mm  
 
@@ -123,7 +129,7 @@ Maybe better to use 1x Stainless steel Flat Washer Thickness 1mm
 	    
 7) Nuts M8 Stop
 
-  - Quantity : 2x
+  - Quantity : 1x
   - Material : stainless
 
   .. image:: figures/Nuts_M8_Stop-Machine-DIY-LM42P.JPG
@@ -143,12 +149,12 @@ Listing Parts
 
 1) Short Screw M8
   
-  - Quantity : 2x
+  - Quantity : 1x
   - Length : 35mm
   - Material : stainless
 
   .. image:: figures/Short_Screw_M8-Machine-DIY-LM42P.JPG
-    :width: 300
+    :width: 250
     :align: center  
     
 2) Washer 8 x 12 x 1.5
@@ -160,13 +166,15 @@ Listing Parts
     :width: 300
     :align: center
 
-Maybe better to use 1x Stainless steel Flat Washer Thickness 1mm
-(8x14x1mm) and 1x Stainless steel Flat Washer 0.5mm
-(8x14x0.5). Because aluminum tends to crush when it's squeezed. 
+.. note::
+   
+   Maybe better to use 1x Stainless steel Flat Washer Thickness 1mm 
+   (8x14x1mm) and 1x Stainless steel Flat Washer 0.5mm
+   (8x14x0.5). Because aluminum tends to crush when it's squeezed. 
 
 3) Flange Ball Bearing
 
-  - Quantity : 4x
+  - Quantity : 2x
   - Type : F698ZZ
   - Size : 8 x 19 x 6 mm
     
@@ -176,7 +184,7 @@ Maybe better to use 1x Stainless steel Flat Washer Thickness 1mm
 
 4) Flat Washer
 
-  - Quantity : 4x
+  - Quantity : 2x
   - Thickness : 0.5mm
   - Size : 8 x 12 x 0.5 mm
   - Material : stainless  
@@ -187,7 +195,7 @@ Maybe better to use 1x Stainless steel Flat Washer Thickness 1mm
    
 5) Bearing
 
-   - Quantity : 2x
+   - Quantity : 1x
    - Type : 698ZZ
    - Size : 8 x 19 x 6 mm  
 
@@ -197,7 +205,7 @@ Maybe better to use 1x Stainless steel Flat Washer Thickness 1mm
 
 6) Washer M6
 
-   - Quantity : 2x
+   - Quantity : 1x
    - Material : stainless  
    - Size : 8 x 16 x 1.6 mm  
 
@@ -207,7 +215,7 @@ Maybe better to use 1x Stainless steel Flat Washer Thickness 1mm
 
 7) Cap Nuts M8
 
-   - Quantity : 2x
+   - Quantity : 1x
    - Material : stainless  
 
   .. image:: figures/Cap_Nuts_M8-Machine-DIY_LM42P.JPG
@@ -290,10 +298,23 @@ Listing Parts
     :align: center	    
 
 Static Parts
-^^^^^^^^^^^^
+------------
+
 Listing Parts
-'''''''''''''
+^^^^^^^^^^^^^
+Square Bushing	    
+''''''''''''''
+Quantity : 2x
 
+.. image:: figures/Square_Bushing-Machine-DIY-LM42P.JPG
+    :width: 400
+    :align: center
+	    
+Square Bushing
+^^^^^^^^^^^^^^
 
+.. image:: figures/Square_Bushing_Exploded-Machine-DIY-LM42P.JPG	    
+    :width: 500
+    :align: center
 
 	    
