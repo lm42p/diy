@@ -18,6 +18,41 @@ Electrical Box
     :width: 500
     :align: center
 
+.. note::
+
+   There is another Electrical Box which is about 130$ cheaper but
+   15-20% slower and 40% less powerful (instead of 29 lbs thrust 17
+   lbs) The Box is 3D printed. 
+
+    .. image:: figures/CheapElectricalBox/Cheap_Electrical_Box-DIY-LM42P.JPG
+      :width: 300
+      :align: center
+   
+   
+   Driver : |CheapDriverAliexpress|
+
+   .. |CheapDriverAliexpress| raw:: html
+
+     <a href="https://www.aliexpress.com/item/32659074865.html?spm=a2g0s.9042311.0.0.27424c4dLziSPX"
+     target="_blank">Cheap Driver Aliexpress</a>
+
+   .. image:: figures/CheapElectricalBox/Cheap_Driver-Cheap-Electrical-Box-DIY-LM42P.JPG
+      :width: 300
+      :align: center
+	      
+   
+   Power 24V, 6A : |Power24V6AAliexpress|
+
+   .. |Power24V6AAliexpress| raw:: html
+
+     <a href="https://www.aliexpress.com/item/32589666765.html?spm=a2g0s.9042311.0.0.27424c4dOakSKw"
+     target="_blank">Power 24V 6A Aliexpress</a>
+     
+   .. image:: figures/CheapElectricalBox/Cheap_Power_24V_6A-Cheap-Electrical-Box-DIY-LM42P.JPG
+      :width: 300
+      :align: center
+	      
+   
 Listing Parts
 -------------
 

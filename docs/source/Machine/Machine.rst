@@ -16,8 +16,22 @@ Quantity : 1x
 
 Timing Pulley
 '''''''''''''
-Quantity : 1x
+- Quantity : 1x
+- Type : HTD3M Type 40T
+- Size : hole diameter = 8mm width =  16mm
 
+  .. |TimingPulleyAliexpress| raw:: html
+
+    <a href="https://www.aliexpress.com/item/32816074465.html?spm=a2g0s.9042311.0.0.27424c4dc8WrRN"
+    target="_blank">Aliexpress</a>
+  
+- Where to buy : |TimingPulleyAliexpress|
+
+.. image:: figures/Timing_Pulley-Machine-DIY-Machine.JPG
+    :width: 250
+    :align: center
+
+	    
 Timing Belt
 '''''''''''
 Quantity : 1x
