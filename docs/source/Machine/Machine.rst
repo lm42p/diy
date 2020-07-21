@@ -66,7 +66,7 @@ Quantity : 1x or 2x
 
 
 Idler Pulley Long Screw
------------------------
+^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: figures/Idler_Pulley_Long_Screw_Exploded-Machine-DIY-LM42P.JPG
     :width: 500
@@ -98,8 +98,9 @@ Listing Parts
    
    Maybe better to use 1x Stainless steel Flat Washer Thickness 1mm 
    (8x14x1mm) and 1x Stainless steel Flat Washer 0.5mm
-   (8x14x0.5). Because aluminum tends to crush when it's squeezed.   
-
+   (8x14x0.5). 1.5mm doesn't exist. Because aluminum tends to crush
+   when it's squeezed.
+   
 3) Flange Ball Bearing
 
   - Quantity : 2x
@@ -152,7 +153,7 @@ Listing Parts
 	    
 
 Idler Pulley Short Screw
-------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^
 
   .. image:: figures/Idler_Pulley_Short_Screw_Exploded-Machine-DIY-LM42P.JPG
     :width: 500
@@ -238,7 +239,7 @@ Listing Parts
 	    
 
 Belt Joint
-----------
+^^^^^^^^^^
 .. image:: figures/Belt_Joint_Exploded-Machine-DIY-LM42P.JPG
     :width: 400
     :align: center

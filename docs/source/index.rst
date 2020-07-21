@@ -53,6 +53,7 @@ LM42P.
 
    Machine/Machine	     
    ElectricalPart/ElectricalPart
+   Accessories/Accessories
    FasteningElements/FasteningElements
    Code/Code
    Donate
