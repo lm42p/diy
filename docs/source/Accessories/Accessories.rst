@@ -60,7 +60,11 @@ Operation Plan
 ''''''''''''''
 	 
 1) Prepare 220g silicon and 11g hardener
-
+2) Stir 5min
+3) Put a tape border on the plastic cup    
+4) Wait 20min to remove the bubles
+5) Fill in through one of the hole
+   
 Mold the Adapter
 ^^^^^^^^^^^^^^^^
 
