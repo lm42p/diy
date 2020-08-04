@@ -2,7 +2,15 @@
 Code
 ====
 
-Here is the Arduino code. I'm not a professional programmer. The code is a bit
+  .. |CodeArduino| raw:: html
+
+    <a href="https://github.com/lm42p/diy/blob/master/docs/source/Code/"
+    target="_blank">Code Arduio</a>
+
+
+Here is the Arduino code. You can download it from here :
+|CodeArduino|. 
+I'm not a professional programmer. The code is a bit
 messy sorry about that. At the begining I tried to use AccelStepper
 library for Arduino but couldn't get it work well. (couldn't reach an
 appropriate speeed I don't know why) so I remove AccelStepper library
@@ -29,3 +37,4 @@ during full speed, the stroke goes to its max. V4 avoid this and a
 reset is necessarily. Also V4 doesn't permit a too much high gradient
 of stroke change.  
 	      
+

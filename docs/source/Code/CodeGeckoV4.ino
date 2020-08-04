@@ -1,4 +1,4 @@
-// POUR NOUVEAUX
+// CodeGeckoV4.ino
 // Elimine le full stroke quand on débranche la Télécommande en pleine action. V3 -> V4
 // Comme le fait de lire la vitesse du potentiomètre prend relativement beaucoup de temps, cela réduit la vitesse de pulsation
 // de la pin 9. Pour parer à ceci le programme a été adapté pour lire la vitesse tous les 300 itérations à basse vitesse
