@@ -848,18 +848,18 @@ Wiring the Remote Control
    :scale: 70 %
    :align: center
 
-.. image:: figures/Remote-Control/RJ45_Show_Pin1-Remote-Control-Box-DIY-LM42P.png
-   :width: 100
-   :align: center	   
+.. image:: figures/Remote-Control/Standard_Ethernet_Cable_RJ45.gif
+   :width: 400
+   :align: center	   	   
 	   
-==============  ===========
-Remote-Control   RJ45 cable
-==============  ===========
-A0              6
-A1              5
-GND             8
-\+5V            7
-==============  ===========
+==============  ===========  ============
+Remote-Control   RJ45 cable   Wire Color
+==============  ===========  ============
+A0              6            G
+A1              5            b
+GND             8            BR
+\+5V            7            br
+==============  ===========  ============
 
 #. Strip the **RJ45 Cable** at 7cm
 #. Cut the unused wire
