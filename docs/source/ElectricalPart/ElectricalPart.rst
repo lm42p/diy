@@ -1022,21 +1022,41 @@ See the video :
 
 #. Unpacking and motor control. Plug the 4 wires on an **Electrical
    Box** and make it turn. This is important before making the
-   following steps. 
-#. Cut the **Cable Silicone 4 Cores** at 2.2m
-#. Cut the red wire at 47mm; cut the yellow at 57mm; cut the blue wire
-   at 67mm; cut the green wire at 77mm see following picture
+   following steps.
+#. There are two kinds of motor a 3A and a 4.2A each motor has their own
+   colors of wire. Depend on the Amps of the motor you use, cut the
+   wire as follow :
+   
+   #. Motor 3A :
+      
+      - red wire 47mm
+      - yellow 57mm
+      - blue 67mm
+      - green 77mm
+	
+      .. figure:: figures/Motor/Cut_Motor_Wire-Motor-DIY-LM42P.jpg
+        :width: 400
+        :align: center
 
-   .. image:: figures/Motor/Cut_Motor_Wire-Motor-DIY-LM42P.jpg
-     :width: 400
-     :align: center
-	     
+	3A motor with wires cutted 
+
+   #. Motor 4.2A :
+      
+      - red 47mm
+      - green 57mm
+      - black 67mm
+      -	blue 77mm
+	
 #. Stripping, twisting, tinning the motor wires to 5mm
 #. Cut the **Heat Shrink Tube** to 37mm length and tighten it with
    industrial foehn. The red wire should protrude about 5mm..     
+#. Cut the **Cable Silicone 4 Cores** at 2.2m
 #. Strip the **Cable Silicone 4 Cores** to 45mm.
-#. Cut the red wire on the **Cable Silicone 4 Cores** at 40mm; the
-   yellow wire at 30mm; the black wire at 20mm; the green wire at 10mm.
+#. Cut the wires on the **Cable Silicone 4 Cores** as follow:
+   - red 40mm
+   - yellow 30mm
+   - black 20mm
+   - green 10mm
 #. Strip, twist, tin-plate the cable wires to 5mm.
 #. Cut 4x **Heat Shrink Tube** at 13mm
 #. Put 13mm **Heat Shrink Tube** + **Tube Cable Holder** (pay
