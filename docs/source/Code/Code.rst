@@ -59,3 +59,8 @@ This video helps to understand how to update Firmware :
 #. Copy / paste the latest code from LM42P site
 #. Click compile button there should be no error
 #. Click upload button 
+
+.. note::
+
+   if there is a error during uploading then you should try to select
+   the good Port. Go to Tools -> Ports
