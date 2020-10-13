@@ -62,5 +62,5 @@ This video helps to understand how to update Firmware :
 
 .. note::
 
-   if there is a error during uploading then you should try to select
+   If there is a error during uploading then you should try to select
    the good Port. Go to Tools -> Ports

@@ -26,20 +26,24 @@ Listing Parts
       :width: 250
       :align: center
 
-- Wooden Screw Hole M5
+- Wooden Screw Hole M4
 
   - quantity = 4x
-  - diameter = M5
+  - diameter = M4
 
-    .. image:: figures/Wooden_Screw_Hole_M5-Storage-Box-DIY-LM42P.JPG
+    .. image:: figures/Wooden_Screw_Hole_M4-Storage-Box-DIY-LM42P.JPG
       :width: 250
       :align: center	      	      
 
-- Screw M5
+- Screw M4
 
     - quantity = 4x
-    - diameter = M5
-    - length = ...
+    - diameter = M4
+    - length = 10mm
+
+    .. image:: figures/Screw_M4-Storage-Box-DIY-LM42P.JPG
+      :width: 250
+      :align: center	      	            
 
 - Hinge
 
@@ -54,6 +58,28 @@ Listing Parts
     - quantity = 2x
     - material = stainless
 
+      .. image:: figures/Handle-DIY-LM42P.JPG
+        :width: 300
+        :align: center
+
 - Womdee 3mm
-- Double-sided Tape      
-- Wood Glue  
+
+    - quantity = a lot
+    - material = wood
+
+
+    .. image:: figures/Womdee_dia_3_length_22-Storage-Box-DIY-LM42P.JPG
+          :width: 200
+          :align: center
+  
+- Double-sided Tape
+
+        .. image:: figures/Double_Sided_Tape-DIY-LM42P.JPG
+          :width: 300
+          :align: center
+		
+- Wood Glue
+
+          .. image:: figures/Wood_Glue-DIY-LM42P.JPG
+            :width: 150
+            :align: center
