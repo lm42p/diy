@@ -1,6 +1,18 @@
 Storage Box
 ===========
 
+Video
+-----
+
+See the video that shows how to make the Storage Box step by step.  
+
+.. raw:: html
+
+    <iframe width="350" height="245"
+    src="https://youtube.com/embed/92ZsRvFD_6w"
+    frameborder="0" 
+    allowfullscreen></iframe>
+
 Listing Parts
 -------------
 
