@@ -2,6 +2,20 @@
 Machine
 =======
 
+Assembly
+--------
+
+Video
+^^^^^
+
+.. raw:: html
+
+    <iframe width="350" height="245"
+    src="https://www.youtube.com/embed/k691ffIHoc0?start=0&end=1542"
+    frameborder="0" 
+    allowfullscreen></iframe>
+
+
 .. image:: figures/Machine-DIY-LM42P.JPG
     :width: 500
     :align: center

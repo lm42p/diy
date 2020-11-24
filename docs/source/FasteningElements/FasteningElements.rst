@@ -1,6 +1,16 @@
 Fastening Elements
 ==================
 
+Video
+-----
+
+.. raw:: html
+
+    <iframe width="350" height="245"
+    src="https://www.youtube.com/embed/WM_JbWVXLaU?start=0&end=1841"
+    frameborder="0" 
+    allowfullscreen></iframe>
+
 Mast
 ----
 
