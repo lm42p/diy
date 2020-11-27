@@ -15,10 +15,37 @@ Video
     frameborder="0" 
     allowfullscreen></iframe>
 
+There is an error occured in this video the bolt should be mounted
+like on these images :
 
+.. image:: figures/HowTheAssemblyShouldBe1.JPG
+    :width: 500
+    :align: center
+
+.. image:: figures/HowTheAssemblyShouldBe2.JPG
+    :width: 500
+    :align: center	    
+    
+    
 .. image:: figures/Machine-DIY-LM42P.JPG
     :width: 500
     :align: center
+
+Listing Parts
+'''''''''''''
+- Rivets
+
+  - Quantity : 28
+  - Supplier : Debrunner
+  
+  .. image:: figures/RivetPop_2.JPG
+    :width: 150
+    :align: center
+	    
+  .. image:: figures/RivetPop.png
+    :width: 500
+    :align: center
+	    
 	    
 Moving Parts
 ------------

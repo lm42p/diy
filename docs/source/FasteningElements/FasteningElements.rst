@@ -54,17 +54,31 @@ Fastening bolt
 2. Deburr the bolt
 
    
-Silicone-Plate 60x40x3
-----------------------
+Silicon-Protection 60x40x3
+---------------------------
 
 .. image:: figures/Silicone-Plate-60x40x3.png
   :scale: 60 %
   :align: center
 
 1. Cut the plate with a cutter
-2. Cut wiht a cookie cutter  the hole diameter 6mm     
+2. Cut wiht a cookie cutter  the hole diameter 6mm
 
-   
+Silicon-Protection 80x100x8
+---------------------------
+
+From a silicon plate 200x200x8 cut 4x parts 80x100 see following figure.
+
+.. image:: figures/SiliconProtection.JPG
+  :width: 300
+  :align: center
+
+Silicon-Protection 40x50x8
+---------------------------
+
+From a silicon plate 200x200x8 cut 4x parts 40x50 mm see preceding figure.
+
+
 Allen Cone Head Screw
 ---------------------
 
