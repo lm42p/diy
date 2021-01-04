@@ -2,6 +2,28 @@
 Machine
 =======
 
+Casing
+------
+
+.. image:: figures/Casing-Machine-DIY-LM42P.PNG
+    :width: 500
+    :align: center
+
+Casing Motor Side
+-----------------
+
+.. image:: figures/Casing_Motor_Side-Machine-DIY-LM42P.PNG
+    :width: 500
+    :align: center	    
+
+Rod
+---
+
+.. image:: figures/Rod_Assembly-Machine-DIY-LM42P.PNG
+    :width: 500
+    :align: center	    
+
+
 Assembly
 --------
 
