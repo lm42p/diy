@@ -2,73 +2,55 @@
 Machine
 =======
 
+Static Parts
+------------
+
 Casing
-------
+^^^^^^
 
 .. image:: figures/Casing-Machine-DIY-LM42P.PNG
     :width: 500
     :align: center
 
 Casing Motor Side
------------------
+^^^^^^^^^^^^^^^^^
 
 .. image:: figures/Casing_Motor_Side-Machine-DIY-LM42P.PNG
     :width: 500
     :align: center	    
 
-Rod
----
-
-.. image:: figures/Rod_Assembly-Machine-DIY-LM42P.PNG
-    :width: 500
-    :align: center	    
-
-
-Assembly
---------
-
-Video
+Frame
 ^^^^^
 
-.. raw:: html
-
-    <iframe width="350" height="245"
-    src="https://www.youtube.com/embed/k691ffIHoc0?start=0&end=1542"
-    frameborder="0" 
-    allowfullscreen></iframe>
-
-There is an error occured in this video the bolt should be mounted
-like on these images :
-
-.. image:: figures/HowTheAssemblyShouldBe1.JPG
+.. image:: figures/Frame-Machine-DIY-LM42P.PNG
     :width: 500
     :align: center
 
-.. image:: figures/HowTheAssemblyShouldBe2.JPG
-    :width: 500
-    :align: center	    
-    
-    
-.. image:: figures/Machine-DIY-LM42P.JPG
+	    
+Square Bushing	    
+^^^^^^^^^^^^^^
+
+Quantity : 2x
+
+.. image:: figures/Square_Bushing-Machine-DIY-LM42P.JPG
+    :width: 400
+    :align: center
+	    
+.. image:: figures/Square_Bushing-Exploded-Machine-DIY-LM42P.JPG	    
     :width: 500
     :align: center
 
+.. image:: figures/Square_Bushing-Drawing-Machine-DIY-LM42P.PNG	    
+    :width: 500
+    :align: center	    	    
+
+	    
+	    
 Listing Parts
-'''''''''''''
-- Rivets
+^^^^^^^^^^^^^
 
-  - Quantity : 28
-  - Supplier : Debrunner
-  
-  .. image:: figures/RivetPop_2.JPG
-    :width: 150
-    :align: center
-	    
-  .. image:: figures/RivetPop.png
-    :width: 500
-    :align: center
-	    
-	    
+
+
 Moving Parts
 ------------
 Listing Parts
@@ -307,6 +289,8 @@ Belt Joint
     :width: 400
     :align: center
 
+
+
 	    
 Listing Parts
 '''''''''''''
@@ -375,24 +359,112 @@ Listing Parts
     :width: 180
     :align: center	    
 
-Static Parts
-------------
+Rod
+^^^
+
+.. image:: figures/Rod-DIY-LM42P.JPG
+      :width: 500
+      :align: center
+
+
 
 Listing Parts
-^^^^^^^^^^^^^
-Square Bushing	    
-''''''''''''''
-Quantity : 2x
+'''''''''''''
 
-.. image:: figures/Square_Bushing-Machine-DIY-LM42P.JPG
-    :width: 400
-    :align: center
-	    
-Square Bushing
-^^^^^^^^^^^^^^
-
-.. image:: figures/Square_Bushing_Exploded-Machine-DIY-LM42P.JPG	    
+#. Scare Tube 15 x 15 x 249
+   
+   .. image:: figures/Square_Tube_15_15_249-Machine-DIY-LM42P.PNG
     :width: 500
     :align: center
+	    
+#. Insert M4 x 12
+#. Magnet
+
+   .. image:: figures/Magnet-Rod-DIY-LM42P.JPG
+      :width: 200
+      :align: center
+
+   Pot magnet with threaded stud diam. 16mm Thread M4 strength
+   approx. 8kg
+
+   - Quantity : 1x
+   - Type : GTN-16
+
+
+   .. |PotMagnetSupermagnete| raw:: html
+
+     <a href="https://www.supermagnete.ch/eng/pot-magnets-with-threaded-stud/pot-magnet-with-threaded-stud-16mm_GTN-16"
+     target="_blank">supermagnete.ch</a>
+  
+   - Where to buy : |PotMagnetSupermagnete|
+
+   .. note::
+      It's important to buy at supermagnete because I bought some in
+      Aliexpress but the strength is lower than those bought at supermagnete
+  
+
+#. Spacer 25 / M6
+
+   
+Manufacturing Process
+'''''''''''''''''''''
+
+.. image:: figures/Rod_Assembly-Machine-DIY-LM42P.PNG
+    :width: 500
+    :align: center	      
+
+#. Cut the Square Tube 15 x 15 x 249 at length = 249mm
+#. Make the the Insert M4 x 12
+   
+
+Assembly
+--------
+
+Video
+^^^^^
+
+.. raw:: html
+
+    <iframe width="350" height="245"
+    src="https://www.youtube.com/embed/k691ffIHoc0?start=0&end=1542"
+    frameborder="0" 
+    allowfullscreen></iframe>
+
+There is an error occured in this video the bolt should be mounted
+like on these images :
+
+.. image:: figures/HowTheAssemblyShouldBe1.JPG
+    :width: 500
+    :align: center
+
+.. image:: figures/HowTheAssemblyShouldBe2.JPG
+    :width: 500
+    :align: center	    
+    
+    
+.. image:: figures/Machine-DIY-LM42P.JPG
+    :width: 500
+    :align: center
+
+Listing Parts
+'''''''''''''
+- Rivets
+
+  - Quantity : 28
+  - Supplier : Debrunner
+  
+  .. image:: figures/RivetPop_2.JPG
+    :width: 150
+    :align: center
+	    
+  .. image:: figures/RivetPop.png
+    :width: 500
+    :align: center
+	    
+	    
+
+
+	    
+
 
 	    
