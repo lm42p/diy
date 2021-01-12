@@ -8,23 +8,83 @@ Static Parts
 Casing
 ^^^^^^
 
+.. image:: figures/Casing-pic-Machine-DIY-LM42P.JPG
+    :width: 500
+    :align: center
+
+Video
+'''''
+This video shows how to make the Casing and the Casing Motor Side
+
+.. raw:: html
+
+    <iframe width="350" height="245"
+    src="https://www.youtube.com/embed/knJyQPlPn18"
+    frameborder="0" 
+    allowfullscreen></iframe>
+    
+
+Casing
+''''''
+
 .. image:: figures/Casing-Machine-DIY-LM42P.PNG
     :width: 500
     :align: center
 
 Casing Motor Side
-^^^^^^^^^^^^^^^^^
+'''''''''''''''''
 
 .. image:: figures/Casing_Motor_Side-Machine-DIY-LM42P.PNG
     :width: 500
     :align: center	    
 
+	    
+Jig Casing
+''''''''''
+
+   .. image:: figures/Jig_Casing-3DModel-Machine-DIY-LM42P.PNG
+    :width: 500
+    :align: center	    
+
+	    
+  - Drill Bush material : brass
+  - STL file -> |JigCasingSTL|
+
+  .. |JigCasingSTL| raw:: html
+
+    <a href="https://www.thingiverse.com/thing:4719536/files"
+    target="_blank">Jig Casing STL</a>
+
+	    
 Frame
 ^^^^^
 
 .. image:: figures/Frame-Machine-DIY-LM42P.PNG
     :width: 500
     :align: center
+
+Video
+'''''
+
+This video shows how to make the Frame :
+
+.. raw:: html
+
+    <iframe width="350" height="245"
+    src="https://www.youtube.com/embed/J1oeEkLgkek"
+    frameborder="0" 
+    allowfullscreen></iframe>
+
+    
+Large Frame
+'''''''''''
+
+
+Medium Frame
+''''''''''''
+
+Small Frame
+'''''''''''
 
 	    
 Square Bushing	    
@@ -45,12 +105,6 @@ Quantity : 2x
     :align: center	    	    
 
 	    
-	    
-Listing Parts
-^^^^^^^^^^^^^
-
-
-
 Moving Parts
 ------------
 Listing Parts
@@ -263,7 +317,7 @@ Listing Parts
     :width: 200
     :align: center
 
-6) Washer M6
+6) Washer M8
 
    - Quantity : 1x
    - Material : stainless  
@@ -285,33 +339,61 @@ Listing Parts
 
 Belt Joint
 ^^^^^^^^^^
-.. image:: figures/Belt_Joint_Exploded-Machine-DIY-LM42P.JPG
+
+.. image:: figures/Belt_Joint_Pic-Machine-DIY-LM42P.JPG
     :width: 400
     :align: center
 
+Video
+'''''
 
+This video shows how to make the Belt Joint
 
+.. raw:: html
+
+    <iframe width="350" height="245"
+    src="https://www.youtube.com/embed/40f_kVVAy8c"
+    frameborder="0" 
+    allowfullscreen></iframe>
+    
 	    
 Listing Parts
 '''''''''''''
 
+.. image:: figures/Belt_Joint_Exploded-Machine-DIY-LM42P.JPG
+    :width: 400
+    :align: center
+
 1. Base Belt Joint
-
-  - Quantity : 1x
-  - Material : 3D printed PLA (innerfill = 100%)
-
-.. image:: figures/Base_Belt_Joint-Machine-DIY-LM42P.JPG
+   
+   .. image:: figures/Base_Belt_Joint-Machine-DIY-LM42P.JPG
     :width: 350
     :align: center
+	    
+  - Quantity : 1x
+  - Material : 3D printed PLA (innerfill = 100%)
+  - STL file -> |BaseBeltJointSTL|
+
+  .. |BaseBeltJointSTL| raw:: html
+
+    <a href="https://www.thingiverse.com/thing:4718335/files"
+    target="_blank">Base Belt Joint STL</a>
+
 
 2. Counterpart Base Belt Joint 
 
-  - Quantity : 1x
-  - Material : 3D printed PLA (innerfill = 100%)
-
-.. image:: figures/Counterpart_Base_Belt_Joint-Machine-DIY-LM42P.JPG
+   .. image:: figures/Counterpart_Base_Belt_Joint-Machine-DIY-LM42P.JPG
     :width: 350
     :align: center
+   
+  - Quantity : 1x
+  - Material : 3D printed PLA (innerfill = 100%)
+  - STL file -> |ConterPartBaseBeltJointSTL|
+
+  .. |ConterPartBaseBeltJointSTL| raw:: html
+
+    <a href="https://www.thingiverse.com/thing:4714825/files"
+    target="_blank">Counterpart Base Belt Joint STL</a>
 
 3. Spacer Metal Disc
 
@@ -366,8 +448,19 @@ Rod
       :width: 500
       :align: center
 
+Video
+'''''
 
+This video shows how to make the Rod
 
+.. raw:: html
+
+    <iframe width="350" height="245"
+    src="https://www.youtube.com/embed/hlsWKp7FWDQ"
+    frameborder="0" 
+    allowfullscreen></iframe>
+
+    
 Listing Parts
 '''''''''''''
 
@@ -430,8 +523,8 @@ Video
     frameborder="0" 
     allowfullscreen></iframe>
 
-There is an error occured in this video the bolt should be mounted
-like on these images :
+There is an error occured in this video the bolts (in red) should be
+mounted like on these images : 
 
 .. image:: figures/HowTheAssemblyShouldBe1.JPG
     :width: 500
