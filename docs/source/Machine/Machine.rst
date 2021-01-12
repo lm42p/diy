@@ -8,10 +8,11 @@ Static Parts
 Casing
 ^^^^^^
 
-.. image:: figures/Casing-pic-Machine-DIY-LM42P.JPG
+.. image:: figures/Casing-Pic-Machine-DIY-LM42P.JPG
     :width: 500
     :align: center
 
+	    
 Video
 '''''
 This video shows how to make the Casing and the Casing Motor Side
@@ -42,18 +43,18 @@ Casing Motor Side
 Jig Casing
 ''''''''''
 
-   .. image:: figures/Jig_Casing-3DModel-Machine-DIY-LM42P.PNG
+.. image:: figures/Jig_Casing-3DModel-Machine-DIY-LM42P.PNG
     :width: 500
     :align: center	    
+       
+- Drill Bush material : brass
+  
+- STL file -> |JigCasingSTL|
 
-	    
-  - Drill Bush material : brass
-  - STL file -> |JigCasingSTL|
+.. |JigCasingSTL| raw:: html
 
-  .. |JigCasingSTL| raw:: html
-
-    <a href="https://www.thingiverse.com/thing:4719536/files"
-    target="_blank">Jig Casing STL</a>
+  <a href="https://www.thingiverse.com/thing:4719536/files"
+  target="_blank">Jig Casing STL</a>
 
 	    
 Frame
