@@ -47,8 +47,6 @@ Jig Casing
     :width: 500
     :align: center	    
        
-- Drill Bush material : brass
-  
 - STL file -> |JigCasingSTL|
 
 .. |JigCasingSTL| raw:: html
@@ -56,9 +54,19 @@ Jig Casing
   <a href="https://www.thingiverse.com/thing:4719536/files"
   target="_blank">Jig Casing STL</a>
 
-	    
+- Drill Bush (to be hunted in jig) material : brass 
+
+  .. image:: figures/DrillBush.PNG
+      :width: 300
+      :align: center	    
+  
 Frame
 ^^^^^
+
+.. image:: figures/Frame-Pic-Machine-DIY-LM42P.JPG
+    :width: 500
+    :align: center
+	    
 
 .. image:: figures/Frame-Machine-DIY-LM42P.PNG
     :width: 500
@@ -80,34 +88,192 @@ This video shows how to make the Frame :
 Large Frame
 '''''''''''
 
+.. image:: figures/Large_Frame-Pic-Machine-DIY-LM42P.JPG
+    :width: 500
+    :align: center
 
+**Jig Drill Large Frame**
+
+  .. image:: figures/Jig_Drill_Large_Frame-Pic-Machine-DIY-LM42P.JPG
+       :width: 500
+       :align: center	    	    
+
+STL file -> |JigDrillLargeFrameSTL|
+
+.. |JigDrillLargeFrameSTL| raw:: html
+
+  <a href="https://www.thingiverse.com/thing:4722636/files"
+  target="_blank">Jig Drill Large Frame STL</a>	       
+
+  
 Medium Frame
 ''''''''''''
+
+.. image:: figures/Medium_Frame-Pic-Machine-DIY-LM42P.JPG
+    :width: 500
+    :align: center
+
+**Jig Drill Medium Frame**
+
+  .. image:: figures/Jig_Drill_Medium_Frame-Pic-Machine-DIY-LM42P.JPG
+       :width: 500
+       :align: center	    	    
+
+STL file -> |JigDrillMediumFrameSTL|
+
+.. |JigDrillMediumFrameSTL| raw:: html
+
+  <a href="https://www.thingiverse.com/thing:4723118/files"
+  target="_blank">Jig Drill Medium Frame STL</a>
+
+
+**Jig Bend Medium Frame**
+
+  .. image:: figures/Jig_Bend_Medium_Frame-Pic-Machine-DIY-LM42P.JPG
+       :width: 500
+       :align: center	    	    
+
+STL file -> |JigBendMediumFrameSTL|
+
+.. |JigBendMediumFrameSTL| raw:: html
+
+  <a href="https://www.thingiverse.com/thing:4723155/files"
+  target="_blank">Jig Bend Medium Frame STL</a>
+
+**Angle Gauge Medium Frame**
+
+  .. image:: figures/Angle_Gauge_Medium_Frame-Pic-Machine-DIY-LM42P.JPG
+       :width: 500
+       :align: center	    	    
+
+STL file -> |AngleGaugeMediumFrameSTL|
+
+.. |AngleGaugeMediumFrameSTL| raw:: html
+
+  <a href="https://www.thingiverse.com/thing:4723181/files"
+  target="_blank">Angle Gauge Medium Frame STL</a>    
+  
 
 Small Frame
 '''''''''''
 
-	    
-Square Bushing	    
-^^^^^^^^^^^^^^
-
-Quantity : 2x
-
-.. image:: figures/Square_Bushing-Machine-DIY-LM42P.JPG
-    :width: 400
-    :align: center
-	    
-.. image:: figures/Square_Bushing-Exploded-Machine-DIY-LM42P.JPG	    
+.. image:: figures/Small_Frame-Pic-Machine-DIY-LM42P.JPG
     :width: 500
     :align: center
 
-.. image:: figures/Square_Bushing-Drawing-Machine-DIY-LM42P.PNG	    
+**Jig Drill Small Frame**
+
+  .. image:: figures/Jig_Drill_Small_Frame-Pic-Machine-DIY-LM42P.JPG
+       :width: 500
+       :align: center	    	    
+
+STL file -> |JigDrillSmallFrameSTL|
+
+.. |JigDrillSmallFrameSTL| raw:: html
+
+  <a href="https://www.thingiverse.com/thing:4723209/files"
+  target="_blank">Jig Drill Small Frame STL</a>	       
+
+	    
+Bushing
+^^^^^^^
+
+.. image:: figures/Bushing-Pic-Machine-DIY-LM42P.JPG	    
+    :width: 500
+    :align: center
+
+Video
+'''''
+
+This video shows how to make the Bushing.
+
+.. raw:: html
+
+    <iframe width="350" height="245"
+    src="https://www.youtube.com/embed/c_V-n5I3b1s"
+    frameborder="0" 
+    allowfullscreen></iframe>
+    
+
+Quantity : 2x
+
+.. image:: figures/Bushing-Machine-DIY-LM42P.JPG
+    :width: 400
+    :align: center
+	    
+.. image:: figures/Bushing-Exploded-Machine-DIY-LM42P.JPG	    
+    :width: 500
+    :align: center
+
+	    
+Bushing Sleeve
+''''''''''''''
+
+.. image:: figures/Bushing_Sleeve-Machine-DIY-LM42P.JPG	    
+    :width: 500
+    :align: center
+
+- Material : nylon
+- STL file -> |BushingSleeveSTL|
+
+.. |BushingSleeveSTL| raw:: html
+
+    <a href="https://www.thingiverse.com/thing:4720838/files"
+    target="_blank">Bushing Sleeve STL</a>
+
+    
+Bushing Shell
+'''''''''''''
+
+.. image:: figures/Bushing_Shell-Pic-Machine-DIY-LM42P.JPG
+    :width: 500
+    :align: center
+	    
+.. image:: figures/Bushing_Shell-Drawing-Machine-DIY-LM42P.PNG	    
     :width: 500
     :align: center	    	    
 
 	    
+**Jig Drill Bushing Shell**
+
+  .. image:: figures/Jig_Drill_Bushing_Shell-Pic-Machine-DIY-LM42P.JPG
+       :width: 500
+       :align: center	    	    
+
+STL file -> |JigDrillBushingShellSTL|
+
+.. |JigDrillBushingShellSTL| raw:: html
+
+  <a href="https://www.thingiverse.com/thing:4723355/files"
+  target="_blank">Jig Drill Bushing Shell STL</a>	       
+	    
+
+Spacer
+^^^^^^
+
+.. image:: figures/Spacer-Pic-Machine-DIY-LM42P.JPG	    
+    :width: 500
+    :align: center
+
+	    
+This video shows how to make the Spacer.
+
+.. raw:: html
+
+    <iframe width="350" height="245"
+    src="https://www.youtube.com/embed/c_V-n5I3b1s?start=267&end=314"
+    frameborder="0" 
+    allowfullscreen></iframe>	    
+
+	 
+.. image:: figures/Spacer-Drawing-Machine-DIY-LM42P.JPG	    
+    :width: 500
+    :align: center    
+
+	    
 Moving Parts
 ------------
+
 Listing Parts
 ^^^^^^^^^^^^^
 Motor
