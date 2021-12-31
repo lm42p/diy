@@ -1,6 +1,26 @@
+
 ===========
 Accessories
 ===========
+
+Suction Cup Dildo Adapter
+-------------------------
+
+This is the files to print the Suction Cup Dildos Adapter. It is made
+of two parts: one is the above and the under part. With a screw it is
+clamped on a aluminium scare tube of size 15mm. 
+
+.. image:: figures/Suction_Cup_Dildos_Adapter-LM42P.jpg
+    :width: 500
+    :align: center
+
+STL file -> |SuctionCupAdapterSTL|
+
+.. |SuctionCupAdapterSTL| raw:: html
+
+  <a href="https://www.thingiverse.com/thing:5180478/files"
+  target="_blank">Suction Cup Adapter STL</a>
+  
 
 Vac u Lock Adapter
 ------------------
@@ -35,3 +55,4 @@ Mold the Adapter
 1) Use a 50mm long M6 bolt
 2) Prepare 20g cast and 20g hardener
 3) Stir really slowly   
+
