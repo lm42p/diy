@@ -587,6 +587,12 @@ Wiring
     :width: 500
     :align: center
 
+
+.. image:: figures/Shagmatic-Arduino-Gecko-LM42P.JPG
+    :width: 500
+    :align: center
+
+	    
 See video :
 
 .. raw:: html
