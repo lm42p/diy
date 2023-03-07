@@ -330,7 +330,8 @@ Threadlocker Glue
   
 .. image:: figures/Threadlocker_Glue-Electrical-Box-DIY-LM42P.JPG
     :width: 170
-    :align: center	      
+    :align: center
+	
        
 Operation Plan
 --------------
@@ -363,6 +364,12 @@ Material : aluminium
     :align: center
 
     U Base
+
+.. figure:: figures/UbaseESP32Modified/UBaseESP32Modified.PNG
+    :width: 500
+    :align: center
+
+    U Base ESP (modified)    
 
 .. figure:: figures/U_Top-Drawing-Electrical-Box-DIY-LM42P.PNG
     :width: 500
