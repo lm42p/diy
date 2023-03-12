@@ -521,19 +521,34 @@ See Video :
 Set Geckodrive current limit
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+This operation limits the current so that the motor will not overheat.
+I tested with 5A and it looks like the motor is a bit overheaten. But
+thats ok if the machine is used less than about 10min. To be sure the
+motor is not overheaten I recommand to set the current at 4.2Amps.
+
 - For G203V :
 
   Connect a resistor of 120kOhms between pin 11 and 12 of the 
-  GECKODRIVE. This will limit MOTOR current by 5A.
+  GECKODRIVE. This will limit MOTOR current by 5A. (for 4.2A please
+  refer to datasheet)
 
 - For G201X :
 
-  set the switches like the following figure
+  - if machine used for less than 10min set to 5A
 
-  .. image:: figures/Switch_5A_G201X-Electrical-Box-DIY-LM42P.png
+    set the switches like the following figure
+
+    .. image:: figures/Switch_5A_G201X-Electrical-Box-DIY-LM42P.png
   	:scale: 70 %
  	:align: center
-		
+
+  - if machine used more than 10min set to 4.2A
+
+    set the switches like the following figure
+
+    .. image:: figures/Geckodrive/setCurrentGecko4_2A.PNG
+  	:scale: 100 %
+ 	:align: center
    
 Screw the Power 36V and Geckodrive on the U Base
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
