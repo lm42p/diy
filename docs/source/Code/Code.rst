@@ -22,7 +22,7 @@ library accelStepper. The speed isn't so high as the original one
 (CodeGeckoVx.ino) but it afford more reliability when the move change
 direction (espacielly with big loads). That code is called
 **CodeGeckoAccelStepVx.ino**. Find the latest code underneath. Sorry
-the comments in the code are in french, I'll translate them soon!  
+the comments in the code are in french, I'll translate them soon! Thanks.
 
 Maybe this video can help to understand the code
 
