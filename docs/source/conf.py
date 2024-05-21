@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'lm42p-diy'
-copyright = '2019, lm42p'
+copyright = '2024, lm42p'
 author = 'lm42p'
 
 # The full version, including alpha/beta/rc tags

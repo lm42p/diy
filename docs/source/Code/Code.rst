@@ -17,7 +17,7 @@ appropriate speeed I don't know why) so I remove AccelStepper library
 and tried to do something and it worked not badly. The code are named:
 **CodeGeckoVx.ino**. But after that a few person ask me to remove the
 jump of speed at 90% of the speed knob and to improve the moves when
-heavy dildos are used around 2kg, I made another version using the
+heavy dildos are used at around 2kg, I made another version using the
 library accelStepper. The speed isn't so high as the original one
 (CodeGeckoVx.ino) but it afford more reliability when the move change
 direction (espacielly with big loads). That code is called
