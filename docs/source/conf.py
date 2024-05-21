@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'lm42p-diy'
+copyright = '2024, LM42P'
+author = 'lm42p'
 
 release = '0.1'
 version = '0.1.0'
